@@ -1,0 +1,427 @@
+,compound,spacegroup,spacegroup_number,wyckoff_positions,atomic_species,number_of_atoms,cif_path,label
+10,C1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+43,Bi1 I3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+45,Bi3 Y5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+51,C1 Cr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+53,C1 Fe2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+55,C1 Fe3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+56,C1 Fe3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+68,C1 Mo3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+71,C1 Ni3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+86,C2 Cr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+87,C2 Cr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+96,C3 Cr7,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+97,C3 Fe7,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+125,Co1 P1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+127,Co1 Y3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+148,Cu1 Y1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+158,Dy2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+162,Er2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+170,Fe1 O1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+174,Fe1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+176,Fe1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+189,Fe3 O4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+196,Fe3 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+209,Ga5 Y3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+218,Gd2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+222,Ge2 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+229,H2 Mo1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+246,H3 Sb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+257,Hf1 P2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+261,Hf3 P2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+272,F6 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+273,F6 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+295,H4 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+356,O2 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+369,O3 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+381,O3 Y2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+386,O5 P2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+388,O5 V2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+401,O9 V4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+409,P4 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+417,S2 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+421,S3 Y2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+424,S5 U3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+492,As2 O4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+498,As3 V5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+501,As4 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+506,Au1 F5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+516,B1 Co1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+519,B1 Li1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+526,B2 Fe1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+533,B4 Mg1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+544,Ba1 F2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+546,Ba1 I2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+567,Ba5 P4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+585,Bi1 F3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+608,Bi2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+620,Br3 P1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+624,Br7 P1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+628,C1 Fe3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+631,C1 Hf3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+637,C1 Mg2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+655,C1 Si3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+658,C1 Ti3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+663,C2 Ba1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+672,C2 Cr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+674,C2 Cs2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+680,C2 Li2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+686,C2 Rb2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+699,C3 Cr7,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+701,C3 Fe7,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+709,C3 Mg2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+723,Ca1 F2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+746,Cd1 F2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+770,Ho2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+781,In5 Y3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+790,Ir1 Y3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+808,Mn1 P1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+826,N1 Na3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+852,N5 Ta3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+858,Nd2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+861,Ni1 S2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+869,Np2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+880,O2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+892,O3 Rh2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+893,O3 Rh2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+909,P1 Sc3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+915,P2 Ti1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+917,P2 Zr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+930,Pr2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+931,Pt1 Y2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+961,S3 Tm2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+963,S3 Yb2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+964,S4 Yb3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+967,Se2 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+968,Se3 U2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+970,Se5 U3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+971,Si1 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+984,Te3 U2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+985,Te5 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+986,Te5 U3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+988,Ag1 Eu1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1070,As1 Co1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1078,As1 Mn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1085,As1 Rh1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1086,As1 Rh1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1095,As2 Hf1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1096,As2 Hf3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1104,As2 Zr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1105,As2 Zr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1113,As3 Sc5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1126,Au1 Eu1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1127,Au1 Eu3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1128,Au1 Ga1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1131,Au1 La1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1155,Au4 Hf1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1159,Au4 Zr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1175,Ba1 Hg6,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1200,Ba2 Ge1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1202,Ba2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1204,Ba2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1261,Bi3 Co1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1263,Bi3 Rh1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1264,Bi3 Sc5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1300,Ca1 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1305,Ca2 Hg1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1309,Ca3 Hg1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1311,Ca3 Pd1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1316,Ca7 Ge6,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1317,Ca7 Sn6,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1337,Ce1 Cu6,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1339,Ce1 Ge1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1352,Ce1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1356,Ce1 Zn3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1361,Ce2 Te3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1362,Ce3 Os1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1365,Ce5 Ge4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1366,Ce5 Rh4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1378,Cl2 Nd1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1387,Co1 La3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1388,Co1 Lu3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1393,Co1 Sc3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1395,Co2 Ge1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1398,Co2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1399,Co2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1426,Cr1 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1448,Cu1 Eu1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1450,Cu1 La1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1451,Cu1 Pr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1463,Cu4 Ti1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1467,Cu6 Gd1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1469,Cu6 Nd1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1470,Cu6 Pu1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1472,Cu6 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1474,Cu8 Hf3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1475,Cu8 Zr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1483,Dy1 Ni1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1487,Dy1 Pd1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1488,Dy1 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1494,Dy1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1502,Dy2 Se3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1506,Dy3 Ni1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1513,Er1 Ni1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1515,Er1 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+1524,Ce1 S2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1526,Ce2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1528,Cl1 F3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1532,Cl1 K1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1544,Cl3 N1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1545,Cl3 P1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1584,Cs1 I1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1588,Cs1 I3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1594,Cs2 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1617,Eu1 F3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1626,Eu2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1639,F2 Ge1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1642,F2 Hg1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1650,F2 Mg1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1655,F2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1661,F2 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1666,F2 Xe1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1672,F3 Ho1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1689,F3 Tb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1690,F3 Tl1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1714,F6 Mo1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1715,F6 Os1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1717,F6 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1719,F6 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1763,Fe3 O4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1788,Gd2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1802,Ge1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1810,Ge3 N4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1824,H2 Ba1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1829,H2 Ca1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1832,H2 Mg1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1840,H2 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1844,H2 Yb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1875,Hf1 O2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1891,Hg1 O1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1914,I1 Te2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1932,I2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1939,I2 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1949,I3 Rb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1953,I3 Tl1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+1980,Ir1 S2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+2002,Er1 Zn3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2005,Er2 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2007,Er3 Os1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2012,Eu3 Rh1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2025,Fe1 Se1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2028,Fe1 Se1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2080,Ga2 Pd5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2102,Ga5 Lu3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2116,Gd1 Ni1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2120,Gd1 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2132,Gd2 Se3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2134,Gd3 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2137,Gd5 Si4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2143,Ge1 Ni1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2145,Ge1 Ni2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2147,Ge1 Pd1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2148,Ge1 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2150,Ge1 Rh2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2158,Ge1 Zr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2161,Ge2 Mo1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2166,Ge2 Pt3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2176,Ge3 Pt2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2177,Ge3 Pt2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2181,Ge4 Ti5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2186,Ge6 Sr7,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2199,Hf1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2218,Hg1 Mg2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2219,Hg1 Sr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2241,In3 Ir1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2250,Ir1 La3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2253,Ir1 Lu3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2256,Ir1 Tm3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2260,Ir2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2269,Er1 Pd2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2271,Er1 Pd1 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2272,Er1 Pd1 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2274,Er1 Ni5 Si3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2277,Er1 Ni1 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2284,Er1 Ge3 Ni5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2295,Lu2 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2305,Mg2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2339,Mo4 O11,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2364,Nd1 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2366,Nd1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2375,Nd1 Zn3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2379,Nd3 Ni1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2380,Nd3 Ru1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2387,Ni1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2394,Ni1 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2395,Ni1 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2413,Ni2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2417,Ni3 Sn2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2450,Pb1 Sr2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2463,Pb4 Sr5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2465,Pd1 Pu1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2467,Pd1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2468,Pd1 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2472,Pd1 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2476,Pd1 Yb3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2480,Pd2 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2497,Pd9 Si2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2504,Pt1 Sc2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2505,Pt1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2507,Pt1 Tb2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2514,Pt1 Tm2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2526,Pt3 Sr7,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2531,Pt4 Sr5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2541,Pu1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2548,Pu2 Se3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2551,Rh1 Sb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2555,Rh2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2556,Rh2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2557,Rh2 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2565,Ru4 Si3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2573,Sb2 Se3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2587,Sb3 Sc5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2591,Sc2 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2596,Se1 Ti2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2604,Se3 Tb2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2610,Si1 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2615,Si1 Ti1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2617,Si1 Zr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2652,Sn4 Th5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2657,Sr1 Zn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2659,Sr1 Zn5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2665,Te1 Zr2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2714,C2 U1 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2740,H4 B1 K1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2814,B1 Co1 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2841,C2 Dy1 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2842,C2 Er1 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2845,C2 Mo1 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2849,C2 Pu1 W1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2863,Ce1 P1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2864,Ce2 S5 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2873,Dy1 P1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2874,Dy2 O1 S2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2879,Er1 P1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2891,F1 Se1 Y1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2894,F4 K1 Ti1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2897,Fe1 K2 O4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2900,Fe1 P1 V1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2905,Fe5 P3 Y1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2907,Gd1 P1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2909,Gd2 S5 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2918,K2 O4 Ru1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2919,La1 N3 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2920,La1 S3 V1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2926,Mn1 O3 V1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2928,Mn1 O4 P1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2933,Mn5 P3 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2944,Ni1 P1 V1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2946,Ni1 S3 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2957,O10 P2 W2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2962,O3 Tm1 V1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2966,O4 Pb1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2968,O4 S1 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2980,P1 Pr1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2981,P1 S1 Tb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2982,P1 S1 Tm1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2987,Pu2 S5 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2990,Ru1 S3 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2992,S1 Te1 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2993,S5 Ti1 U2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+2994,S5 U2 Zr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3033,Al1 Ho1 O3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3043,Al1 O3 Tb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3044,Al1 Pd1 Y1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3045,Al1 Pt1 Y1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3065,As1 Ni1 V1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3094,B1 Co1 Mo1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3095,B1 Co1 Mo1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3120,B2 Co1 Nb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3121,B2 Co1 Ta1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3129,B2 Er1 Os1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3130,B2 Er1 Ru1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,TI
+3143,Hg3 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3147,Ho2 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3167,Ge4 Hf5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3195,Ge1 Se1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3200,Ge1 Sr2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3202,Ge1 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3206,Ge1 Yb2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3209,Ge2 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3229,Gd1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3233,Gd2 Pt1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3234,Gd2 Se3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3235,Gd5 Ge4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3262,Ga1 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3269,Er1 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3275,Eu2 Ge1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3276,Eu2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3278,Eu2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3290,Fe1 Se1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3293,Cs2 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3298,Cs4 Sb2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3340,Cs2 Se1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3354,Cl5 Mo1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3369,Cl3 Na1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3374,Cl3 Sb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3397,Cl2 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3428,Cl2 Hg1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3437,Cl2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3450,Ce5 Ir4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3451,Ce5 Sn4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3474,Cd1 Se1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3503,Ca2 Ge1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3506,Ca2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3509,Ca2 Si1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3512,Ca2 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3529,Br5 Nb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3532,Br5 Ta1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3542,Br2 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3550,Br3 Cs1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3560,Br3 Sb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3570,Br1 Te2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3587,Br2 Pb1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3590,Br2 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3595,Bi2 Se3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3647,Ba1 Si2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3652,Ba2 Ge4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3654,Ba2 Si4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3655,Ba2 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3661,Ba5 Sb4,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3681,Ba1 Br2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3685,Ba1 Cl2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3687,Ba1 Ge2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3697,As4 Se3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3736,As2 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3823,Ag1 Sr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3824,Ag1 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3848,Se2 U1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3860,Te5 U3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3874,S2 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3877,S2 Ti1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3884,S3 Sb2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3887,S3 Sn2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3889,S3 Th2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3891,Rb2 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3901,S1 Sn1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3928,Pb1 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3942,P2 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3948,P3 Re1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3952,P3 Tc1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+3992,O3 Ti2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4023,O2 Zr1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4041,O2 Te1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4048,O2 Th1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4055,O2 Ti1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4166,N4 Zr3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4174,Na1 P5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4179,Na2 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4185,Na2 S5,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4206,N4 Si3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4216,Mo1 O2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4220,Mo1 O3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4259,Mo1 N2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4280,Lu2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4295,La2 S3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4307,Li2 S1,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4324,K2 Te3,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
+4340,La1 S2,Pnma,62,"4a,4c,8d,4c,8d,8d,8d,4c,4c,4c,4c,4c,4c","['Ag', 'Mo', 'O']",68,cifs_linked/mp-1205258.cif,Trivial
