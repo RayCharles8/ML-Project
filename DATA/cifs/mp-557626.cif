@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Gd2TiO5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   10.49807509
+_cell_length_b   3.74584840
+_cell_length_c   11.34388027
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Gd2TiO5
+_chemical_formula_sum   'Gd8 Ti4 O20'
+_cell_volume   446.08899132
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  4  0.11162412  0.25000000  0.27778797  1
+  Gd  Gd1  4  0.13658981  0.25000000  0.94339832  1
+  Ti  Ti2  4  0.17711957  0.25000000  0.62060251  1
+  O  O3  4  0.00677350  0.75000000  0.89554917  1
+  O  O4  4  0.01167415  0.25000000  0.65561239  1
+  O  O5  4  0.22416039  0.25000000  0.45906189  1
+  O  O6  4  0.23507672  0.75000000  0.61790214  1
+  O  O7  4  0.23998893  0.75000000  0.27005159  1

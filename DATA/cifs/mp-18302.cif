@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mn2MoP12
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   15.95988657
+_cell_length_b   5.71346500
+_cell_length_c   10.55886731
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.94593845
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Mn2MoP12
+_chemical_formula_sum   'Mn8 Mo4 P48'
+_cell_volume   865.77793702
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  8  0.18059948  0.19082948  0.54598817  1
+  Mo  Mo1  4  0.00000000  0.30510184  0.75000000  1
+  P  P2  8  0.03301186  0.04551115  0.42678755  1
+  P  P3  8  0.06180783  0.35942536  0.16681086  1
+  P  P4  8  0.11670967  0.55216183  0.50484969  1
+  P  P5  8  0.15351105  0.82505444  0.24140004  1
+  P  P6  8  0.17800906  0.17567641  0.33647590  1
+  P  P7  8  0.22711258  0.17725442  0.07499780  1

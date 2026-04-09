@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ag5GeO4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.44040358
+_cell_length_b   9.89279619
+_cell_length_c   11.03169848
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.02040547
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ag5GeO4
+_chemical_formula_sum   'Ag20 Ge4 O16'
+_cell_volume   582.56498053
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  4  0.07158963  0.58451742  0.91020519  1
+  Ag  Ag1  4  0.20066648  0.12259689  0.92501681  1
+  Ag  Ag2  4  0.32370968  0.59379549  0.30239786  1
+  Ag  Ag3  4  0.34684772  0.62458806  0.55824989  1
+  Ag  Ag4  4  0.39996036  0.14412158  0.61823780  1
+  Ge  Ge5  4  0.24683954  0.11296220  0.25862435  1
+  O  O6  4  0.08081320  0.20932419  0.09528805  1
+  O  O7  4  0.11421910  0.14009723  0.36129130  1
+  O  O8  4  0.21935397  0.56306245  0.72224861  1
+  O  O9  4  0.43224092  0.65534706  0.14233652  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaBeF4
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   8.89148016
+_cell_length_b   5.26519531
+_cell_length_c   7.06970711
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   BaBeF4
+_chemical_formula_sum   'Ba4 Be4 F16'
+_cell_volume   330.97102228
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.18664905  0.25000000  0.15429427  1
+  Be  Be1  4  0.05427906  0.25000000  0.69175872  1
+  F  F2  8  0.07963079  0.01209414  0.81979182  1
+  F  F3  4  0.11028490  0.75000000  0.37444208  1
+  F  F4  4  0.17595086  0.25000000  0.53655967  1

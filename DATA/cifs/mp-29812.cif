@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2CoCl6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.23340100
+_cell_length_b   8.18976800
+_cell_length_c   15.86150469
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.46086758
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ba2CoCl6
+_chemical_formula_sum   'Ba8 Co4 Cl24'
+_cell_volume   976.95629763
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.06640500  0.60950500  0.20501500  1
+  Ba  Ba1  4  0.47318400  0.72011300  0.09551400  1
+  Co  Co2  4  0.20049500  0.14291100  0.06774800  1
+  Cl  Cl3  4  0.12769700  0.64567200  0.57270800  1
+  Cl  Cl4  4  0.14092200  0.23331100  0.19720600  1
+  Cl  Cl5  4  0.21304700  0.07920600  0.53872000  1
+  Cl  Cl6  4  0.25019000  0.07164100  0.93007400  1
+  Cl  Cl7  4  0.28611300  0.60098200  0.86641800  1
+  Cl  Cl8  4  0.49584600  0.58048300  0.29694800  1

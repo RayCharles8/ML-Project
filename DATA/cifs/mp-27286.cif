@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba(Ag3O2)2
+_symmetry_space_group_name_H-M   Pnna
+_cell_length_a   6.64008391
+_cell_length_b   12.86301610
+_cell_length_c   9.11018522
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   52
+_chemical_formula_structural   Ba(Ag3O2)2
+_chemical_formula_sum   'Ba4 Ag24 O16'
+_cell_volume   778.11464176
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z'
+  4  'x+1/2, y, -z'
+  5  'x, -y+1/2, -z+1/2'
+  6  '-x, y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.25000000  0.00000000  0.62245967  1
+  Ag  Ag1  8  0.07597610  0.23685207  0.96550080  1
+  Ag  Ag2  8  0.20715912  0.62579165  0.23789227  1
+  Ag  Ag3  4  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag4  4  0.10146112  0.75000000  0.75000000  1
+  O  O5  8  0.05177733  0.12953848  0.40862225  1
+  O  O6  8  0.07726754  0.10565095  0.83588811  1

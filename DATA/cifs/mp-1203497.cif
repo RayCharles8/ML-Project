@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr5Pt4
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   7.89637200
+_cell_length_b   15.73410500
+_cell_length_c   8.22340500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Sr5Pt4
+_chemical_formula_sum   'Sr20 Pt16'
+_cell_volume   1021.69513068
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  8  0.00138000  0.09531600  0.81886700  1
+  Sr  Sr1  8  0.15724600  0.12122000  0.32793100  1
+  Sr  Sr2  4  0.18426500  0.75000000  0.48691200  1
+  Pt  Pt3  8  0.16836000  0.53946600  0.53002500  1
+  Pt  Pt4  4  0.05192100  0.75000000  0.89855900  1
+  Pt  Pt5  4  0.20171800  0.25000000  0.63078800  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaTaCl6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.46103936
+_cell_length_b   6.90728656
+_cell_length_c   19.22184359
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.62774754
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   NaTaCl6
+_chemical_formula_sum   'Na4 Ta4 Cl24'
+_cell_volume   857.49108909
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.20665018  0.19097999  0.25379290  1
+  Ta  Ta1  4  0.25779070  0.71583163  0.61655989  1
+  Cl  Cl2  4  0.04093534  0.03645292  0.84470902  1
+  Cl  Cl3  4  0.08182692  0.00328499  0.65660499  1
+  Cl  Cl4  4  0.11126149  0.74603983  0.00830244  1
+  Cl  Cl5  4  0.38362878  0.68118976  0.73857075  1
+  Cl  Cl6  4  0.41312317  0.07526697  0.09183340  1
+  Cl  Cl7  4  0.45081710  0.10400589  0.40504896  1

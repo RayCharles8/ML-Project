@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Fe7SiO10
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   6.05642300
+_cell_length_b   3.04971900
+_cell_length_c   21.92385724
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   97.79927240
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   Fe7SiO10
+_chemical_formula_sum   'Fe14 Si2 O20'
+_cell_volume   401.19626462
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  2  0.02615100  0.75000000  0.80385100  1
+  Fe  Fe1  2  0.04416800  0.75000000  0.34126700  1
+  Fe  Fe2  2  0.14745700  0.25000000  0.05260900  1
+  Fe  Fe3  2  0.15386800  0.75000000  0.55227100  1
+  Fe  Fe4  2  0.34428900  0.75000000  0.94524600  1
+  Fe  Fe5  2  0.36014500  0.25000000  0.44635000  1
+  Fe  Fe6  2  0.45459600  0.75000000  0.16067700  1
+  Si  Si7  2  0.46764100  0.75000000  0.69052300  1
+  O  O8  2  0.00539000  0.75000000  0.24690400  1
+  O  O9  2  0.08948400  0.25000000  0.95583500  1
+  O  O10  2  0.09387700  0.75000000  0.43870700  1
+  O  O11  2  0.21221100  0.25000000  0.14618500  1
+  O  O12  2  0.21607500  0.75000000  0.65385700  1
+  O  O13  2  0.31702700  0.75000000  0.85049400  1
+  O  O14  2  0.32345900  0.25000000  0.34938200  1
+  O  O15  2  0.38225400  0.25000000  0.54070700  1
+  O  O16  2  0.38292900  0.75000000  0.04615300  1
+  O  O17  2  0.49140800  0.25000000  0.73095100  1

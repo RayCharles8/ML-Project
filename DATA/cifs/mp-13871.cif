@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_P2Pt5
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   10.87494929
+_cell_length_b   5.41224996
+_cell_length_c   7.46808621
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.63950166
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   P2Pt5
+_chemical_formula_sum   'P8 Pt20'
+_cell_volume   433.35002888
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  8  0.15845786  0.40582822  0.27633910  1
+  Pt  Pt1  8  0.11895015  0.27468367  0.96855542  1
+  Pt  Pt2  8  0.14443364  0.22460716  0.59605989  1
+  Pt  Pt3  4  0.00000000  0.11117023  0.25000000  1

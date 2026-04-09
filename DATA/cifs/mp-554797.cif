@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K3CrC3N3O4
+_symmetry_space_group_name_H-M   P2/c
+_cell_length_a   12.29000769
+_cell_length_b   7.74714000
+_cell_length_c   11.74736500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.90760667
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   13
+_chemical_formula_structural   K3CrC3N3O4
+_chemical_formula_sum   'K12 Cr4 C12 N12 O16'
+_cell_volume   1044.84998993
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.12819700  0.35085200  0.66848600  1
+  K  K1  4  0.32303600  0.14613200  0.38145200  1
+  K  K2  2  0.00000000  0.13093800  0.25000000  1
+  K  K3  2  0.50000000  0.39571400  0.75000000  1
+  Cr  Cr4  4  0.22080900  0.23459000  0.02847500  1
+  C  C5  4  0.16387500  0.47584600  0.94543100  1
+  C  C6  4  0.28580700  0.00469500  0.61395700  1
+  C  C7  4  0.37457000  0.26663200  0.99678500  1
+  N  N8  4  0.12999300  0.38806600  0.40359300  1
+  N  N9  4  0.32160600  0.13729300  0.66116700  1
+  N  N10  4  0.45985400  0.28002500  0.97408500  1
+  O  O11  4  0.07538400  0.13230900  0.92862800  1
+  O  O12  4  0.16028300  0.12589700  0.86839000  1
+  O  O13  4  0.17163500  0.29686100  0.16119000  1
+  O  O14  4  0.29053600  0.35370000  0.18417900  1

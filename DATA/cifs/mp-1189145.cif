@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Dy2Si4Mo3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.84059788
+_cell_length_b   6.90316092
+_cell_length_c   6.72849543
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.83734732
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Dy2Si4Mo3
+_chemical_formula_sum   'Dy4 Si8 Mo6'
+_cell_volume   300.71330684
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  4  0.19118849  0.66977006  0.56242761  1
+  Si  Si1  4  0.09031860  0.04520360  0.36893414  1
+  Si  Si2  4  0.49475957  0.13112593  0.12729782  1
+  Mo  Mo3  4  0.25024121  0.16250317  0.74850399  1
+  Mo  Mo4  2  0.50000000  0.00000000  0.50000000  1

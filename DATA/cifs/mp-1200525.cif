@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Cs2Fe2P3O8F7
+_symmetry_space_group_name_H-M   Aea2
+_cell_length_a   11.96887000
+_cell_length_b   8.47083000
+_cell_length_c   14.36382800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   41
+_chemical_formula_structural   Cs2Fe2P3O8F7
+_chemical_formula_sum   'Cs8 Fe8 P12 O32 F28'
+_cell_volume   1456.29484419
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/2, y, z+1/2'
+  8  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  8  0.15747400  0.36635200  0.17361500  1
+  Fe  Fe1  8  0.06695900  0.21339350  0.48086150  1
+  P  P2  8  0.16918300  0.08061050  0.94028850  1
+  P  P3  4  0.00000000  0.00000000  0.29504700  1
+  O  O4  8  0.02563300  0.15102250  0.34374250  1
+  O  O5  8  0.08653400  0.18755950  0.99036850  1
+  O  O6  8  0.13222300  0.40989500  0.42794600  1
+  O  O7  8  0.21312600  0.09486350  0.47843650  1
+  F  F8  8  0.08843200  0.23592050  0.61048650  1
+  F  F9  8  0.09801100  0.47492800  0.72348800  1
+  F  F10  8  0.17701300  0.14384950  0.83476450  1
+  F  F11  4  0.00000000  0.00000000  0.51458000  1

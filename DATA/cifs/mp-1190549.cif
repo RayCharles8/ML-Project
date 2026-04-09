@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GeO2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   7.36899727
+_cell_length_b   13.16016002
+_cell_length_c   7.35979191
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   117.77700622
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   GeO2
+_chemical_formula_sum   'Ge16 O32'
+_cell_volume   631.48718812
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  8  0.18285203  0.13756159  0.06806278  1
+  Ge  Ge1  8  0.21222394  0.40939446  0.45255790  1
+  O  O2  8  0.07533198  0.10858111  0.59080645  1
+  O  O3  8  0.17295468  0.45975337  0.96697246  1
+  O  O4  8  0.24460111  0.15467965  0.32523472  1
+  O  O5  4  0.00000000  0.35387223  0.25000000  1
+  O  O6  4  0.25000000  0.25000000  0.00000000  1

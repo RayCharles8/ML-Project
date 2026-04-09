@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NbFeSi2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   8.69602500
+_cell_length_b   9.68397400
+_cell_length_c   7.56778100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   NbFeSi2
+_chemical_formula_sum   'Nb12 Fe12 Si24'
+_cell_volume   637.29857902
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  8  0.17169500  0.54850300  0.24363900  1
+  Nb  Nb1  4  0.16874100  0.81790700  0.00000000  1
+  Fe  Fe2  8  0.09021300  0.25418800  0.24950300  1
+  Fe  Fe3  4  0.00000000  0.00000000  0.24493400  1
+  Si  Si4  8  0.16152500  0.81968000  0.34511700  1
+  Si  Si5  4  0.03937700  0.38174500  0.00000000  1
+  Si  Si6  4  0.04063800  0.37827100  0.50000000  1
+  Si  Si7  4  0.11421000  0.10209400  0.50000000  1
+  Si  Si8  4  0.12124000  0.10412100  0.00000000  1

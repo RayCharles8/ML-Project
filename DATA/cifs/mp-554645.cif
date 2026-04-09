@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K3Sb2N2O6F7
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   15.31993600
+_cell_length_b   5.76673600
+_cell_length_c   7.30705066
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.56930713
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   K3Sb2N2O6F7
+_chemical_formula_sum   'K6 Sb4 N4 O12 F14'
+_cell_volume   645.30676445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.21719600  0.00000000  0.74081900  1
+  K  K1  2  0.00000000  0.50000000  0.50000000  1
+  Sb  Sb2  4  0.09659700  0.00000000  0.25077000  1
+  N  N3  4  0.09143500  0.50000000  0.92089600  1
+  O  O4  8  0.08266300  0.30945700  0.83631900  1
+  O  O5  4  0.10791100  0.50000000  0.09293900  1
+  F  F6  8  0.14973950  0.23533350  0.41619600  1
+  F  F7  4  0.21247300  0.00000000  0.12940300  1
+  F  F8  2  0.00000000  0.00000000  0.50000000  1

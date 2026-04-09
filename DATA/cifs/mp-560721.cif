@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaCaBeSi2O6F
+_symmetry_space_group_name_H-M   P2_12_12_1
+_cell_length_a   7.38210300
+_cell_length_b   7.40587191
+_cell_length_c   9.93598566
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   19
+_chemical_formula_structural   NaCaBeSi2O6F
+_chemical_formula_sum   'Na4 Ca4 Be4 Si8 O24 F4'
+_cell_volume   543.20937027
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.10478288  0.18182191  0.25444938  1
+  Ca  Ca1  4  0.07896805  0.14564080  0.73911369  1
+  Be  Be2  4  0.11939320  0.85867833  0.96609961  1
+  Si  Si3  4  0.09897161  0.85780832  0.47562374  1
+  Si  Si4  4  0.23547369  0.49092945  0.50016444  1
+  O  O5  4  0.07916379  0.41228892  0.59739464  1
+  O  O6  4  0.09174165  0.85427701  0.63575148  1
+  O  O7  4  0.10053461  0.41375947  0.08926821  1
+  O  O8  4  0.14673304  0.65719050  0.40921083  1
+  O  O9  4  0.17734187  0.66208745  0.90514832  1
+  O  O10  4  0.24426989  0.99250946  0.40989738  1
+  F  F11  4  0.12105146  0.85175608  0.12637882  1

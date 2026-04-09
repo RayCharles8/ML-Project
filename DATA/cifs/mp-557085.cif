@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_FeS4N4Cl3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.62154700
+_cell_length_b   13.61238300
+_cell_length_c   13.23968682
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.69515038
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   FeS4N4Cl3
+_chemical_formula_sum   'Fe4 S16 N16 Cl12'
+_cell_volume   1176.31573152
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  4  0.22256200  0.51060200  0.68905000  1
+  S  S1  4  0.03850500  0.21608700  0.82673400  1
+  S  S2  4  0.12150200  0.09038400  0.67781600  1
+  S  S3  4  0.23378600  0.66277000  0.96997500  1
+  S  S4  4  0.33009600  0.70433900  0.30660100  1
+  N  N5  4  0.00894200  0.60440500  0.72489800  1
+  N  N6  4  0.01776900  0.61813000  0.92862100  1
+  N  N7  4  0.13838700  0.70904700  0.21933500  1
+  N  N8  4  0.36353400  0.71253500  0.89262900  1
+  Cl  Cl9  4  0.09731700  0.10876600  0.08604800  1
+  Cl  Cl10  4  0.36308100  0.05062300  0.33812800  1
+  Cl  Cl11  4  0.43843100  0.60007400  0.62033200  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LaMo5O8
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.28684000
+_cell_length_b   9.36806400
+_cell_length_c   10.45752527
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.28559957
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   LaMo5O8
+_chemical_formula_sum   'La4 Mo20 O32'
+_cell_volume   756.45356382
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  4  0.26949100  0.52360500  0.01479500  1
+  Mo  Mo1  4  0.00624400  0.63891600  0.58583200  1
+  Mo  Mo2  4  0.19061800  0.61907900  0.36934800  1
+  Mo  Mo3  4  0.20343600  0.13752700  0.20872500  1
+  Mo  Mo4  4  0.38722200  0.13902000  0.01541500  1
+  Mo  Mo5  4  0.40004500  0.62554000  0.68726300  1
+  O  O6  4  0.01271600  0.74012200  0.91350300  1
+  O  O7  4  0.03501500  0.50299600  0.75845100  1
+  O  O8  4  0.18843700  0.22889400  0.39108400  1
+  O  O9  4  0.20948700  0.72098300  0.19510900  1
+  O  O10  4  0.37864300  0.21892700  0.66917100  1
+  O  O11  4  0.39421500  0.74431800  0.50806600  1
+  O  O12  4  0.40677900  0.01396900  0.35020000  1
+  O  O13  4  0.40794300  0.50018900  0.35619600  1

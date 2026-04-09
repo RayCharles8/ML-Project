@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaH3CSO7
+_symmetry_space_group_name_H-M   P4_1
+_cell_length_a   7.10129600
+_cell_length_b   7.10129600
+_cell_length_c   12.04233600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   76
+_chemical_formula_structural   LaH3CSO7
+_chemical_formula_sum   'La4 H12 C4 S4 O28'
+_cell_volume   607.27579550
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x, z+1/4'
+  3  '-x, -y, z+1/2'
+  4  'y, -x, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  4  0.10646600  0.63927000  0.90766200  1
+  H  H1  4  0.01872800  0.15641100  0.86661200  1
+  H  H2  4  0.17301200  0.40627900  0.68686800  1
+  H  H3  4  0.37713200  0.45475300  0.73007700  1
+  C  C4  4  0.09993200  0.15090400  0.94449200  1
+  S  S5  4  0.24674700  0.61230500  0.21235400  1
+  O  O6  4  0.00964200  0.14817700  0.23324200  1
+  O  O7  4  0.12245100  0.54330400  0.30196700  1
+  O  O8  4  0.13139300  0.66088900  0.11330800  1
+  O  O9  4  0.14094100  0.30364300  0.99359100  1
+  O  O10  4  0.21611000  0.34626700  0.50165300  1
+  O  O11  4  0.24481200  0.44051100  0.75307900  1
+  O  O12  4  0.38696600  0.46249200  0.18377200  1

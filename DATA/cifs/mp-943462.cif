@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiFeHSO5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.51214263
+_cell_length_b   5.46230889
+_cell_length_c   7.34865834
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.35441674
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   LiFeHSO5
+_chemical_formula_sum   'Li4 Fe4 H4 S4 O20'
+_cell_volume   360.24537258
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.08105155  0.07414938  0.81924595  1
+  Fe  Fe1  4  0.44477346  0.23708358  0.87184516  1
+  H  H2  4  0.32733644  0.00353152  0.09253861  1
+  S  S3  4  0.20895511  0.56767058  0.01035563  1
+  O  O4  4  0.09415672  0.07325555  0.36405259  1
+  O  O5  4  0.15928317  0.67886757  0.51481351  1
+  O  O6  4  0.23812498  0.04893830  0.70117797  1
+  O  O7  4  0.35015261  0.56471062  0.96303178  1
+  O  O8  4  0.42696234  0.07573482  0.12578280  1

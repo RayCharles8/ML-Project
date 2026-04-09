@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LiEu2Si3
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   15.32095389
+_cell_length_b   4.52528175
+_cell_length_c   7.80834790
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.71853395
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   LiEu2Si3
+_chemical_formula_sum   'Li4 Eu8 Si12'
+_cell_volume   523.60093679
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.21274161  0.00000000  0.28674445  1
+  Eu  Eu1  4  0.11038926  0.50000000  0.42937059  1
+  Eu  Eu2  4  0.12506477  0.50000000  0.93677732  1
+  Si  Si3  4  0.04310026  0.00000000  0.14667941  1
+  Si  Si4  4  0.04657902  0.00000000  0.64922707  1
+  Si  Si5  4  0.20395470  0.00000000  0.70880454  1

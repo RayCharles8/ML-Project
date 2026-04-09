@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KTiF4
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   8.04886500
+_cell_length_b   8.57887900
+_cell_length_c   12.43862100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   KTiF4
+_chemical_formula_sum   'K8 Ti8 F32'
+_cell_volume   858.88975191
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.12241300  0.25000000  0.55466200  1
+  K  K1  4  0.12340600  0.25000000  0.94100900  1
+  Ti  Ti2  8  0.12710800  0.05735500  0.24911600  1
+  F  F3  8  0.12294900  0.55145900  0.75416300  1
+  F  F4  8  0.12344400  0.57244200  0.37407100  1
+  F  F5  8  0.13057800  0.57200500  0.12389500  1
+  F  F6  4  0.12265400  0.25000000  0.34756500  1
+  F  F7  4  0.13185300  0.25000000  0.14975800  1

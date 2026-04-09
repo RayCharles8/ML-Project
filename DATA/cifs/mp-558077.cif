@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba3Na2Cr4F20
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.54881100
+_cell_length_b   21.02565000
+_cell_length_c   9.19877266
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   126.30236771
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ba3Na2Cr4F20
+_chemical_formula_sum   'Ba6 Na4 Cr8 F40'
+_cell_volume   864.89315843
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.03396300  0.72321700  0.50592600  1
+  Ba  Ba1  2  0.00000000  0.00000000  0.00000000  1
+  Na  Na2  4  0.20942900  0.59102100  0.22620900  1
+  Cr  Cr3  4  0.30598200  0.10335800  0.78696600  1
+  Cr  Cr4  4  0.49517600  0.13837600  0.46806800  1
+  F  F5  4  0.10923200  0.59820800  0.93628500  1
+  F  F6  4  0.11094000  0.17835000  0.35750100  1
+  F  F7  4  0.16847500  0.11147600  0.93551300  1
+  F  F8  4  0.28358600  0.60740300  0.49928900  1
+  F  F9  4  0.30119600  0.06718600  0.30614500  1
+  F  F10  4  0.30523800  0.71056400  0.87221800  1
+  F  F11  4  0.31262700  0.01183100  0.81199600  1
+  F  F12  4  0.32473700  0.19429800  0.77126900  1
+  F  F13  4  0.46548800  0.67900800  0.20569500  1
+  F  F14  4  0.46740300  0.09206500  0.64539500  1

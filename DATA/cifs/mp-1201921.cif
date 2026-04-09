@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaSb2H2OF7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.57220700
+_cell_length_b   9.74732600
+_cell_length_c   13.70013168
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   97.60857788
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   NaSb2H2OF7
+_chemical_formula_sum   'Na4 Sb8 H8 O4 F28'
+_cell_volume   737.55921944
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.24303000  0.05926400  0.42561000  1
+  Sb  Sb1  4  0.20498000  0.66628600  0.52721000  1
+  Sb  Sb2  4  0.38846200  0.19964100  0.70680400  1
+  H  H3  4  0.02902900  0.53080500  0.73930200  1
+  H  H4  4  0.15658100  0.58098700  0.23801300  1
+  O  O5  4  0.06178500  0.50190100  0.20865200  1
+  F  F6  4  0.00683800  0.17809300  0.86933600  1
+  F  F7  4  0.09532200  0.64430700  0.99439400  1
+  F  F8  4  0.10454500  0.10911900  0.06213000  1
+  F  F9  4  0.30672000  0.70529000  0.32133200  1
+  F  F10  4  0.41554200  0.54605200  0.73145500  1
+  F  F11  4  0.43983700  0.10283000  0.57955800  1
+  F  F12  4  0.47832500  0.71851800  0.13809300  1

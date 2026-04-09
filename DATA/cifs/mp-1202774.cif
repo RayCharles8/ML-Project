@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_USiH2PbO7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.86996000
+_cell_length_b   6.94512900
+_cell_length_c   13.39132725
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.22541479
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   USiH2PbO7
+_chemical_formula_sum   'U4 Si4 H8 Pb4 O28'
+_cell_volume   621.99096202
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  4  0.03118200  0.72842800  0.32632200  1
+  Si  Si1  4  0.09617500  0.21107100  0.42593600  1
+  H  H2  4  0.35488300  0.03005400  0.12059500  1
+  H  H3  4  0.44602500  0.01018500  0.91485100  1
+  Pb  Pb4  4  0.42739500  0.57038400  0.12013600  1
+  O  O5  4  0.01724900  0.56546200  0.16938900  1
+  O  O6  4  0.04549800  0.72272400  0.99072700  1
+  O  O7  4  0.09085800  0.08577900  0.86124800  1
+  O  O8  4  0.24437000  0.19317300  0.19267000  1
+  O  O9  4  0.30056300  0.72367700  0.83473200  1
+  O  O10  4  0.32278600  0.13306500  0.47432000  1
+  O  O11  4  0.42391600  0.56677300  0.58672600  1

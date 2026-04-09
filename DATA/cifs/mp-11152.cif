@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SiSbPt
+_symmetry_space_group_name_H-M   Pbca
+_cell_length_a   6.35479539
+_cell_length_b   6.37737788
+_cell_length_c   11.55009134
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   61
+_chemical_formula_structural   SiSbPt
+_chemical_formula_sum   'Si8 Sb8 Pt8'
+_cell_volume   468.08976116
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  8  0.14509421  0.73461270  0.07389981  1
+  Sb  Sb1  8  0.11608922  0.00591773  0.82715252  1
+  Pt  Pt2  8  0.01119690  0.11840684  0.60656207  1

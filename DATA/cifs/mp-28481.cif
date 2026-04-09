@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ti(ClO4)4
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   12.49855586
+_cell_length_b   7.81227411
+_cell_length_c   12.98710817
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.32729209
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Ti(ClO4)4
+_chemical_formula_sum   'Ti4 Cl16 O64'
+_cell_volume   1196.62391153
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  4  0.00000000  0.03569743  0.25000000  1
+  Cl  Cl1  8  0.05817225  0.27266860  0.41515296  1
+  Cl  Cl2  8  0.17664995  0.18477342  0.83991637  1
+  O  O3  8  0.01830680  0.44131161  0.39593982  1
+  O  O4  8  0.03821304  0.14704943  0.11777273  1
+  O  O5  8  0.07131711  0.14442433  0.86957868  1
+  O  O6  8  0.11373743  0.22041931  0.33157945  1
+  O  O7  8  0.13139124  0.23948886  0.52107048  1
+  O  O8  8  0.14985918  0.07423705  0.74010153  1
+  O  O9  8  0.17925144  0.35810269  0.81350516  1
+  O  O10  8  0.22607366  0.37471757  0.07804804  1

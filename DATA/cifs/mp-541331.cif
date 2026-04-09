@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr2PrGaCu2O7
+_symmetry_space_group_name_H-M   Ima2
+_cell_length_a   23.14602496
+_cell_length_b   5.54133066
+_cell_length_c   5.42792086
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   46
+_chemical_formula_structural   Sr2PrGaCu2O7
+_chemical_formula_sum   'Sr8 Pr4 Ga4 Cu8 O28'
+_cell_volume   696.18392325
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y, z'
+  4  'x+1/2, -y, z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  8  0.15268298  0.01701835  0.49905511  1
+  Pr  Pr1  4  0.00000000  0.00000000  0.50122478  1
+  Ga  Ga2  4  0.25000000  0.57004031  0.46420714  1
+  Cu  Cu3  8  0.07663877  0.50094478  0.50186639  1
+  O  O4  8  0.06682030  0.24842705  0.75075088  1
+  O  O5  8  0.06914851  0.74982829  0.25187825  1
+  O  O6  8  0.17722603  0.04567393  0.02826424  1
+  O  O7  4  0.25000000  0.62268790  0.11773384  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na3SiTe3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.89278400
+_cell_length_b   12.89722400
+_cell_length_c   9.01841427
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   120.37760195
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Na3SiTe3
+_chemical_formula_sum   'Na12 Si4 Te12'
+_cell_volume   892.33867392
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.02913500  0.72905500  0.77641300  1
+  Na  Na1  4  0.27352900  0.05783200  0.47349900  1
+  Na  Na2  4  0.49391400  0.15194900  0.97923600  1
+  Si  Si3  4  0.14651300  0.00923700  0.03250000  1
+  Te  Te4  4  0.15093300  0.52548100  0.25839000  1
+  Te  Te5  4  0.24969700  0.19266900  0.13596400  1
+  Te  Te6  4  0.33506200  0.62296600  0.75949100  1

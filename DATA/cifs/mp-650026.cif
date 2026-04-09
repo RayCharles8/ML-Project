@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_PrIn2Cl5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   12.76152895
+_cell_length_b   8.86708100
+_cell_length_c   8.12424955
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   PrIn2Cl5
+_chemical_formula_sum   'Pr4 In8 Cl20'
+_cell_volume   919.31985687
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  4  0.00662331  0.75000000  0.57678945  1
+  In  In1  8  0.17054442  0.50779550  0.05663275  1
+  Cl  Cl2  8  0.07268488  0.04524193  0.66962831  1
+  Cl  Cl3  4  0.00519960  0.75000000  0.92383989  1
+  Cl  Cl4  4  0.18946028  0.75000000  0.39041573  1
+  Cl  Cl5  4  0.20792032  0.25000000  0.34342221  1

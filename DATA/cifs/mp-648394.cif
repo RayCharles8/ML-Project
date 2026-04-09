@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_CrCo3C16NO14
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   9.03819700
+_cell_length_b   10.96724800
+_cell_length_c   11.72451079
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.27575553
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   CrCo3C16NO14
+_chemical_formula_sum   'Cr2 Co6 C32 N2 O28'
+_cell_volume   1162.16868238
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  2  0.08708500  0.25000000  0.11576200  1
+  Co  Co1  4  0.24652400  0.13558000  0.63640900  1
+  Co  Co2  2  0.46348500  0.25000000  0.71759600  1
+  C  C3  4  0.05406200  0.11538500  0.61920300  1
+  C  C4  4  0.08218600  0.07662700  0.12092500  1
+  C  C5  4  0.28119800  0.50477400  0.70553900  1
+  C  C6  4  0.31676900  0.10760600  0.49497200  1
+  C  C7  4  0.46600500  0.62968200  0.19761500  1
+  C  C8  2  0.02904500  0.25000000  0.27108800  1
+  C  C9  2  0.11242500  0.75000000  0.93919200  1
+  C  C10  2  0.15391300  0.25000000  0.95811500  1
+  C  C11  2  0.26015600  0.25000000  0.75900600  1
+  C  C12  2  0.29202100  0.25000000  0.15762600  1
+  C  C13  2  0.41941500  0.75000000  0.40742300  1
+  N  N14  2  0.19984200  0.25000000  0.86287800  1
+  O  O15  4  0.07169500  0.59813400  0.39221400  1
+  O  O16  4  0.07493900  0.52873000  0.12732900  1
+  O  O17  4  0.29937000  0.59747900  0.75062500  1
+  O  O18  4  0.36149500  0.08611800  0.40463100  1
+  O  O19  4  0.42112900  0.55284700  0.13931800  1
+  O  O20  2  0.00447200  0.75000000  0.63322100  1
+  O  O21  2  0.23130100  0.75000000  0.97607200  1
+  O  O22  2  0.34631300  0.75000000  0.48830100  1
+  O  O23  2  0.41701900  0.25000000  0.17899700  1

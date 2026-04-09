@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiFe6Ge5
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   8.65252400
+_cell_length_b   5.00668200
+_cell_length_c   14.72490993
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.30032806
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   LiFe6Ge5
+_chemical_formula_sum   'Li4 Fe24 Ge20'
+_cell_volume   625.52309871
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.09129100  0.00000000  0.26298800  1
+  Fe  Fe1  8  0.11075950  0.25481650  0.58292100  1
+  Fe  Fe2  8  0.20365850  0.24985550  0.86185000  1
+  Fe  Fe3  4  0.04682400  0.50000000  0.13834400  1
+  Fe  Fe4  4  0.13469000  0.50000000  0.41798900  1
+  Ge  Ge5  4  0.02884600  0.00000000  0.08810100  1
+  Ge  Ge6  4  0.07447700  0.50000000  0.72401300  1
+  Ge  Ge7  4  0.14638300  0.00000000  0.44258900  1
+  Ge  Ge8  4  0.16645100  0.50000000  0.99986700  1
+  Ge  Ge9  4  0.24103000  0.00000000  0.72284000  1

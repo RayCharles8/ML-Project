@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na6Ge2Se7
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   9.43535907
+_cell_length_b   10.93169336
+_cell_length_c   15.83790284
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.56154937
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Na6Ge2Se7
+_chemical_formula_sum   'Na24 Ge8 Se28'
+_cell_volume   1581.11776077
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.11683016  0.14601226  0.07231776  1
+  Na  Na1  8  0.23001068  0.27814322  0.35926441  1
+  Na  Na2  4  0.00000000  0.42019490  0.75000000  1
+  Na  Na3  4  0.00000000  0.50000000  0.00000000  1
+  Ge  Ge4  8  0.15860349  0.08223613  0.86144209  1
+  Se  Se5  8  0.05177262  0.26190671  0.89599941  1
+  Se  Se6  8  0.12419037  0.37297696  0.17889645  1
+  Se  Se7  8  0.19640122  0.06730022  0.47233511  1
+  Se  Se8  4  0.00000000  0.03916277  0.25000000  1

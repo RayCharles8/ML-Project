@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Na2CaH10C2O11
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   14.37314892
+_cell_length_b   7.51388985
+_cell_length_c   11.11939944
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   127.60319393
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Na2CaH10C2O11
+_chemical_formula_sum   'Na8 Ca4 H40 C8 O44'
+_cell_volume   951.40058813
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.08373955  0.18743285  0.48549600  1
+  Ca  Ca1  4  0.00000000  0.19513848  0.75000000  1
+  H  H2  8  0.06163734  0.40850149  0.27135964  1
+  H  H3  8  0.10616409  0.19574134  0.07574236  1
+  H  H4  8  0.11710396  0.39961773  0.04738867  1
+  H  H5  8  0.17834053  0.41095444  0.75073536  1
+  H  H6  8  0.21844117  0.43633574  0.91939229  1
+  C  C7  8  0.18690792  0.02920299  0.31701429  1
+  O  O8  8  0.06769370  0.29268278  0.00091827  1
+  O  O9  8  0.10409666  0.00377302  0.17384829  1
+  O  O10  8  0.14949206  0.40841143  0.81284407  1
+  O  O11  8  0.16567396  0.00616115  0.91215829  1
+  O  O12  8  0.21063825  0.41561476  0.63442174  1
+  O  O13  4  0.00000000  0.32553632  0.25000000  1

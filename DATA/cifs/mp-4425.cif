@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ta2Pt3Se8
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   11.10481046
+_cell_length_b   15.32830064
+_cell_length_c   3.58893521
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   Ta2Pt3Se8
+_chemical_formula_sum   'Ta4 Pt6 Se16'
+_cell_volume   610.90091879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  4  0.19747647  0.12652779  0.50000000  1
+  Pt  Pt1  4  0.14809036  0.72434738  0.00000000  1
+  Pt  Pt2  2  0.00000000  0.00000000  0.00000000  1
+  Se  Se3  4  0.02763603  0.15819996  0.00000000  1
+  Se  Se4  4  0.07056805  0.62779301  0.50000000  1
+  Se  Se5  4  0.22098763  0.00229098  0.00000000  1
+  Se  Se6  4  0.23023628  0.29280634  0.50000000  1

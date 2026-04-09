@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tl2FeC5N6O
+_symmetry_space_group_name_H-M   Cc
+_cell_length_a   13.47476000
+_cell_length_b   12.73714000
+_cell_length_c   6.85984320
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.50197557
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   9
+_chemical_formula_structural   Tl2FeC5N6O
+_chemical_formula_sum   'Tl8 Fe4 C20 N24 O4'
+_cell_volume   1079.68837399
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  4  0.13505750  0.38527050  0.53032300  1
+  Tl  Tl1  4  0.49911700  0.46779400  0.00106000  1
+  Fe  Fe2  4  0.34590300  0.20644300  0.29341200  1
+  C  C3  4  0.22310600  0.15213500  0.33943700  1
+  C  C4  4  0.27792150  0.33941650  0.17129100  1
+  C  C5  4  0.37710200  0.27451100  0.56136800  1
+  C  C6  4  0.43272400  0.09682000  0.47649300  1
+  C  C7  4  0.47879850  0.26520350  0.29888000  1
+  N  N8  4  0.05770100  0.19812000  0.79344000  1
+  N  N9  4  0.15217200  0.11475100  0.37388800  1
+  N  N10  4  0.24517050  0.42175550  0.09609900  1
+  N  N11  4  0.31125900  0.14826000  0.05650200  1
+  N  N12  4  0.39168300  0.31378700  0.72533100  1
+  N  N13  4  0.48790650  0.03510650  0.59907900  1
+  O  O14  4  0.28517800  0.11138200  0.89059800  1

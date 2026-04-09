@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbCuPdSe5
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   6.37993700
+_cell_length_b   7.42394000
+_cell_length_c   9.30308746
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.03357622
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   RbCuPdSe5
+_chemical_formula_sum   'Rb2 Cu2 Pd2 Se10'
+_cell_volume   429.28236213
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  2  0.25376100  0.75000000  0.05105200  1
+  Cu  Cu1  2  0.11036400  0.75000000  0.60919400  1
+  Pd  Pd2  2  0.50000000  0.00000000  0.50000000  1
+  Se  Se3  4  0.31373500  0.00883900  0.70890200  1
+  Se  Se4  2  0.04478400  0.25000000  0.65157100  1
+  Se  Se5  2  0.27352900  0.25000000  0.36725700  1
+  Se  Se6  2  0.29927600  0.25000000  0.11547100  1

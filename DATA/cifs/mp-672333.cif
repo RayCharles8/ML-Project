@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PbCSNCl
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   10.26429100
+_cell_length_b   4.32480000
+_cell_length_c   9.82383700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   PbCSNCl
+_chemical_formula_sum   'Pb4 C4 S4 N4 Cl4'
+_cell_volume   436.09000443
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  4  0.19032700  0.75000000  0.08007400  1
+  C  C1  4  0.01657200  0.75000000  0.64092900  1
+  S  S2  4  0.13625700  0.25000000  0.30942600  1
+  N  N3  4  0.12669100  0.75000000  0.60374000  1
+  Cl  Cl4  4  0.09725800  0.25000000  0.89598500  1

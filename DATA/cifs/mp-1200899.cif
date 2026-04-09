@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2GaP4H3O14
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.14979600
+_cell_length_b   8.12510000
+_cell_length_c   17.24640321
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.49110233
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Cs2GaP4H3O14
+_chemical_formula_sum   'Cs4 Ga2 P8 H6 O28'
+_cell_volume   711.75618470
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.04212900  0.08416900  0.13521300  1
+  Ga  Ga1  2  0.00000000  0.00000000  0.50000000  1
+  P  P2  4  0.33410200  0.55699700  0.17420900  1
+  P  P3  4  0.47450900  0.22553300  0.45814300  1
+  H  H4  4  0.33261100  0.70995600  0.74139900  1
+  H  H5  2  0.50000000  0.00000000  0.00000000  1
+  O  O6  4  0.11995900  0.02391600  0.61543500  1
+  O  O7  4  0.20293300  0.70424800  0.21485500  1
+  O  O8  4  0.20689200  0.20232900  0.48378200  1
+  O  O9  4  0.29653700  0.64640900  0.98642800  1
+  O  O10  4  0.45433300  0.14571800  0.37167300  1
+  O  O11  4  0.47837100  0.58905200  0.55441300  1
+  O  O12  4  0.48444400  0.05477100  0.73528100  1

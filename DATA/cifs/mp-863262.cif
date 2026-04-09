@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrNi2P2(H2O5)2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   9.01934971
+_cell_length_b   6.09993900
+_cell_length_c   7.43385366
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.23346147
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   SrNi2P2(H2O5)2
+_chemical_formula_sum   'Sr2 Ni4 P4 H8 O20'
+_cell_volume   372.95177889
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  2  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni1  4  0.25000000  0.25000000  0.00000000  1
+  P  P2  4  0.08742850  0.50000000  0.27769000  1
+  H  H3  4  0.07597375  0.00000000  0.13449650  1
+  H  H4  4  0.24526850  0.50000000  0.70572600  1
+  O  O5  8  0.01976675  0.28912375  0.77310050  1
+  O  O6  4  0.18626275  0.00000000  0.14011450  1
+  O  O7  4  0.20142500  0.50000000  0.16220800  1
+  O  O8  4  0.20521750  0.50000000  0.49685200  1

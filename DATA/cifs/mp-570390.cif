@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba5Al2Ge7
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   8.72290277
+_cell_length_b   10.42534517
+_cell_length_c   18.60960304
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.51242510
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Ba5Al2Ge7
+_chemical_formula_sum   'Ba20 Al8 Ge28'
+_cell_volume   1645.49845100
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  8  0.15291206  0.27744907  0.78938721  1
+  Ba  Ba1  4  0.00000000  0.24869398  0.00000000  1
+  Ba  Ba2  4  0.00000000  0.29048338  0.50000000  1
+  Ba  Ba3  4  0.23951986  0.00000000  0.64388906  1
+  Al  Al4  4  0.07704704  0.00000000  0.26692162  1
+  Al  Al5  4  0.22441563  0.00000000  0.92836000  1
+  Ge  Ge6  8  0.14805269  0.18514366  0.35763282  1
+  Ge  Ge7  4  0.05953426  0.00000000  0.13233787  1
+  Ge  Ge8  4  0.08494727  0.50000000  0.15188958  1
+  Ge  Ge9  4  0.14128319  0.50000000  0.64419497  1
+  Ge  Ge10  4  0.18067987  0.00000000  0.45239026  1
+  Ge  Ge11  4  0.20505571  0.50000000  0.93371682  1

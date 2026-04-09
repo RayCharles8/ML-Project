@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Li3AlMo2(AsO7)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.28278600
+_cell_length_b   5.49119677
+_cell_length_c   9.58569097
+_cell_angle_alpha   96.31429303
+_cell_angle_beta   102.34374207
+_cell_angle_gamma   105.16998299
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Li3AlMo2(AsO7)2
+_chemical_formula_sum   'Li3 Al1 Mo2 As2 O14'
+_cell_volume   258.08392604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.19407400  0.38654200  0.84780200  1
+  Li  Li1  1  0.00000000  0.50000000  0.50000000  1
+  Al  Al2  1  0.50000000  0.00000000  0.00000000  1
+  Mo  Mo3  2  0.49517500  0.83859200  0.35383900  1
+  As  As4  2  0.14977500  0.23207200  0.17493100  1
+  O  O5  2  0.13337900  0.98019100  0.26528500  1
+  O  O6  2  0.13705000  0.79174400  0.95700500  1
+  O  O7  2  0.16120700  0.51050800  0.28843900  1
+  O  O8  2  0.27980100  0.33398500  0.59058500  1
+  O  O9  2  0.32476300  0.83666000  0.53615600  1
+  O  O10  2  0.41702000  0.29236400  0.09413800  1
+  O  O11  2  0.43926100  0.12980000  0.82337400  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Fe11Mo6C5
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   10.98729137
+_cell_length_b   7.65418975
+_cell_length_c   6.56154582
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   120.71742491
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Fe11Mo6C5
+_chemical_formula_sum   'Fe22 Mo12 C10'
+_cell_volume   474.39644444
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  8  0.14220400  0.33426600  0.37338400  1
+  Fe  Fe1  4  0.00000000  0.16494600  0.50000000  1
+  Fe  Fe2  4  0.13536700  0.00000000  0.33657200  1
+  Fe  Fe3  4  0.23674100  0.00000000  0.79496100  1
+  Fe  Fe4  2  0.00000000  0.50000000  0.00000000  1
+  Mo  Mo5  8  0.11561000  0.19812100  0.96049300  1
+  Mo  Mo6  4  0.11974700  0.50000000  0.71540100  1
+  C  C7  8  0.19906750  0.24164050  0.69334000  1
+  C  C8  2  0.00000000  0.00000000  0.00000000  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SiH12C2(NF)6
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   12.73348400
+_cell_length_b   7.31700600
+_cell_length_c   6.25315057
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.21002127
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   SiH12C2(NF)6
+_chemical_formula_sum   'Si2 H24 C4 N12 F12'
+_cell_volume   531.37049035
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  2  0.00000000  0.00000000  0.00000000  1
+  H  H1  8  0.07462700  0.38042400  0.25092500  1
+  H  H2  8  0.14636250  0.15881150  0.74229200  1
+  H  H3  8  0.23288400  0.22136700  0.25098000  1
+  C  C4  4  0.22419500  0.50000000  0.27192500  1
+  N  N5  8  0.22293500  0.15851000  0.72594300  1
+  N  N6  4  0.11953500  0.50000000  0.27548200  1
+  F  F7  8  0.01631950  0.16654450  0.82080900  1
+  F  F8  4  0.14657100  0.00000000  0.16424600  1

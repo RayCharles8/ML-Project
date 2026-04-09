@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZrMnSi2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   9.05190400
+_cell_length_b   9.86220600
+_cell_length_c   7.89407300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   ZrMnSi2
+_chemical_formula_sum   'Zr12 Mn12 Si24'
+_cell_volume   704.71764771
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  8  0.17439800  0.95156100  0.25411300  1
+  Zr  Zr1  4  0.16881000  0.67870800  0.50000000  1
+  Mn  Mn2  8  0.08402000  0.24853900  0.25008300  1
+  Mn  Mn3  4  0.00000000  0.50000000  0.25297600  1
+  Si  Si4  8  0.16512800  0.68089400  0.14974000  1
+  Si  Si5  4  0.03872300  0.12037800  0.50000000  1
+  Si  Si6  4  0.03956500  0.12580600  0.00000000  1
+  Si  Si7  4  0.10889300  0.39718700  0.00000000  1
+  Si  Si8  4  0.12206400  0.39362400  0.50000000  1

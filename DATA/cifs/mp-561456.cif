@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na3FeS3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.10379528
+_cell_length_b   6.83011103
+_cell_length_c   14.40977452
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   118.78309911
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Na3FeS3
+_chemical_formula_sum   'Na12 Fe4 S12'
+_cell_volume   612.77623118
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.06304897  0.02701169  0.28559757  1
+  Na  Na1  4  0.27865068  0.51371414  0.61124967  1
+  Na  Na2  4  0.30969022  0.01310602  0.59362539  1
+  Fe  Fe3  4  0.33350715  0.63861649  0.41742528  1
+  S  S4  4  0.04515705  0.74975926  0.42353480  1
+  S  S5  4  0.34239147  0.73179979  0.27153325  1
+  S  S6  4  0.35309477  0.20471207  0.92992631  1

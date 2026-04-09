@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SiTePt
+_symmetry_space_group_name_H-M   Pbca
+_cell_length_a   6.18489233
+_cell_length_b   6.28311977
+_cell_length_c   12.56048367
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   61
+_chemical_formula_structural   SiTePt
+_chemical_formula_sum   'Si8 Te8 Pt8'
+_cell_volume   488.10566170
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  8  0.12840479  0.66695294  0.56109018  1
+  Te  Te1  8  0.11667959  0.08397950  0.32570382  1
+  Pt  Pt2  8  0.02471914  0.18683056  0.11358874  1

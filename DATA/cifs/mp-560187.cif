@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrCuAs2O7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.71585700
+_cell_length_b   8.38065800
+_cell_length_c   14.04577958
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.75588045
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   SrCuAs2O7
+_chemical_formula_sum   'Sr4 Cu4 As8 O28'
+_cell_volume   624.90530279
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  4  0.49130100  0.65872500  0.78266000  1
+  Cu  Cu1  4  0.17503800  0.14202000  0.38075200  1
+  As  As2  4  0.09599300  0.53315700  0.34289300  1
+  As  As3  4  0.16921600  0.68143600  0.99466700  1
+  O  O4  4  0.00599800  0.65743700  0.65271400  1
+  O  O5  4  0.14077000  0.14814500  0.51797500  1
+  O  O6  4  0.17323600  0.13081900  0.23458400  1
+  O  O7  4  0.18689700  0.60875800  0.46977600  1
+  O  O8  4  0.22174500  0.59202200  0.89335800  1
+  O  O9  4  0.34182600  0.55368000  0.30471500  1
+  O  O10  4  0.40127700  0.65933000  0.11047700  1

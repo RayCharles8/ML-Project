@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Co3SnC12BrO12
+_symmetry_space_group_name_H-M   P6_3
+_cell_length_a   10.49916791
+_cell_length_b   10.49916791
+_cell_length_c   12.28609800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   173
+_chemical_formula_structural   Co3SnC12BrO12
+_chemical_formula_sum   'Co6 Sn2 C24 Br2 O24'
+_cell_volume   1172.88213022
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x-y, x, z+1/2'
+  3  '-y, x-y, z'
+  4  '-x, -y, z+1/2'
+  5  '-x+y, -x, z'
+  6  'y, -x+y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  6  0.11313400  0.40321200  0.94237100  1
+  Sn  Sn1  2  0.33333333  0.66666667  0.99717100  1
+  C  C2  6  0.00757800  0.52823500  0.47160800  1
+  C  C3  6  0.02629800  0.77272700  0.40160600  1
+  C  C4  6  0.16797800  0.83156000  0.05507400  1
+  C  C5  6  0.20830100  0.43980600  0.81672500  1
+  Br  Br6  2  0.33333333  0.66666667  0.20669000  1
+  O  O7  6  0.08612100  0.80677000  0.12599300  1
+  O  O8  6  0.09559900  0.49526800  0.48926900  1
+  O  O9  6  0.11070300  0.22653800  0.37541500  1
+  O  O10  6  0.18833600  0.73580600  0.73291900  1

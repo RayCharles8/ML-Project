@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Rb4Hf3S14
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   21.85156918
+_cell_length_b   8.28769796
+_cell_length_c   13.61982535
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.25452125
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Rb4Hf3S14
+_chemical_formula_sum   'Rb16 Hf12 S56'
+_cell_volume   2282.80855062
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  8  0.06603471  0.26169137  0.14401263  1
+  Rb  Rb1  8  0.20198539  0.18242736  0.60857524  1
+  Hf  Hf2  8  0.16828512  0.24801168  0.91149296  1
+  Hf  Hf3  4  0.00000000  0.23393188  0.75000000  1
+  S  S4  8  0.04060698  0.15270851  0.60462766  1
+  S  S5  8  0.06883201  0.41815242  0.91583472  1
+  S  S6  8  0.08583263  0.01131041  0.86796039  1
+  S  S7  8  0.09609457  0.33463885  0.70467098  1
+  S  S8  8  0.14338475  0.44915969  0.39254263  1
+  S  S9  8  0.16966518  0.02372284  0.33213517  1
+  S  S10  8  0.22020343  0.21130264  0.10222495  1

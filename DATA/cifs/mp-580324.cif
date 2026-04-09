@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ce4In8Ni7
+_symmetry_space_group_name_H-M   Cmmm
+_cell_length_a   14.50169386
+_cell_length_b   23.93325832
+_cell_length_c   4.40930500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   65
+_chemical_formula_structural   Ce4In8Ni7
+_chemical_formula_sum   'Ce16 In32 Ni28'
+_cell_volume   1530.34976670
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z'
+  12  'x+1/2, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z'
+  16  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  8  0.17226900  0.17509800  0.00000000  1
+  Ce  Ce1  4  0.00000000  0.39636300  0.50000000  1
+  Ce  Ce2  4  0.19050700  0.00000000  0.00000000  1
+  In  In3  8  0.15958150  0.28195150  0.50000000  1
+  In  In4  8  0.22439950  0.40541550  0.50000000  1
+  In  In5  4  0.00000000  0.08477700  0.00000000  1
+  In  In6  4  0.00000000  0.19091800  0.50000000  1
+  In  In7  4  0.00000000  0.27902800  0.00000000  1
+  In  In8  2  0.00000000  0.00000000  0.50000000  1
+  In  In9  2  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni10  8  0.09743600  0.09628100  0.50000000  1
+  Ni  Ni11  8  0.14446300  0.34547100  0.00000000  1
+  Ni  Ni12  8  0.15006300  0.44645900  0.00000000  1
+  Ni  Ni13  4  0.11706500  0.50000000  0.50000000  1

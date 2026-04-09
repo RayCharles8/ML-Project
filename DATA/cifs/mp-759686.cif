@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BeAlSiHO5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   4.67872400
+_cell_length_b   14.49403700
+_cell_length_c   4.82858314
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.31384119
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   BeAlSiHO5
+_chemical_formula_sum   'Be4 Al4 Si4 H4 O20'
+_cell_volume   322.15270539
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  4  0.45727500  0.69910100  0.17505500  1
+  Al  Al1  4  0.04183100  0.05525400  0.25059100  1
+  Si  Si2  4  0.46250000  0.10045800  0.82278300  1
+  H  H3  4  0.01405000  0.20511400  0.46737800  1
+  O  O4  4  0.12373700  0.66784500  0.16189100  1
+  O  O5  4  0.21335900  0.55234100  0.60026700  1
+  O  O6  4  0.23471900  0.03302900  0.61752900  1
+  O  O7  4  0.34619500  0.12398100  0.11983600  1
+  O  O8  4  0.47391100  0.20012400  0.65523000  1

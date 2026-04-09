@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KAl2Br7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   10.72902365
+_cell_length_b   10.93725167
+_cell_length_c   14.53658925
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.66101244
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   KAl2Br7
+_chemical_formula_sum   'K4 Al8 Br28'
+_cell_volume   1419.80024847
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.11060126  0.61610447  0.38003455  1
+  Al  Al1  4  0.17155720  0.21760814  0.45326599  1
+  Al  Al2  4  0.39770611  0.71286598  0.79659789  1
+  Br  Br3  4  0.02356972  0.58331677  0.12117637  1
+  Br  Br4  4  0.15383497  0.12691196  0.05152453  1
+  Br  Br5  4  0.20764430  0.20993422  0.82267662  1
+  Br  Br6  4  0.21264638  0.60322982  0.79266083  1
+  Br  Br7  4  0.37873378  0.72514625  0.63284856  1
+  Br  Br8  4  0.37921387  0.08865941  0.58415647  1
+  Br  Br9  4  0.43447646  0.60375561  0.38200891  1

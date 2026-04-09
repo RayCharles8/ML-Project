@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_TbSbMo2O9
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   13.09819800
+_cell_length_b   14.34527200
+_cell_length_c   10.87340736
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.63706933
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   TbSbMo2O9
+_chemical_formula_sum   'Tb8 Sb8 Mo16 O72'
+_cell_volume   1700.99532633
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  4  0.00000000  0.12535100  0.25000000  1
+  Tb  Tb1  4  0.00000000  0.32850700  0.75000000  1
+  Sb  Sb2  8  0.13462550  0.48318450  0.53532300  1
+  Mo  Mo3  8  0.15348650  0.10647750  0.02682900  1
+  Mo  Mo4  8  0.24658100  0.18757600  0.69450300  1
+  O  O5  8  0.01787650  0.44186750  0.60165500  1
+  O  O6  8  0.07992500  0.01503500  0.89809000  1
+  O  O7  8  0.08514000  0.21460600  0.93513800  1
+  O  O8  8  0.11755700  0.26239700  0.27437400  1
+  O  O9  8  0.13362200  0.08815100  0.17608100  1
+  O  O10  8  0.14173100  0.16256000  0.50398100  1
+  O  O11  8  0.17673650  0.26826550  0.75145600  1
+  O  O12  8  0.18647450  0.40905450  0.92063500  1
+  O  O13  8  0.21197500  0.42224700  0.19985200  1

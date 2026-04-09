@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_VTeO4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.08241287
+_cell_length_b   4.92579822
+_cell_length_c   12.66867436
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.00044606
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   VTeO4
+_chemical_formula_sum   'V4 Te4 O16'
+_cell_volume   304.87260383
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  4  0.38400743  0.22538398  0.43270296  1
+  Te  Te1  4  0.17709992  0.20080256  0.16608349  1
+  O  O2  4  0.05587311  0.10890914  0.83947977  1
+  O  O3  4  0.25922026  0.55117787  0.98533186  1
+  O  O4  4  0.37168239  0.05058207  0.06953410  1
+  O  O5  4  0.42935760  0.07731042  0.29765436  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SnH4S6(NCl)6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.36416000
+_cell_length_b   13.29017400
+_cell_length_c   11.93042056
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   122.12504119
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   SnH4S6(NCl)6
+_chemical_formula_sum   'Sn2 H8 S12 N12 Cl12'
+_cell_volume   988.86369267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  2  0.50000000  0.00000000  0.00000000  1
+  H  H1  4  0.35741500  0.12731200  0.22285300  1
+  H  H2  4  0.44459200  0.22730300  0.33787700  1
+  S  S3  4  0.04511500  0.65696700  0.01695100  1
+  S  S4  4  0.16097800  0.67600200  0.83400600  1
+  S  S5  4  0.35760700  0.57979200  0.07994100  1
+  N  N6  4  0.01121000  0.70782000  0.88424200  1
+  N  N7  4  0.33160900  0.59694100  0.93716500  1
+  N  N8  4  0.45215400  0.15312900  0.31811700  1
+  Cl  Cl9  4  0.16713200  0.54580200  0.28570200  1
+  Cl  Cl10  4  0.34106900  0.16543000  0.99682100  1
+  Cl  Cl11  4  0.35095600  0.57281600  0.62446100  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta4CrTe4
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   10.80512000
+_cell_length_b   18.77772300
+_cell_length_c   4.85078100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   Ta4CrTe4
+_chemical_formula_sum   'Ta16 Cr4 Te16'
+_cell_volume   984.20188058
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  4  0.06588100  0.11976200  0.50000000  1
+  Ta  Ta1  4  0.10123100  0.88871900  0.00000000  1
+  Ta  Ta2  4  0.19423900  0.05868300  0.00000000  1
+  Ta  Ta3  4  0.20919300  0.96249500  0.50000000  1
+  Cr  Cr4  4  0.00000000  0.00000000  0.24981700  1
+  Te  Te5  4  0.10974100  0.20384300  0.00000000  1
+  Te  Te6  4  0.14591300  0.43577900  0.00000000  1
+  Te  Te7  4  0.16978700  0.59900800  0.50000000  1
+  Te  Te8  4  0.17088000  0.81139700  0.50000000  1

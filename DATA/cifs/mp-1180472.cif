@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2NiH4(SeO5)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.74377155
+_cell_length_b   6.83526032
+_cell_length_c   8.02886590
+_cell_angle_alpha   81.38995561
+_cell_angle_beta   87.40295356
+_cell_angle_gamma   72.35657195
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Na2NiH4(SeO5)2
+_chemical_formula_sum   'Na2 Ni1 H4 Se2 O10'
+_cell_volume   297.00203283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  2  0.37980000  0.37172800  0.67539600  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.00000000  1
+  H  H2  2  0.05199500  0.49901800  0.46957200  1
+  H  H3  2  0.22788300  0.07118700  0.52515000  1
+  Se  Se4  2  0.38084000  0.19051600  0.27128100  1
+  O  O5  2  0.05962800  0.21955900  0.01971800  1
+  O  O6  2  0.15913000  0.10959000  0.40572500  1
+  O  O7  2  0.37039400  0.02698900  0.70986000  1
+  O  O8  2  0.45106600  0.35968300  0.37997900  1
+  O  O9  2  0.47877800  0.42578900  0.97450600  1

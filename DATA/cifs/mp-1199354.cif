@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZnH20PtC4(NO3)4
+_symmetry_space_group_name_H-M   I222
+_cell_length_a   7.23514100
+_cell_length_b   7.54032200
+_cell_length_c   15.08917400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   23
+_chemical_formula_structural   ZnH20PtC4(NO3)4
+_chemical_formula_sum   'Zn2 H40 Pt2 C8 N8 O24'
+_cell_volume   823.19430652
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  'x+1/2, -y+1/2, -z+1/2'
+  8  '-x+1/2, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.00000000  0.50000000  0.00000000  1
+  H  H1  8  0.00041350  0.14420350  0.94574850  1
+  H  H2  8  0.00279450  0.35989950  0.34203750  1
+  H  H3  8  0.10738500  0.78015400  0.40827400  1
+  H  H4  8  0.10975000  0.00088000  0.18836000  1
+  H  H5  8  0.12052300  0.22443100  0.40745600  1
+  Pt  Pt6  2  0.00000000  0.50000000  0.50000000  1
+  C  C7  8  0.10852700  0.49924400  0.81781400  1
+  N  N8  8  0.00434300  0.30345700  0.40435500  1
+  O  O9  8  0.18520750  0.49824450  0.74303350  1
+  O  O10  8  0.18999600  0.49896400  0.89322000  1
+  O  O11  4  0.00000000  0.00000000  0.14847650  1
+  O  O12  4  0.00000000  0.21924100  0.00000000  1

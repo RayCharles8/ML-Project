@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbGaCl4
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   11.19047991
+_cell_length_b   7.09787715
+_cell_length_c   9.36407008
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   RbGaCl4
+_chemical_formula_sum   'Rb4 Ga4 Cl16'
+_cell_volume   743.77546042
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.18272286  0.75000000  0.67318888  1
+  Ga  Ga1  4  0.06758624  0.75000000  0.18862155  1
+  Cl  Cl2  8  0.07962613  0.50127348  0.32611453  1
+  Cl  Cl3  4  0.10309027  0.25000000  0.92257354  1
+  Cl  Cl4  4  0.22039480  0.75000000  0.04463749  1

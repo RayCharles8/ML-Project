@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CdCu2SiSe4
+_symmetry_space_group_name_H-M   Pmn2_1
+_cell_length_a   8.10158500
+_cell_length_b   6.85525400
+_cell_length_c   6.62962200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   31
+_chemical_formula_structural   CdCu2SiSe4
+_chemical_formula_sum   'Cd2 Cu4 Si2 Se8'
+_cell_volume   368.19875082
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  2  0.00000000  0.65189800  0.12865500  1
+  Cu  Cu1  4  0.24901000  0.17573500  0.13078600  1
+  Si  Si2  2  0.00000000  0.32275600  0.62105800  1
+  Se  Se3  4  0.22777300  0.15679200  0.49524100  1
+  Se  Se4  2  0.00000000  0.29459000  0.97080400  1
+  Se  Se5  2  0.00000000  0.64952100  0.53242900  1

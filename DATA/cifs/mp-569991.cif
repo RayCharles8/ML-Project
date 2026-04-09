@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na15SnGe8P
+_symmetry_space_group_name_H-M   Cmcm
+_cell_length_a   17.38653328
+_cell_length_b   12.81180466
+_cell_length_c   11.12861802
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   63
+_chemical_formula_structural   Na15SnGe8P
+_chemical_formula_sum   'Na60 Sn4 Ge32 P4'
+_cell_volume   2478.93158192
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'x+1/2, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  16  0.13085397  0.41225446  0.11669896  1
+  Na  Na1  16  0.18960635  0.13220000  0.00247919  1
+  Na  Na2  8  0.00000000  0.24984158  0.00342123  1
+  Na  Na3  8  0.08305509  0.14602228  0.25000000  1
+  Na  Na4  8  0.09387305  0.10398328  0.75000000  1
+  Na  Na5  4  0.00000000  0.43171313  0.75000000  1
+  Sn  Sn6  4  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge7  16  0.14674867  0.33667235  0.63675599  1
+  Ge  Ge8  8  0.24581996  0.25694218  0.25000000  1
+  Ge  Ge9  8  0.24963819  0.05451833  0.25000000  1
+  P  P10  4  0.00000000  0.34432105  0.25000000  1

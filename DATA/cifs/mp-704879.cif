@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ni5Te4(BrO6)2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   20.46466800
+_cell_length_b   5.31238600
+_cell_length_c   16.45824874
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.90027123
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Ni5Te4(BrO6)2
+_chemical_formula_sum   'Ni20 Te16 Br8 O48'
+_cell_volume   1467.47528942
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  8  0.00981850  0.21785050  0.62222300  1
+  Ni  Ni1  8  0.08612900  0.21616900  0.47113800  1
+  Ni  Ni2  4  0.00000000  0.24702400  0.25000000  1
+  Te  Te3  8  0.12180100  0.31666800  0.13621900  1
+  Te  Te4  8  0.14348950  0.28375250  0.87995700  1
+  Br  Br5  8  0.23729750  0.30418550  0.59854100  1
+  O  O6  8  0.03945500  0.16642400  0.14345200  1
+  O  O7  8  0.06264050  0.49654750  0.36930600  1
+  O  O8  8  0.06951550  0.62054250  0.06989800  1
+  O  O9  8  0.07481950  0.00529150  0.85464700  1
+  O  O10  8  0.09165100  0.85542200  0.51768200  1
+  O  O11  8  0.11261000  0.33588600  0.75070100  1

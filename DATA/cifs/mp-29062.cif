@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_ThZr2F12
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   12.57987564
+_cell_length_b   10.53249750
+_cell_length_c   7.86962973
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   127.96021196
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   ThZr2F12
+_chemical_formula_sum   'Th4 Zr8 F48'
+_cell_volume   822.10939927
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  4  0.00000000  0.22182978  0.00000000  1
+  Zr  Zr1  4  0.14889292  0.50000000  0.77359629  1
+  Zr  Zr2  4  0.18899088  0.00000000  0.57074115  1
+  F  F3  8  0.06701712  0.37334351  0.86603885  1
+  F  F4  8  0.08023812  0.13936445  0.33710015  1
+  F  F5  8  0.18272708  0.35157286  0.27960049  1
+  F  F6  8  0.21167314  0.14466426  0.11205107  1
+  F  F7  4  0.00000000  0.38790795  0.50000000  1
+  F  F8  4  0.21174950  0.50000000  0.57119646  1
+  F  F9  4  0.22254760  0.00000000  0.86154173  1
+  F  F10  2  0.00000000  0.00000000  0.00000000  1
+  F  F11  2  0.00000000  0.00000000  0.50000000  1

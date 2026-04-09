@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaH4Au(Br2O)2
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   13.41699200
+_cell_length_b   7.60692000
+_cell_length_c   9.49071800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   NaH4Au(Br2O)2
+_chemical_formula_sum   'Na4 H16 Au4 Br16 O8'
+_cell_volume   968.64151611
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.01497800  0.75000000  0.04246100  1
+  H  H1  8  0.13251100  0.50723900  0.86563800  1
+  H  H2  8  0.17489000  0.02203700  0.01583700  1
+  Au  Au3  4  0.06307100  0.75000000  0.51182600  1
+  Br  Br4  4  0.04625900  0.25000000  0.27825700  1
+  Br  Br5  4  0.08673600  0.25000000  0.64218400  1
+  Br  Br6  4  0.17298000  0.75000000  0.30159500  1
+  Br  Br7  4  0.21191000  0.75000000  0.66796800  1
+  O  O8  8  0.11274600  0.00115500  0.96524300  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_HoH9C5(NO4)2
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   11.24715000
+_cell_length_b   7.27798400
+_cell_length_c   6.64731115
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.52180912
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   HoH9C5(NO4)2
+_chemical_formula_sum   'Ho2 H18 C10 N4 O16'
+_cell_volume   518.88000582
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  2  0.00000000  0.90732400  0.00000000  1
+  H  H1  4  0.01064800  0.35663500  0.18218900  1
+  H  H2  4  0.12712100  0.51421100  0.46037500  1
+  H  H3  4  0.18788450  0.55840450  0.87453900  1
+  H  H4  4  0.22269750  0.32622250  0.57864500  1
+  H  H5  2  0.00000000  0.98988400  0.50000000  1
+  C  C6  4  0.08751400  0.28055100  0.29349200  1
+  C  C7  4  0.23611400  0.61430900  0.03366200  1
+  C  C8  2  0.00000000  0.83874300  0.50000000  1
+  N  N9  4  0.15250500  0.38011000  0.45636700  1
+  O  O10  4  0.00433250  0.75697550  0.33266300  1
+  O  O11  4  0.10796350  0.11530650  0.26172200  1
+  O  O12  4  0.15244000  0.06915100  0.87761500  1
+  O  O13  4  0.17286650  0.72134950  0.11431600  1

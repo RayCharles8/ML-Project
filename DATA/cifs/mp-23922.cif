@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HN
+_symmetry_space_group_name_H-M   Pmna
+_cell_length_a   8.91059680
+_cell_length_b   3.74637139
+_cell_length_c   8.55668247
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   53
+_chemical_formula_structural   HN
+_chemical_formula_sum   'H16 N16'
+_cell_volume   285.64263898
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x+1/2, y, -z+1/2'
+  8  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  8  0.16410792  0.38989375  0.29286636  1
+  H  H1  8  0.20943200  0.29144041  0.83918628  1
+  N  N2  4  0.00000000  0.11824700  0.37215856  1
+  N  N3  4  0.13243180  0.00000000  0.00000000  1
+  N  N4  4  0.25000000  0.45146620  0.75000000  1
+  N  N5  2  0.00000000  0.00000000  0.00000000  1
+  N  N6  2  0.00000000  0.00000000  0.50000000  1

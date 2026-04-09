@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KNaCu(Si2O5)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.03998900
+_cell_length_b   8.16052432
+_cell_length_c   9.91563162
+_cell_angle_alpha   105.85245243
+_cell_angle_beta   99.58063512
+_cell_angle_gamma   113.68587975
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   KNaCu(Si2O5)2
+_chemical_formula_sum   'K2 Na2 Cu2 Si8 O20'
+_cell_volume   476.52902816
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.16681500  0.79819400  0.49618800  1
+  Na  Na1  2  0.16378800  0.12380100  0.90893400  1
+  Si  Si2  2  0.06596600  0.35340700  0.22159200  1
+  Si  Si3  2  0.31247400  0.17297700  0.35695100  1
+  Cu  Cu4  2  0.33225400  0.86311000  0.08703700  1
+  Si  Si5  2  0.34382600  0.61663300  0.77614000  1
+  Si  Si6  2  0.46096000  0.28979000  0.71025200  1
+  O  O7  2  0.05310800  0.80186000  0.94440000  1
+  O  O8  2  0.08900300  0.56732900  0.70503700  1
+  O  O9  2  0.13322900  0.25377000  0.33345300  1
+  O  O10  2  0.21604900  0.95448800  0.24559700  1
+  O  O11  2  0.28212200  0.55101000  0.24382000  1
+  O  O12  2  0.32678700  0.40591900  0.76921000  1
+  O  O13  2  0.35907100  0.18444300  0.52829800  1
+  O  O14  2  0.41995400  0.11866200  0.77005600  1
+  O  O15  2  0.45602400  0.67148800  0.65040400  1
+  O  O16  2  0.46619600  0.78613900  0.93582200  1

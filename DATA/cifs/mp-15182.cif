@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2LiCo(CN)6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.21179600
+_cell_length_b   7.49181100
+_cell_length_c   12.57632887
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.81988402
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Rb2LiCo(CN)6
+_chemical_formula_sum   'Rb4 Li2 Co2 C12 N12'
+_cell_volume   557.82942592
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.26245700  0.05422500  0.74942300  1
+  Li  Li1  2  0.50000000  0.00000000  0.50000000  1
+  Co  Co2  2  0.00000000  0.00000000  0.00000000  1
+  C  C3  4  0.12952700  0.01017000  0.17829000  1
+  C  C4  4  0.16994500  0.70603700  0.52684000  1
+  C  C5  4  0.23402400  0.14344000  0.02319700  1
+  N  N6  4  0.21356100  0.01827300  0.29031000  1
+  N  N7  4  0.27685400  0.66530100  0.04368400  1
+  N  N8  4  0.37944300  0.23495000  0.03794800  1

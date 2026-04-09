@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K2GaB5(H4O7)2
+_symmetry_space_group_name_H-M   C222_1
+_cell_length_a   9.69541000
+_cell_length_b   10.22082800
+_cell_length_c   14.05548400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   20
+_chemical_formula_structural   K2GaB5(H4O7)2
+_chemical_formula_sum   'K8 Ga4 B20 H32 O56'
+_cell_volume   1392.82984552
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  'x, -y, -z'
+  4  '-x, y, -z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  'x+1/2, -y+1/2, -z'
+  8  '-x+1/2, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  8  0.15228100  0.23363100  0.36688500  1
+  Ga  Ga1  4  0.13626100  0.00000000  0.00000000  1
+  B  B2  8  0.01350650  0.22249750  0.58039400  1
+  B  B3  8  0.16874650  0.39789850  0.63224000  1
+  B  B4  4  0.00000000  0.30069000  0.75000000  1
+  H  H5  8  0.06004700  0.00343000  0.21312800  1
+  H  H6  8  0.11296600  0.46962500  0.20982200  1
+  H  H7  8  0.15816400  0.45656800  0.04643800  1
+  H  H8  8  0.21815950  0.36932350  0.17052400  1
+  O  O9  8  0.02724500  0.14756800  0.99379800  1
+  O  O10  8  0.04453950  0.21855850  0.83034600  1
+  O  O11  8  0.11644850  0.38846450  0.72329000  1
+  O  O12  8  0.11998450  0.38776550  0.17094900  1
+  O  O13  8  0.12276850  0.31081650  0.56228200  1
+  O  O14  8  0.23586050  0.00857950  0.11274400  1
+  O  O15  4  0.00000000  0.06177200  0.25000000  1
+  O  O16  4  0.21858100  0.50000000  0.00000000  1

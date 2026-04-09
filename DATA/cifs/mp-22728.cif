@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaMnFeF7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.65807100
+_cell_length_b   11.13575900
+_cell_length_c   9.35392657
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.73262493
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   BaMnFeF7
+_chemical_formula_sum   'Ba4 Mn4 Fe4 F28'
+_cell_volume   587.35266744
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.23540400  0.66852600  0.53993000  1
+  Mn  Mn1  4  0.18393300  0.06402900  0.61865700  1
+  Fe  Fe2  4  0.30943700  0.11975100  0.23510000  1
+  F  F3  4  0.02300100  0.01526300  0.21778800  1
+  F  F4  4  0.10371900  0.23811200  0.71069600  1
+  F  F5  4  0.13814000  0.60174600  0.01017400  1
+  F  F6  4  0.29410200  0.09460300  0.02691800  1
+  F  F7  4  0.34465200  0.14589500  0.44099200  1
+  F  F8  4  0.40575200  0.71317200  0.28184200  1
+  F  F9  4  0.49615300  0.53035000  0.75360400  1

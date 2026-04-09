@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ho3CrB7
+_symmetry_space_group_name_H-M   Cmcm
+_cell_length_a   3.43219482
+_cell_length_b   15.70887540
+_cell_length_c   9.31385099
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   63
+_chemical_formula_structural   Ho3CrB7
+_chemical_formula_sum   'Ho12 Cr4 B28'
+_cell_volume   502.16485210
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'x+1/2, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  8  0.00000000  0.10529624  0.05952385  1
+  Ho  Ho1  4  0.00000000  0.24227285  0.75000000  1
+  Cr  Cr2  4  0.00000000  0.05349554  0.75000000  1
+  B  B3  8  0.00000000  0.27305191  0.03238321  1
+  B  B4  8  0.00000000  0.36892037  0.15133509  1
+  B  B5  8  0.00000000  0.47918427  0.09681781  1
+  B  B6  4  0.00000000  0.45784535  0.75000000  1

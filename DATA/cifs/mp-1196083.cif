@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KH2AuC4N4O
+_symmetry_space_group_name_H-M   P2_12_12_1
+_cell_length_a   6.82344400
+_cell_length_b   7.50578000
+_cell_length_c   17.51149300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   19
+_chemical_formula_structural   KH2AuC4N4O
+_chemical_formula_sum   'K4 H8 Au4 C16 N16 O4'
+_cell_volume   896.85583345
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.23991900  0.03205600  0.01734400  1
+  H  H1  4  0.18530200  0.31238900  0.43035700  1
+  H  H2  4  0.22298700  0.40736900  0.50808900  1
+  Au  Au3  4  0.24222900  0.42816200  0.73902100  1
+  C  C4  4  0.00179500  0.85282100  0.81644100  1
+  C  C5  4  0.01131600  0.49961400  0.29388400  1
+  C  C6  4  0.13509000  0.33639900  0.83866200  1
+  C  C7  4  0.15120000  0.47586000  0.14025700  1
+  N  N8  4  0.08015200  0.28680000  0.89809600  1
+  N  N9  4  0.08819300  0.42243900  0.08267400  1
+  N  N10  4  0.12915100  0.95770400  0.17261900  1
+  N  N11  4  0.14029200  0.80476000  0.84957300  1
+  O  O12  4  0.12591300  0.33622000  0.48052500  1

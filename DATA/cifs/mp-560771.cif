@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_La4Ti9(Si2O15)2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   13.70935000
+_cell_length_b   5.78509200
+_cell_length_c   14.34919203
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.47106181
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   La4Ti9(Si2O15)2
+_chemical_formula_sum   'La8 Ti18 Si8 O60'
+_cell_volume   1132.84795330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  4  0.01673400  0.00000000  0.30857500  1
+  La  La1  4  0.20087000  0.50000000  0.68634700  1
+  Ti  Ti2  8  0.13612850  0.23593850  0.10952500  1
+  Ti  Ti3  4  0.09640000  0.50000000  0.88211200  1
+  Ti  Ti4  4  0.13124400  0.00000000  0.88189400  1
+  Ti  Ti5  2  0.00000000  0.50000000  0.50000000  1
+  Si  Si6  4  0.14710900  0.00000000  0.53446800  1
+  Si  Si7  4  0.15259900  0.50000000  0.32215200  1
+  O  O8  8  0.08856100  0.23351900  0.56671400  1
+  O  O9  8  0.10445850  0.24948150  0.78377600  1
+  O  O10  8  0.12161500  0.24805400  0.97528000  1
+  O  O11  8  0.15283650  0.26149550  0.26080900  1
+  O  O12  4  0.03817400  0.00000000  0.13485300  1
+  O  O13  4  0.03878300  0.50000000  0.11922700  1
+  O  O14  4  0.05761600  0.50000000  0.38189500  1
+  O  O15  4  0.16644000  0.00000000  0.42572300  1
+  O  O16  4  0.23417100  0.50000000  0.11686900  1
+  O  O17  4  0.23894700  0.00000000  0.13308200  1
+  O  O18  4  0.24671800  0.00000000  0.60764500  1

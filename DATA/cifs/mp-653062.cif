@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mo2Cl8O
+_symmetry_space_group_name_H-M   P2/c
+_cell_length_a   10.38143200
+_cell_length_b   6.66673700
+_cell_length_c   18.46577576
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.19914846
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   13
+_chemical_formula_structural   Mo2Cl8O
+_chemical_formula_sum   'Mo8 Cl32 O4'
+_cell_volume   1257.82646370
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  4  0.10837100  0.18044800  0.37278300  1
+  Mo  Mo1  4  0.44465500  0.03852700  0.83621900  1
+  Cl  Cl2  4  0.08735300  0.13604300  0.91746600  1
+  Cl  Cl3  4  0.09024900  0.30263700  0.11225300  1
+  Cl  Cl4  4  0.15745900  0.43256700  0.29909500  1
+  Cl  Cl5  4  0.21143100  0.31628900  0.48169400  1
+  Cl  Cl6  4  0.34687300  0.18983000  0.71764600  1
+  Cl  Cl7  4  0.40225200  0.10520200  0.07270100  1
+  Cl  Cl8  4  0.45236700  0.34235000  0.89630500  1
+  Cl  Cl9  2  0.00000000  0.00730900  0.25000000  1
+  Cl  Cl10  2  0.50000000  0.22803300  0.25000000  1
+  O  O11  4  0.29721100  0.06428600  0.35444100  1

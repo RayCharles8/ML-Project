@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TcO2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.49345500
+_cell_length_b   4.78907131
+_cell_length_c   5.54183666
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   118.50629214
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   TcO2
+_chemical_formula_sum   'Tc4 O8'
+_cell_volume   128.12185053
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  4  0.23494614  0.50534213  0.21985046  1
+  O  O1  4  0.10834921  0.21129015  0.37775768  1
+  O  O2  4  0.39534161  0.69114460  0.59038292  1

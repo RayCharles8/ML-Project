@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Cs3Te13Mo12
+_symmetry_space_group_name_H-M   R-3
+_cell_length_a   10.50698000
+_cell_length_b   10.50698000
+_cell_length_c   53.76494982
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   148
+_chemical_formula_structural   Cs3Te13Mo12
+_chemical_formula_sum   'Cs18 Te78 Mo72'
+_cell_volume   5140.26711636
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  'x+2/3, y+1/3, z+1/3'
+  8  '-x+2/3, -y+1/3, -z+1/3'
+  9  '-y+2/3, x-y+1/3, z+1/3'
+  10  'y+2/3, -x+y+1/3, -z+1/3'
+  11  '-x+y+2/3, -x+1/3, z+1/3'
+  12  'x-y+2/3, x+1/3, -z+1/3'
+  13  'x+1/3, y+2/3, z+2/3'
+  14  '-x+1/3, -y+2/3, -z+2/3'
+  15  '-y+1/3, x-y+2/3, z+2/3'
+  16  'y+1/3, -x+y+2/3, -z+2/3'
+  17  '-x+y+1/3, -x+2/3, z+2/3'
+  18  'x-y+1/3, x+2/3, -z+2/3'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  6  0.00000000  0.00000000  0.26601600  1
+  Cs  Cs1  6  0.00000000  0.00000000  0.35498700  1
+  Cs  Cs2  6  0.00000000  0.00000000  0.44344900  1
+  Te  Te3  18  0.00391100  0.37970000  0.64485900  1
+  Te  Te4  18  0.00414367  0.37818833  0.73105733  1
+  Te  Te5  18  0.00633733  0.37387867  0.81594467  1
+  Te  Te6  18  0.00991100  0.37753700  0.55832400  1
+  Te  Te7  6  0.00000000  0.00000000  0.19317000  1
+  Mo  Mo8  18  0.01523567  0.15565733  0.10801733  1
+  Mo  Mo9  18  0.01775933  0.15435767  0.84897967  1
+  Mo  Mo10  18  0.01844467  0.15461033  0.93492633  1
+  Mo  Mo11  18  0.01962167  0.15549833  0.02128133  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ge2RuC4(Cl3O2)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.66073000
+_cell_length_b   10.35020400
+_cell_length_c   12.21208236
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   129.91758036
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ge2RuC4(Cl3O2)2
+_chemical_formula_sum   'Ge4 Ru2 C8 Cl12 O8'
+_cell_volume   839.59635785
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  4  0.21870200  0.66917100  0.50545100  1
+  Ru  Ru1  2  0.00000000  0.00000000  0.00000000  1
+  C  C2  4  0.13694800  0.13405800  0.97457100  1
+  C  C3  4  0.20286600  0.01741900  0.20946200  1
+  Cl  Cl4  4  0.12710300  0.62956000  0.98061600  1
+  Cl  Cl5  4  0.24317000  0.64572900  0.33894700  1
+  Cl  Cl6  4  0.46576700  0.16767600  0.79907100  1
+  O  O7  4  0.21554200  0.21125800  0.95833600  1
+  O  O8  4  0.31972400  0.02699300  0.33135400  1

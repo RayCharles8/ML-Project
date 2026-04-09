@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_U2Te5
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   34.66345600
+_cell_length_b   4.18268400
+_cell_length_c   6.11050749
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.08229024
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   U2Te5
+_chemical_formula_sum   'U8 Te20'
+_cell_volume   882.45669046
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  4  0.05533200  0.50000000  0.02752900  1
+  U  U1  4  0.14952900  0.00000000  0.58105600  1
+  Te  Te2  4  0.00029000  0.00000000  0.74996200  1
+  Te  Te3  4  0.08224300  0.50000000  0.54231900  1
+  Te  Te4  4  0.12052400  0.00000000  0.06381200  1
+  Te  Te5  4  0.20025000  0.50000000  0.36003400  1
+  Te  Te6  4  0.20072400  0.50000000  0.84818800  1

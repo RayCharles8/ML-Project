@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb2Al2Si3O10
+_symmetry_space_group_name_H-M   Fdd2
+_cell_length_a   17.60660200
+_cell_length_b   18.86937200
+_cell_length_c   6.60623400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   43
+_chemical_formula_structural   Rb2Al2Si3O10
+_chemical_formula_sum   'Rb16 Al16 Si24 O80'
+_cell_volume   2194.75954435
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/4, y+3/4, z+3/4'
+  4  'x+1/4, -y+3/4, z+3/4'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/4, y+1/4, z+1/4'
+  8  'x+1/4, -y+1/4, z+1/4'
+  9  'x+1/2, y, z+1/2'
+  10  '-x+1/2, -y, z+1/2'
+  11  '-x+3/4, y+3/4, z+1/4'
+  12  'x+3/4, -y+3/4, z+1/4'
+  13  'x+1/2, y+1/2, z'
+  14  '-x+1/2, -y+1/2, z'
+  15  '-x+3/4, y+1/4, z+3/4'
+  16  'x+3/4, -y+1/4, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  16  0.04595400  0.31148600  0.37336200  1
+  Al  Al1  16  0.04079550  0.40751800  0.88305050  1
+  Si  Si2  16  0.10089950  0.03452300  0.62469550  1
+  Si  Si3  8  0.00000000  0.00000000  0.00019100  1
+  O  O4  16  0.04335350  0.43981100  0.63249150  1
+  O  O5  16  0.05254500  0.08422850  0.47153150  1
+  O  O6  16  0.06225050  0.31551650  0.89058800  1
+  O  O7  16  0.06359650  0.03993850  0.85607800  1
+  O  O8  16  0.10374900  0.45226250  0.04924850  1

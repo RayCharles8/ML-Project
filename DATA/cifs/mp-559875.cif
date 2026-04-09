@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K3Na2LiTeO6
+_symmetry_space_group_name_H-M   Cc
+_cell_length_a   9.40664800
+_cell_length_b   12.04681600
+_cell_length_c   6.88720157
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   93.73796532
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   9
+_chemical_formula_structural   K3Na2LiTeO6
+_chemical_formula_sum   'K12 Na8 Li4 Te4 O24'
+_cell_volume   778.79844934
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.10814900  0.49070100  0.73957000  1
+  K  K1  4  0.25710400  0.03982300  0.25427000  1
+  K  K2  4  0.43899950  0.45309850  0.07379300  1
+  Na  Na3  4  0.15813700  0.23184700  0.60184000  1
+  Na  Na4  4  0.35518700  0.21568500  0.90445800  1
+  Li  Li5  4  0.24823500  0.27790200  0.25082600  1
+  Te  Te6  4  0.49986100  0.25697200  0.50003400  1
+  O  O7  4  0.05666600  0.19921900  0.27352700  1
+  O  O8  4  0.11340950  0.12047350  0.89994500  1
+  O  O9  4  0.17416500  0.33799900  0.00384400  1
+  O  O10  4  0.32522850  0.35277150  0.48577200  1
+  O  O11  4  0.38737850  0.13244850  0.59736100  1
+  O  O12  4  0.44408100  0.21037800  0.22696200  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NbXeF11
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   17.49919400
+_cell_length_b   8.88638300
+_cell_length_c   5.58541100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   NbXeF11
+_chemical_formula_sum   'Nb4 Xe4 F44'
+_cell_volume   868.55676869
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  4  0.04461700  0.75000000  0.71521000  1
+  Xe  Xe1  4  0.14871300  0.25000000  0.79516100  1
+  F  F2  8  0.03753800  0.53501200  0.73434600  1
+  F  F3  8  0.15336600  0.09176800  0.04629500  1
+  F  F4  8  0.18275600  0.09235400  0.56612000  1
+  F  F5  4  0.02323600  0.25000000  0.98870600  1
+  F  F6  4  0.05575200  0.25000000  0.47218100  1
+  F  F7  4  0.09275100  0.75000000  0.41360100  1
+  F  F8  4  0.13742000  0.75000000  0.88607900  1
+  F  F9  4  0.24092000  0.75000000  0.36166300  1

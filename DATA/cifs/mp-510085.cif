@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er2Ti3Si4
+_symmetry_space_group_name_H-M   P4_12_12
+_cell_length_a   7.01126263
+_cell_length_b   7.01126263
+_cell_length_c   12.86408877
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   92
+_chemical_formula_structural   Er2Ti3Si4
+_chemical_formula_sum   'Er8 Ti12 Si16'
+_cell_volume   632.37035021
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z+1/4'
+  3  '-x, -y, z+1/2'
+  4  'y+1/2, -x+1/2, z+3/4'
+  5  'x+1/2, -y+1/2, -z+3/4'
+  6  '-y, -x, -z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/4'
+  8  'y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  8  0.00059749  0.34107806  0.53394662  1
+  Ti  Ti1  8  0.00792684  0.15194554  0.12404398  1
+  Ti  Ti2  4  0.17208384  0.82791616  0.25000000  1
+  Si  Si3  8  0.04777169  0.70872204  0.43584859  1
+  Si  Si4  8  0.13144893  0.20417700  0.31700303  1

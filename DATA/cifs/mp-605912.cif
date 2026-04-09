@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Al2NiCl8
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   17.03425606
+_cell_length_b   7.84640488
+_cell_length_c   11.49299555
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   130.25929370
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Al2NiCl8
+_chemical_formula_sum   'Al8 Ni4 Cl32'
+_cell_volume   1172.26099953
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  8  0.08361849  0.24386775  0.53142751  1
+  Ni  Ni1  4  0.00000000  0.00378275  0.25000000  1
+  Cl  Cl2  8  0.06974287  0.22021934  0.18904886  1
+  Cl  Cl3  8  0.08237609  0.22424286  0.71835566  1
+  Cl  Cl4  8  0.15049915  0.01835190  0.51501123  1
+  Cl  Cl5  8  0.15666578  0.47124319  0.55493910  1

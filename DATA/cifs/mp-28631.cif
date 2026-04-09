@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Nd(Mo4O7)2
+_symmetry_space_group_name_H-M   Aea2
+_cell_length_a   9.41286700
+_cell_length_b   10.81576600
+_cell_length_c   12.39874400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   41
+_chemical_formula_structural   Nd(Mo4O7)2
+_chemical_formula_sum   'Nd4 Mo32 O56'
+_cell_volume   1262.28347903
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/2, y, z+1/2'
+  8  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  4  0.00000000  0.00000000  0.54321900  1
+  Mo  Mo1  8  0.12714600  0.18678600  0.94730100  1
+  Mo  Mo2  8  0.12907600  0.17246050  0.21177450  1
+  Mo  Mo3  8  0.14315700  0.41507800  0.57915700  1
+  Mo  Mo4  8  0.14552100  0.43133200  0.33040600  1
+  O  O5  8  0.00289200  0.23980100  0.07591600  1
+  O  O6  8  0.01972300  0.26814400  0.34050600  1
+  O  O7  8  0.20714500  0.36788200  0.95515800  1
+  O  O8  8  0.24166700  0.34227250  0.20668050  1
+  O  O9  8  0.24640000  0.09220750  0.07408650  1
+  O  O10  8  0.24666400  0.09996000  0.34151700  1
+  O  O11  4  0.00000000  0.00000000  0.19107100  1
+  O  O12  4  0.00000000  0.00000000  0.71931300  1

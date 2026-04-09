@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sc3Si3Rh
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   11.69066006
+_cell_length_b   4.02264751
+_cell_length_c   10.20439522
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Sc3Si3Rh
+_chemical_formula_sum   'Sc12 Si12 Rh4'
+_cell_volume   479.88622251
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  4  0.02029714  0.25000000  0.12264796  1
+  Sc  Sc1  4  0.10173995  0.25000000  0.42038583  1
+  Sc  Sc2  4  0.20048285  0.75000000  0.65854762  1
+  Si  Si3  4  0.04462942  0.25000000  0.69488514  1
+  Si  Si4  4  0.15798407  0.75000000  0.24962624  1
+  Si  Si5  4  0.17708413  0.75000000  0.01411735  1
+  Rh  Rh6  4  0.17857318  0.25000000  0.88907376  1

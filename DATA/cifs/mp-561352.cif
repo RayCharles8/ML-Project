@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_BaNa2Ti2(Si2O7)2
+_symmetry_space_group_name_H-M   Ima2
+_cell_length_a   10.53705800
+_cell_length_b   14.06022000
+_cell_length_c   8.21688800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   46
+_chemical_formula_structural   BaNa2Ti2(Si2O7)2
+_chemical_formula_sum   'Ba4 Na8 Ti8 Si16 O56'
+_cell_volume   1217.35951362
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y, z'
+  4  'x+1/2, -y, z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.25000000  0.74861050  0.47692400  1
+  Na  Na1  4  0.00000000  0.00000000  0.97835000  1
+  Na  Na2  4  0.25000000  0.15676900  0.96892050  1
+  Ti  Ti3  4  0.25000000  0.53086150  0.20617700  1
+  Ti  Ti4  4  0.25000000  0.53231800  0.70412150  1
+  Si  Si5  8  0.02896100  0.14507950  0.28728300  1
+  Si  Si6  8  0.02900750  0.14479400  0.68221650  1
+  O  O7  8  0.03597750  0.14275100  0.48474350  1
+  O  O8  8  0.08869950  0.24955000  0.73656250  1
+  O  O9  8  0.11714400  0.06602550  0.20027300  1
+  O  O10  8  0.11898250  0.63831300  0.24063450  1
+  O  O11  8  0.11936400  0.06550650  0.76552200  1
+  O  O12  8  0.11966400  0.63989750  0.73222500  1
+  O  O13  4  0.25000000  0.53358650  0.99696600  1
+  O  O14  4  0.25000000  0.54661700  0.49451750  1

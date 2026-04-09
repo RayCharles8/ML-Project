@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2PO3F
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   7.75685400
+_cell_length_b   6.06130000
+_cell_length_c   10.23903400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   K2PO3F
+_chemical_formula_sum   'K8 P4 O12 F4'
+_cell_volume   481.40476204
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.01299300  0.25000000  0.27549400  1
+  K  K1  4  0.18116900  0.25000000  0.92993300  1
+  P  P2  4  0.23910400  0.25000000  0.59342400  1
+  O  O3  8  0.24469500  0.53791500  0.17194900  1
+  O  O4  4  0.16686900  0.75000000  0.96263200  1
+  F  F5  4  0.03114600  0.25000000  0.54937400  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2Er2B2TeO10
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.34853000
+_cell_length_b   9.97563500
+_cell_length_c   6.75724419
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.95718133
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Na2Er2B2TeO10
+_chemical_formula_sum   'Na4 Er4 B4 Te2 O20'
+_cell_volume   415.30604397
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.41490200  0.61109800  0.83342400  1
+  Er  Er1  4  0.12693400  0.16575600  0.02388300  1
+  B  B2  4  0.33671600  0.59982400  0.37339400  1
+  Te  Te3  2  0.00000000  0.00000000  0.50000000  1
+  O  O4  4  0.00313800  0.65108400  0.82068700  1
+  O  O5  4  0.16191500  0.11702400  0.36387600  1
+  O  O6  4  0.19801100  0.56248500  0.49189600  1
+  O  O7  4  0.29038000  0.56259800  0.16355000  1
+  O  O8  4  0.47878800  0.17091500  0.05546200  1

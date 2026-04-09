@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu4C7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   3.58344290
+_cell_length_b   13.45768037
+_cell_length_c   6.25742485
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.32951491
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Lu4C7
+_chemical_formula_sum   'Lu8 C14'
+_cell_volume   291.02691859
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  4  0.05782455  0.65977743  0.66068087  1
+  Lu  Lu1  4  0.36597839  0.55439505  0.24063694  1
+  C  C2  4  0.26757100  0.10356060  0.54947978  1
+  C  C3  4  0.37747071  0.19752634  0.54455499  1
+  C  C4  4  0.46357274  0.71373437  0.42406359  1
+  C  C5  2  0.00000000  0.00000000  0.00000000  1

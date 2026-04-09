@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Na2Al2Si3(HO3)4
+_symmetry_space_group_name_H-M   Fdd2
+_cell_length_a   18.57488200
+_cell_length_b   18.87352200
+_cell_length_c   6.65130800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   43
+_chemical_formula_structural   Na2Al2Si3(HO3)4
+_chemical_formula_sum   'Na16 Al16 Si24 H32 O96'
+_cell_volume   2331.77195316
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/4, y+3/4, z+3/4'
+  4  'x+1/4, -y+3/4, z+3/4'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/4, y+1/4, z+1/4'
+  8  'x+1/4, -y+1/4, z+1/4'
+  9  'x+1/2, y, z+1/2'
+  10  '-x+1/2, -y, z+1/2'
+  11  '-x+3/4, y+3/4, z+1/4'
+  12  'x+3/4, -y+3/4, z+1/4'
+  13  'x+1/2, y+1/2, z'
+  14  '-x+1/2, -y+1/2, z'
+  15  '-x+3/4, y+1/4, z+3/4'
+  16  'x+3/4, -y+1/4, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  16  0.03032250  0.28150100  0.86781850  1
+  Al  Al1  16  0.03839000  0.09304800  0.61592200  1
+  Si  Si2  16  0.09582650  0.46044200  0.87387450  1
+  Si  Si3  8  0.00000000  0.00000000  0.00054600  1
+  H  H4  16  0.05167350  0.14497800  0.03855250  1
+  H  H5  16  0.10255800  0.19039500  0.18190100  1
+  O  O6  16  0.02333600  0.06871000  0.86803800  1
+  O  O7  16  0.04218800  0.40228500  0.97619100  1
+  O  O8  16  0.05589200  0.19029100  0.11238200  1
+  O  O9  16  0.06958350  0.47684700  0.63988550  1
+  O  O10  16  0.07187500  0.18032300  0.61039100  1
+  O  O11  16  0.09898900  0.03421100  0.50067100  1

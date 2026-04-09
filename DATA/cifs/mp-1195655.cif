@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CdCu(SeO3)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.62502288
+_cell_length_b   10.54723100
+_cell_length_c   7.35969200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.40049480
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   CdCu(SeO3)2
+_chemical_formula_sum   'Cd4 Cu4 Se8 O24'
+_cell_volume   590.14277828
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  4  0.26053800  0.54976800  0.98642900  1
+  Cu  Cu1  4  0.31647900  0.58220900  0.52297700  1
+  Se  Se2  4  0.05375600  0.10795900  0.80342700  1
+  Se  Se3  4  0.43145600  0.22079400  0.25352000  1
+  O  O4  4  0.01344900  0.13845300  0.57525500  1
+  O  O5  4  0.13292700  0.51383300  0.66914700  1
+  O  O6  4  0.21255700  0.51143000  0.28781800  1
+  O  O7  4  0.36000500  0.71038400  0.72121800  1
+  O  O8  4  0.45240200  0.11339900  0.43254200  1
+  O  O9  4  0.45704500  0.11967800  0.07127500  1

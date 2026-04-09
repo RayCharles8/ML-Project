@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_GdHSO5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   4.44566696
+_cell_length_b   12.34516100
+_cell_length_c   7.04975136
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.62372188
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   GdHSO5
+_chemical_formula_sum   'Gd4 H4 S4 O20'
+_cell_volume   362.11234190
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  4  0.16294500  0.06058100  0.79877900  1
+  H  H1  4  0.21405900  0.65293800  0.48607100  1
+  S  S2  4  0.41300700  0.14847600  0.39242800  1
+  O  O3  4  0.19481300  0.07022000  0.44915200  1
+  O  O4  4  0.23790200  0.58053500  0.54632300  1
+  O  O5  4  0.23987500  0.24842500  0.82921100  1
+  O  O6  4  0.29406200  0.66543500  0.93098500  1
+  O  O7  4  0.48292700  0.10051300  0.21983600  1

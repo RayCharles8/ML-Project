@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Na3LiTi2Si4(HO4)4
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   28.88525000
+_cell_length_b   8.67413000
+_cell_length_c   5.27908504
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.38639319
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Na3LiTi2Si4(HO4)4
+_chemical_formula_sum   'Na12 Li4 Ti8 Si16 H16 O64'
+_cell_volume   1322.66797990
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.16575750  0.19108350  0.61572400  1
+  Na  Na1  4  0.00000000  0.34942100  0.25000000  1
+  Li  Li2  4  0.00000000  0.00979200  0.75000000  1
+  Ti  Ti3  8  0.16498900  0.40581200  0.12360200  1
+  Si  Si4  8  0.09226300  0.09898300  0.03630500  1
+  Si  Si5  8  0.23624050  0.09263250  0.20765900  1
+  H  H6  8  0.04423000  0.31908000  0.74078800  1
+  H  H7  8  0.07768700  0.41842200  0.57273900  1
+  O  O8  8  0.03758450  0.12724150  0.01781300  1
+  O  O9  8  0.04467100  0.40010400  0.61036400  1
+  O  O10  8  0.11039700  0.02186800  0.30904600  1
+  O  O11  8  0.12489100  0.25239200  0.99549500  1
+  O  O12  8  0.13637350  0.43083050  0.43224000  1
+  O  O13  8  0.20727550  0.41420150  0.78680600  1
+  O  O14  8  0.21332750  0.26168250  0.23799600  1
+  O  O15  8  0.21516700  0.00950600  0.94855400  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KCa7Si3(O4F)3
+_symmetry_space_group_name_H-M   P31c
+_cell_length_a   10.92933273
+_cell_length_b   10.92933273
+_cell_length_c   6.70020100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   159
+_chemical_formula_structural   KCa7Si3(O4F)3
+_chemical_formula_sum   'K2 Ca14 Si6 O24 F6'
+_cell_volume   693.11573523
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z'
+  3  '-x+y, -x, z'
+  4  'y, x, z+1/2'
+  5  'x-y, -y, z+1/2'
+  6  '-x, -x+y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.33333333  0.66666667  0.18933400  1
+  Ca  Ca1  6  0.06146367  0.51887133  0.55479900  1
+  Ca  Ca2  6  0.17498367  0.80672033  0.87236700  1
+  Ca  Ca3  2  0.00000000  0.00000000  0.15253300  1
+  Si  Si4  6  0.15403933  0.81618967  0.35075500  1
+  O  O5  6  0.03428833  0.86086567  0.40964000  1
+  O  O6  6  0.05637433  0.34313567  0.22547600  1
+  O  O7  6  0.07324233  0.67084667  0.21527600  1
+  O  O8  6  0.21807133  0.77086867  0.54257000  1
+  F  F9  6  0.15160933  0.56319667  0.88325700  1

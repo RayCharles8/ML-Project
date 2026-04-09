@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsLaZr6FeCl18
+_symmetry_space_group_name_H-M   P-31c
+_cell_length_a   9.86218993
+_cell_length_b   9.86218993
+_cell_length_c   18.73291200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   163
+_chemical_formula_structural   CsLaZr6FeCl18
+_chemical_formula_sum   'Cs2 La2 Zr12 Fe2 Cl36'
+_cell_volume   1577.91152828
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  '-y, -x, -z+1/2'
+  8  'y, x, z+1/2'
+  9  '-x+y, y, -z+1/2'
+  10  'x-y, -y, z+1/2'
+  11  'x, x-y, -z+1/2'
+  12  '-x, -x+y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  2  0.33333333  0.66666667  0.25000000  1
+  La  La1  2  0.33333333  0.66666667  0.75000000  1
+  Zr  Zr2  12  0.04197600  0.21985200  0.57486400  1
+  Fe  Fe3  2  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl4  12  0.04432900  0.23255300  0.34159500  1
+  Cl  Cl5  12  0.08112200  0.45628900  0.66335500  1
+  Cl  Cl6  12  0.14653800  0.41946900  0.00118200  1

@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_BaNa2Al4(SiO4)4
+_symmetry_space_group_name_H-M   Iba2
+_cell_length_a   8.68737200
+_cell_length_b   10.07988400
+_cell_length_c   16.95064000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   45
+_chemical_formula_structural   BaNa2Al4(SiO4)4
+_chemical_formula_sum   'Ba4 Na8 Al16 Si16 O64'
+_cell_volume   1484.32859265
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00000000  0.50000000  0.34608800  1
+  Na  Na1  8  0.04038050  0.67300450  0.59524650  1
+  Al  Al2  8  0.07069350  0.18606650  0.43700350  1
+  Al  Al3  8  0.22121200  0.05663100  0.18909200  1
+  Si  Si4  8  0.07672950  0.19336150  0.75400550  1
+  Si  Si5  8  0.23344100  0.06102200  0.00274100  1
+  O  O6  8  0.00333950  0.20871650  0.84205650  1
+  O  O7  8  0.05200450  0.14958350  0.18849050  1
+  O  O8  8  0.07551100  0.14708400  0.00509600  1
+  O  O9  8  0.12401750  0.34805550  0.46808150  1
+  O  O10  8  0.12840650  0.34462950  0.72804650  1
+  O  O11  8  0.21439300  0.48396600  0.59251000  1
+  O  O12  8  0.21936400  0.08636700  0.74988100  1
+  O  O13  8  0.22178300  0.06943100  0.44490000  1

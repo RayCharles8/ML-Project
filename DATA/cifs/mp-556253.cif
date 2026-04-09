@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tm2O3
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   13.71584173
+_cell_length_b   3.40460259
+_cell_length_c   8.42989807
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.20678327
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Tm2O3
+_chemical_formula_sum   'Tm12 O18'
+_cell_volume   387.42119978
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  4  0.03273738  0.00000000  0.81369131  1
+  Tm  Tm1  4  0.13513331  0.50000000  0.48692195  1
+  Tm  Tm2  4  0.19104973  0.50000000  0.13726720  1
+  O  O3  4  0.02974609  0.50000000  0.65672359  1
+  O  O4  4  0.12742081  0.00000000  0.28146823  1
+  O  O5  4  0.17447614  0.00000000  0.96885924  1
+  O  O6  4  0.20676812  0.00000000  0.62301450  1
+  O  O7  2  0.00000000  0.50000000  0.00000000  1

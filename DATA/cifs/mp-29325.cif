@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Zn(Mo4O5)2
+_symmetry_space_group_name_H-M   I4_1md
+_cell_length_a   6.40907200
+_cell_length_b   6.40907200
+_cell_length_c   25.60551200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   109
+_chemical_formula_structural   Zn(Mo4O5)2
+_chemical_formula_sum   'Zn4 Mo32 O40'
+_cell_volume   1051.77723191
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  '-x, y, z'
+  6  'y, x+1/2, z+1/4'
+  7  'x+1/2, -y+1/2, z+1/2'
+  8  '-y+1/2, -x, z+3/4'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-y+1/2, x, z+3/4'
+  11  '-x, -y, z'
+  12  'y, -x+1/2, z+1/4'
+  13  '-x+1/2, y+1/2, z+1/2'
+  14  'y+1/2, x, z+3/4'
+  15  'x, -y, z'
+  16  '-y, -x+1/2, z+1/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  4  0.00000000  0.00000000  0.87702100  1
+  Mo  Mo1  8  0.00000000  0.22920200  0.57722800  1
+  Mo  Mo2  8  0.00000000  0.23358400  0.74722600  1
+  Mo  Mo3  8  0.00000000  0.25361850  0.41371850  1
+  Mo  Mo4  8  0.00000000  0.26454600  0.24984100  1
+  O  O5  8  0.00000000  0.20449450  0.33162950  1
+  O  O6  8  0.00000000  0.23129650  0.16657950  1
+  O  O7  8  0.00000000  0.25004500  0.99724300  1
+  O  O8  8  0.00000000  0.25750900  0.83155400  1
+  O  O9  8  0.00000000  0.27985600  0.66333000  1

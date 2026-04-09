@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaMnP(O2F)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.26544800
+_cell_length_b   13.01595300
+_cell_length_c   8.04711834
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.12008022
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   BaMnP(O2F)2
+_chemical_formula_sum   'Ba4 Mn4 P4 O16 F8'
+_cell_volume   495.18418188
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.14841000  0.70304300  0.68989300  1
+  Mn  Mn1  2  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn2  2  0.50000000  0.00000000  0.00000000  1
+  P  P3  4  0.37017900  0.10981000  0.30278800  1
+  O  O4  4  0.21197900  0.09476600  0.42579900  1
+  O  O5  4  0.27664600  0.21293700  0.20277400  1
+  O  O6  4  0.30449400  0.61399800  0.06174600  1
+  O  O7  4  0.31029100  0.01868100  0.16331800  1
+  F  F8  4  0.16822400  0.06238000  0.76429200  1
+  F  F9  4  0.33812700  0.63503600  0.44714300  1

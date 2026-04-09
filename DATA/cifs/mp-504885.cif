@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaFe(Si2O5)2
+_symmetry_space_group_name_H-M   P2_12_12
+_cell_length_a   7.39721658
+_cell_length_b   7.53704870
+_cell_length_c   8.10636769
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   18
+_chemical_formula_structural   BaFe(Si2O5)2
+_chemical_formula_sum   'Ba2 Fe2 Si8 O20'
+_cell_volume   451.95579000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  2  0.00000000  0.00000000  0.02031077  1
+  Fe  Fe1  2  0.00000000  0.50000000  0.81091086  1
+  Si  Si2  4  0.18549730  0.27807029  0.32614221  1
+  Si  Si3  4  0.24172733  0.68515780  0.29682294  1
+  O  O4  4  0.02713232  0.72371044  0.27337840  1
+  O  O5  4  0.14779620  0.27788015  0.84805470  1
+  O  O6  4  0.19587471  0.25077234  0.52285582  1
+  O  O7  4  0.22300355  0.62741812  0.78107838  1
+  O  O8  4  0.22796782  0.97093585  0.71999781  1

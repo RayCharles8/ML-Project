@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeGePd
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   21.93864433
+_cell_length_b   4.49217122
+_cell_length_c   7.69087259
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   CeGePd
+_chemical_formula_sum   'Ce12 Ge12 Pd12'
+_cell_volume   757.95200347
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  4  0.00231973  0.25000000  0.72087731  1
+  Ce  Ce1  4  0.16580850  0.25000000  0.79082237  1
+  Ce  Ce2  4  0.16754545  0.75000000  0.21330605  1
+  Ge  Ge3  4  0.07260506  0.25000000  0.09104410  1
+  Ge  Ge4  4  0.10342292  0.75000000  0.58661863  1
+  Ge  Ge5  4  0.23041219  0.75000000  0.58736587  1
+  Pd  Pd6  4  0.06780497  0.75000000  0.91651032  1
+  Pd  Pd7  4  0.09211023  0.25000000  0.42260219  1
+  Pd  Pd8  4  0.23948191  0.25000000  0.41995218  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ca5Pd2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   16.53170527
+_cell_length_b   6.67744998
+_cell_length_c   7.71543536
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   97.33854067
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Ca5Pd2
+_chemical_formula_sum   'Ca20 Pd8'
+_cell_volume   844.72756986
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  8  0.09089865  0.10822550  0.91757354  1
+  Ca  Ca1  8  0.21681568  0.41990870  0.32035811  1
+  Ca  Ca2  4  0.00000000  0.42338066  0.25000000  1
+  Pd  Pd3  8  0.11060154  0.29146132  0.58183796  1

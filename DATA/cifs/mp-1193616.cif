@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2PtC4(N2Cl)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.21300000
+_cell_length_b   9.34113200
+_cell_length_c   8.66528607
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.50675684
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   K2PtC4(N2Cl)2
+_chemical_formula_sum   'K4 Pt2 C8 N8 Cl4'
+_cell_volume   559.78355542
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.48838400  0.72130100  0.87593500  1
+  Pt  Pt1  2  0.00000000  0.00000000  0.00000000  1
+  C  C2  4  0.19294600  0.04990900  0.21198300  1
+  C  C3  4  0.20144100  0.03996900  0.88421200  1
+  N  N4  4  0.31392900  0.07668000  0.33062400  1
+  N  N5  4  0.32560900  0.06168600  0.82504600  1
+  Cl  Cl6  4  0.10907200  0.74060200  0.53536000  1

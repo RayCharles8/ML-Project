@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_La5FeRe3O16
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.70065245
+_cell_length_b   5.70602541
+_cell_length_c   10.28427334
+_cell_angle_alpha   93.85491863
+_cell_angle_beta   93.58273222
+_cell_angle_gamma   90.27054952
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   La5FeRe3O16
+_chemical_formula_sum   'La5 Fe1 Re3 O16'
+_cell_volume   333.10497262
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  2  0.03268450  0.50315500  0.20737350  1
+  La  La1  2  0.48712600  0.97595750  0.80288800  1
+  La  La2  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.00000000  1
+  Re  Re4  2  0.44483750  0.44452600  0.60524750  1
+  Re  Re5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  2  0.07861500  0.07925450  0.18384800  1
+  O  O7  2  0.17453550  0.28460000  0.96071250  1
+  O  O8  2  0.22499950  0.22079100  0.67462650  1
+  O  O9  2  0.22502700  0.69711800  0.63495400  1
+  O  O10  2  0.29658500  0.76838050  0.36447300  1
+  O  O11  2  0.30495500  0.81445650  0.99643400  1
+  O  O12  2  0.30977800  0.30614400  0.43504000  1
+  O  O13  2  0.45271100  0.45164550  0.19925700  1

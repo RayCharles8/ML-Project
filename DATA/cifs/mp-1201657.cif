@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Er2ReB6
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   9.11086909
+_cell_length_b   11.47171638
+_cell_length_c   3.64951580
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   Er2ReB6
+_chemical_formula_sum   'Er8 Re4 B24'
+_cell_volume   381.43756034
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  4  0.05712622  0.13016603  0.00000000  1
+  Er  Er1  4  0.17646336  0.41399871  0.00000000  1
+  Re  Re2  4  0.13855233  0.67940378  0.00000000  1
+  B  B3  4  0.01821044  0.28815212  0.50000000  1
+  B  B4  4  0.05318559  0.56691473  0.50000000  1
+  B  B5  4  0.09961142  0.97220632  0.50000000  1
+  B  B6  4  0.13063206  0.81484514  0.50000000  1
+  B  B7  4  0.20778496  0.23515285  0.50000000  1
+  B  B8  4  0.24953053  0.58110347  0.50000000  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba2Cu2Te2P2O13
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   17.85498200
+_cell_length_b   7.45734000
+_cell_length_c   9.29134084
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.97003657
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Ba2Cu2Te2P2O13
+_chemical_formula_sum   'Ba8 Cu8 Te8 P8 O52'
+_cell_volume   1218.46538967
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  8  0.14438550  0.36830450  0.10737900  1
+  Cu  Cu1  4  0.00000000  0.30546700  0.75000000  1
+  Cu  Cu2  4  0.25000000  0.25000000  0.50000000  1
+  Te  Te3  8  0.05915050  0.15572750  0.42954100  1
+  P  P4  8  0.16323700  0.16190100  0.76763700  1
+  O  O5  8  0.00044600  0.29325700  0.96019400  1
+  O  O6  8  0.11143400  0.32742300  0.78883100  1
+  O  O7  8  0.11462550  0.02373750  0.66503600  1
+  O  O8  8  0.14143950  0.31624250  0.43007200  1
+  O  O9  8  0.19686150  0.08335250  0.91768200  1
+  O  O10  8  0.23098300  0.23576100  0.69857800  1
+  O  O11  4  0.00000000  0.28355600  0.25000000  1

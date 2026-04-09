@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HfTl8(MoO4)6
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   10.18601800
+_cell_length_b   19.23878800
+_cell_length_c   8.00524455
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.61787379
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   HfTl8(MoO4)6
+_chemical_formula_sum   'Hf2 Tl16 Mo12 O48'
+_cell_volume   1486.66584290
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  2  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl1  8  0.18978350  0.32615450  0.10311900  1
+  Tl  Tl2  4  0.00000000  0.33360500  0.50000000  1
+  Tl  Tl3  4  0.21487300  0.00000000  0.64114100  1
+  Mo  Mo4  8  0.10202850  0.15774850  0.29166900  1
+  Mo  Mo5  4  0.11253700  0.50000000  0.78674800  1
+  O  O6  8  0.01214750  0.42535750  0.79955900  1
+  O  O7  8  0.01300600  0.22994200  0.77084300  1
+  O  O8  8  0.01583300  0.07527200  0.19228600  1
+  O  O9  8  0.17285700  0.15015500  0.52557400  1
+  O  O10  8  0.24010700  0.17529600  0.20741800  1
+  O  O11  4  0.15046700  0.50000000  0.58511200  1
+  O  O12  4  0.21492100  0.00000000  0.03591700  1

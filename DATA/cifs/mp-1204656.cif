@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Si2H5CNCl4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.83958700
+_cell_length_b   12.31337400
+_cell_length_c   10.64201942
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.11554280
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Si2H5CNCl4
+_chemical_formula_sum   'Si8 H20 C4 N4 Cl16'
+_cell_volume   1026.59275081
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  4  0.16212700  0.54676500  0.69432800  1
+  Si  Si1  4  0.44000500  0.69512100  0.79704400  1
+  H  H2  4  0.02439000  0.61268400  0.91742900  1
+  H  H3  4  0.15310200  0.72622800  0.95857600  1
+  H  H4  4  0.21854200  0.59191800  0.00764900  1
+  H  H5  4  0.27907400  0.53880000  0.58908500  1
+  H  H6  4  0.48673000  0.17196000  0.82615500  1
+  C  C7  4  0.15724700  0.64001800  0.93102300  1
+  N  N8  4  0.24977200  0.62696500  0.81251400  1
+  Cl  Cl9  4  0.06748800  0.11098000  0.87202700  1
+  Cl  Cl10  4  0.10510900  0.10516100  0.26125200  1
+  Cl  Cl11  4  0.38759400  0.15305000  0.56017800  1
+  Cl  Cl12  4  0.40175800  0.63957800  0.31464400  1

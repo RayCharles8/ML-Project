@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cr2CdH14(NO2)4
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.22783800
+_cell_length_b   7.03592394
+_cell_length_c   7.87918056
+_cell_angle_alpha   107.78911708
+_cell_angle_beta   93.27729379
+_cell_angle_gamma   115.30156348
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Cr2CdH14(NO2)4
+_chemical_formula_sum   'Cr2 Cd1 H14 N4 O8'
+_cell_volume   290.05656796
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  2  0.32404100  0.66980900  0.77763000  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.00000000  1
+  H  H2  2  0.02539100  0.12800800  0.68979600  1
+  H  H3  2  0.03427400  0.88548000  0.64026800  1
+  H  H4  2  0.15357300  0.55956700  0.20020600  1
+  H  H5  2  0.22800800  0.11215400  0.34873400  1
+  H  H6  2  0.34996900  0.71231400  0.40950100  1
+  H  H7  2  0.41180700  0.80864000  0.23735500  1
+  H  H8  2  0.42330100  0.56700700  0.22308500  1
+  N  N9  2  0.04555200  0.02327000  0.28996500  1
+  N  N10  2  0.33571100  0.66399400  0.26803900  1
+  O  O11  2  0.12986800  0.70995700  0.90670500  1
+  O  O12  2  0.18890300  0.40518100  0.63573000  1
+  O  O13  2  0.40025700  0.84141700  0.65889900  1
+  O  O14  2  0.42437000  0.28654000  0.09260600  1

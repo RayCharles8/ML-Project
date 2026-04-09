@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_CaZrSi6H4O17
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   14.17890772
+_cell_length_b   14.32894800
+_cell_length_c   7.95903142
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.20668604
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   CaZrSi6H4O17
+_chemical_formula_sum   'Ca4 Zr4 Si24 H16 O68'
+_cell_volume   1527.02013027
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  4  0.24530300  0.00000000  0.95275100  1
+  Zr  Zr1  4  0.25000000  0.25000000  0.00000000  1
+  Si  Si2  8  0.00371250  0.25758150  0.30261300  1
+  Si  Si3  8  0.15971750  0.10990750  0.26989100  1
+  Si  Si4  8  0.18730400  0.38623300  0.33785200  1
+  H  H5  8  0.04193900  0.05428300  0.71832700  1
+  H  H6  8  0.04529750  0.44478650  0.82899500  1
+  O  O7  8  0.05584550  0.16613150  0.24429100  1
+  O  O8  8  0.07389650  0.35075550  0.31312500  1
+  O  O9  8  0.10480850  0.27495950  0.83773300  1
+  O  O10  8  0.20362750  0.12879450  0.10939500  1
+  O  O11  8  0.22825700  0.34762500  0.18407000  1
+  O  O12  8  0.24057350  0.13807750  0.46196500  1
+  O  O13  4  0.00000000  0.23376400  0.50000000  1
+  O  O14  4  0.08581300  0.00000000  0.73323500  1
+  O  O15  4  0.08816600  0.50000000  0.85994900  1
+  O  O16  4  0.13009300  0.00000000  0.27136200  1
+  O  O17  4  0.18130900  0.50000000  0.30786200  1

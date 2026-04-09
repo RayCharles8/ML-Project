@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Hg3H6Pt(NCl4)2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   19.36102800
+_cell_length_b   6.70992400
+_cell_length_c   13.29172656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.22751779
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Hg3H6Pt(NCl4)2
+_chemical_formula_sum   'Hg12 H24 Pt4 N8 Cl32'
+_cell_volume   1708.96954969
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  8  0.19815500  0.01475500  0.92021400  1
+  Hg  Hg1  4  0.00000000  0.00000000  0.00000000  1
+  H  H2  8  0.06153700  0.47022900  0.66874000  1
+  H  H3  8  0.08802950  0.46998750  0.79312700  1
+  H  H4  8  0.12017100  0.36490300  0.21870800  1
+  Pt  Pt5  4  0.00000000  0.22939500  0.25000000  1
+  N  N6  8  0.07568500  0.43945800  0.23069400  1
+  Cl  Cl7  8  0.06251500  0.28673600  0.96660000  1
+  Cl  Cl8  8  0.08270650  0.00943150  0.72735000  1
+  Cl  Cl9  8  0.15095800  0.26256000  0.49244800  1
+  Cl  Cl10  8  0.24627900  0.22088200  0.14959100  1

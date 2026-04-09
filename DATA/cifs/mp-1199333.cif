@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Zn3As2(HO)16
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   10.44009960
+_cell_length_b   13.95095600
+_cell_length_c   4.80182249
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.49335548
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Zn3As2(HO)16
+_chemical_formula_sum   'Zn6 As4 H32 O32'
+_cell_volume   673.96787079
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  4  0.00000000  0.38837800  0.00000000  1
+  Zn  Zn1  2  0.00000000  0.00000000  0.00000000  1
+  As  As2  4  0.18676700  0.50000000  0.62313300  1
+  H  H3  8  0.04069850  0.22595150  0.28864000  1
+  H  H4  8  0.11676850  0.07978950  0.63436000  1
+  H  H5  8  0.12425550  0.31006850  0.48574000  1
+  H  H6  8  0.18532650  0.12358450  0.94300600  1
+  O  O7  8  0.09642800  0.11293000  0.80306300  1
+  O  O8  8  0.09801050  0.28164550  0.28781400  1
+  O  O9  8  0.16117550  0.39432450  0.78680200  1
+  O  O10  4  0.09379200  0.50000000  0.26773800  1
+  O  O11  4  0.14700000  0.00000000  0.38350600  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaP10
+_symmetry_space_group_name_H-M   Cmc2_1
+_cell_length_a   6.47984656
+_cell_length_b   12.90825166
+_cell_length_c   12.12473597
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   36
+_chemical_formula_structural   BaP10
+_chemical_formula_sum   'Ba4 P40'
+_cell_volume   1014.15523325
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00000000  0.18739920  0.00576844  1
+  P  P1  8  0.24539444  0.37629696  0.16537823  1
+  P  P2  8  0.24975187  0.97831785  0.31516416  1
+  P  P3  4  0.00000000  0.06738576  0.55840235  1
+  P  P4  4  0.00000000  0.09110874  0.28104051  1
+  P  P5  4  0.00000000  0.18664866  0.42929373  1
+  P  P6  4  0.00000000  0.39028997  0.60558741  1
+  P  P7  4  0.00000000  0.40851440  0.78205710  1
+  P  P8  4  0.00000000  0.44791933  0.06616569  1

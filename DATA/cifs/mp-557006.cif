@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Na2SbSO4F3
+_symmetry_space_group_name_H-M   Cmce
+_cell_length_a   14.91997842
+_cell_length_b   7.07773068
+_cell_length_c   11.02966494
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   64
+_chemical_formula_structural   Na2SbSO4F3
+_chemical_formula_sum   'Na16 Sb8 S8 O32 F24'
+_cell_volume   1164.72808456
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x+1/2, y, -z+1/2'
+  8  'x+1/2, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x, -y+1/2, z+1/2'
+  12  'x, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x, y+1/2, -z+1/2'
+  16  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.11677262  0.00000000  0.50000000  1
+  Na  Na1  8  0.25000000  0.21880523  0.25000000  1
+  Sb  Sb2  8  0.00000000  0.10830396  0.16514124  1
+  S  S3  8  0.18289064  0.00000000  0.00000000  1
+  O  O4  16  0.12399028  0.16537291  0.02424275  1
+  O  O5  16  0.23937766  0.03567163  0.89338216  1
+  F  F6  16  0.09335169  0.19010059  0.28213130  1
+  F  F7  8  0.00000000  0.12010290  0.61946160  1

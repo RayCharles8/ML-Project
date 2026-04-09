@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_SrNb8O14
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   9.30435489
+_cell_length_b   10.36800415
+_cell_length_c   6.00097881
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   SrNb8O14
+_chemical_formula_sum   'Sr2 Nb16 O28'
+_cell_volume   578.89996412
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  2  0.00000000  0.50000000  0.00000000  1
+  Nb  Nb1  8  0.12560464  0.07664971  0.23103372  1
+  Nb  Nb2  4  0.11635506  0.33670727  0.50000000  1
+  Nb  Nb3  4  0.11987431  0.83552993  0.00000000  1
+  O  O4  8  0.00518545  0.25357813  0.24625647  1
+  O  O5  8  0.23851330  0.41373502  0.24567861  1
+  O  O6  4  0.23467885  0.17971467  0.50000000  1
+  O  O7  4  0.23535939  0.65133482  0.00000000  1
+  O  O8  2  0.00000000  0.00000000  0.50000000  1
+  O  O9  2  0.00000000  0.50000000  0.50000000  1

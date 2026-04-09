@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_GdMoO4F
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.32279200
+_cell_length_b   12.56852600
+_cell_length_c   6.82078809
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.96343654
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   GdMoO4F
+_chemical_formula_sum   'Gd4 Mo4 O16 F4'
+_cell_volume   420.14772887
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  4  0.36149800  0.05239400  0.20063700  1
+  Mo  Mo1  4  0.07787100  0.14309700  0.63024700  1
+  O  O2  4  0.00593800  0.06936900  0.83570800  1
+  O  O3  4  0.19257400  0.22455700  0.20588400  1
+  O  O4  4  0.23585200  0.65316100  0.08942700  1
+  O  O5  4  0.30579000  0.06582900  0.53939900  1
+  F  F6  4  0.45088500  0.59807100  0.53510300  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cd7P10
+_symmetry_space_group_name_H-M   Fdd2
+_cell_length_a   23.11974920
+_cell_length_b   27.69938440
+_cell_length_c   4.64728252
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   43
+_chemical_formula_structural   Cd7P10
+_chemical_formula_sum   'Cd56 P80'
+_cell_volume   2976.13283086
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/4, y+3/4, z+3/4'
+  4  'x+1/4, -y+3/4, z+3/4'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/4, y+1/4, z+1/4'
+  8  'x+1/4, -y+1/4, z+1/4'
+  9  'x+1/2, y, z+1/2'
+  10  '-x+1/2, -y, z+1/2'
+  11  '-x+3/4, y+3/4, z+1/4'
+  12  'x+3/4, -y+3/4, z+1/4'
+  13  'x+1/2, y+1/2, z'
+  14  '-x+1/2, -y+1/2, z'
+  15  '-x+3/4, y+1/4, z+3/4'
+  16  'x+3/4, -y+1/4, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  16  0.00273747  0.29856681  0.02883613  1
+  Cd  Cd1  16  0.11737849  0.21214598  0.84656686  1
+  Cd  Cd2  16  0.11932137  0.08203640  0.22652330  1
+  Cd  Cd3  8  0.00000000  0.00000000  0.00663826  1
+  P  P4  16  0.03357171  0.36608140  0.66938450  1
+  P  P5  16  0.03626999  0.43547480  0.87450380  1
+  P  P6  16  0.04165513  0.06379862  0.64237358  1
+  P  P7  16  0.04433402  0.13002270  0.89634995  1
+  P  P8  16  0.08252367  0.25164223  0.30554853  1

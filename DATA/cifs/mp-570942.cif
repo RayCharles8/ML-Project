@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La3C3Cl2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.82984794
+_cell_length_b   12.90624200
+_cell_length_c   6.99134000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.68053460
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   La3C3Cl2
+_chemical_formula_sum   'La12 C12 Cl8'
+_cell_volume   683.43772137
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  4  0.11900300  0.67875600  0.36828500  1
+  La  La1  4  0.19039300  0.50773100  0.87572400  1
+  La  La2  4  0.26434000  0.15019900  0.86307400  1
+  C  C3  4  0.00521400  0.13203900  0.52511000  1
+  C  C4  4  0.05873100  0.03003800  0.97124600  1
+  C  C5  4  0.11390700  0.20416400  0.47646000  1
+  Cl  Cl6  4  0.38569000  0.68616300  0.76818800  1
+  Cl  Cl7  4  0.44985500  0.55698000  0.26233300  1

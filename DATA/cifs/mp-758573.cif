@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_H16Ru3C6(Cl3O7)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.64707800
+_cell_length_b   7.40065143
+_cell_length_c   15.19592987
+_cell_angle_alpha   91.91368652
+_cell_angle_beta   98.75986802
+_cell_angle_gamma   116.14643866
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   H16Ru3C6(Cl3O7)2
+_chemical_formula_sum   'H16 Ru3 C6 Cl6 O14'
+_cell_volume   658.93817378
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  2  0.05086000  0.08457000  0.67917000  1
+  H  H1  2  0.09901500  0.51404400  0.62121700  1
+  H  H2  2  0.22278100  0.76699400  0.52264300  1
+  H  H3  2  0.22591500  0.33090600  0.42018200  1
+  H  H4  2  0.25852400  0.39718400  0.52304800  1
+  Ru  Ru5  2  0.25883200  0.38872000  0.17777700  1
+  H  H6  2  0.27783600  0.86717800  0.43246100  1
+  H  H7  2  0.29536600  0.15641500  0.65683000  1
+  H  H8  2  0.36273400  0.65043800  0.64160500  1
+  Ru  Ru9  1  0.00000000  0.00000000  0.50000000  1
+  C  C10  2  0.06201200  0.77077800  0.83444100  1
+  C  C11  2  0.22369800  0.58868900  0.11223400  1
+  C  C12  2  0.26843100  0.24809100  0.07421600  1
+  Cl  Cl13  2  0.27329400  0.57658700  0.31960800  1
+  Cl  Cl14  2  0.31705500  0.13789600  0.26656300  1
+  Cl  Cl15  2  0.32896600  0.41799300  0.80676700  1
+  O  O16  2  0.13637300  0.05194300  0.63946500  1
+  O  O17  2  0.20057100  0.70842300  0.07049300  1
+  O  O18  2  0.23046100  0.57967300  0.59165400  1
+  O  O19  2  0.23905100  0.88619700  0.49029600  1
+  O  O20  2  0.25141300  0.28904700  0.47999900  1
+  O  O21  2  0.25633000  0.87091800  0.84460200  1
+  O  O22  2  0.27743500  0.16339200  0.01096700  1

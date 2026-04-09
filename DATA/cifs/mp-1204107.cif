@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Al4Fe2Si5O18
+_symmetry_space_group_name_H-M   Cccm
+_cell_length_a   9.92860000
+_cell_length_b   17.45110600
+_cell_length_c   9.40853800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   66
+_chemical_formula_structural   Al4Fe2Si5O18
+_chemical_formula_sum   'Al16 Fe8 Si20 O72'
+_cell_volume   1630.17081670
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z+1/2'
+  6  '-x, y, z+1/2'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z'
+  12  'x+1/2, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z+1/2'
+  14  '-x+1/2, y+1/2, z+1/2'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  8  0.19338550  0.45059150  0.00000000  1
+  Al  Al1  8  0.25000000  0.25000000  0.24959100  1
+  Fe  Fe2  8  0.00000000  0.33715600  0.25000000  1
+  Si  Si3  8  0.07982800  0.19006900  0.00000000  1
+  Si  Si4  8  0.23343350  0.13467850  0.50000000  1
+  Si  Si5  4  0.00000000  0.50000000  0.25000000  1
+  O  O6  16  0.08594250  0.43939150  0.15161900  1
+  O  O7  16  0.10500550  0.75563950  0.35830100  1
+  O  O8  16  0.19540100  0.32662700  0.35776400  1
+  O  O9  8  0.07609400  0.83798100  0.00000000  1
+  O  O10  8  0.18702150  0.12128050  0.00000000  1
+  O  O11  8  0.24806500  0.95624200  0.00000000  1

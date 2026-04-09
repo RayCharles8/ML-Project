@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SbH3CSCl6O
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.77427500
+_cell_length_b   20.16560900
+_cell_length_c   10.60868687
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.63760752
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   SbH3CSCl6O
+_chemical_formula_sum   'Sb4 H12 C4 S4 Cl24 O4'
+_cell_volume   1259.62360037
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  4  0.05039300  0.12548600  0.21472700  1
+  H  H1  4  0.03894000  0.55669300  0.86906600  1
+  H  H2  4  0.03894300  0.63725300  0.79284500  1
+  H  H3  4  0.25548700  0.61759100  0.97621200  1
+  C  C4  4  0.07803800  0.60958300  0.89157600  1
+  S  S5  4  0.08987100  0.14444500  0.53760800  1
+  Cl  Cl6  4  0.04566800  0.15648400  0.99830300  1
+  Cl  Cl7  4  0.22627700  0.54077000  0.39112400  1
+  Cl  Cl8  4  0.23741900  0.70340100  0.31735700  1
+  Cl  Cl9  4  0.33187000  0.20662400  0.35954100  1
+  Cl  Cl10  4  0.34435800  0.04522400  0.28570200  1
+  Cl  Cl11  4  0.40590200  0.12358900  0.70878900  1
+  O  O12  4  0.04785600  0.09470000  0.41722300  1

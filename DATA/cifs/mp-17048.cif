@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Rb2WS4
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   9.77580850
+_cell_length_b   7.09106448
+_cell_length_c   12.58855994
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Rb2WS4
+_chemical_formula_sum   'Rb8 W4 S16'
+_cell_volume   872.65015894
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.04013746  0.75000000  0.33148496  1
+  Rb  Rb1  4  0.15591076  0.25000000  0.10711597  1
+  W  W2  4  0.24621521  0.25000000  0.42827120  1
+  S  S3  8  0.15872422  0.00014850  0.85830582  1
+  S  S4  4  0.02505589  0.25000000  0.39453309  1
+  S  S5  4  0.21550378  0.75000000  0.10009817  1

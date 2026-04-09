@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tb2(MoO4)3
+_symmetry_space_group_name_H-M   P-42_1m
+_cell_length_a   7.37075316
+_cell_length_b   7.37075316
+_cell_length_c   10.58881821
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   113
+_chemical_formula_structural   Tb2(MoO4)3
+_chemical_formula_sum   'Tb4 Mo6 O24'
+_cell_volume   575.26933843
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  'y+1/2, x+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  '-y+1/2, -x+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  4  0.18653144  0.68653144  0.26127181  1
+  Mo  Mo1  4  0.20726785  0.70726785  0.64434158  1
+  Mo  Mo2  2  0.00000000  0.00000000  0.00000000  1
+  O  O3  8  0.00362393  0.22484621  0.70411267  1
+  O  O4  8  0.03994500  0.80970444  0.09639219  1
+  O  O5  4  0.12629467  0.37370533  0.30992867  1
+  O  O6  4  0.19483196  0.69483196  0.47942267  1

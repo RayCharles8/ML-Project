@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ZrMn2H12(O3F4)2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   11.30787200
+_cell_length_b   8.21387400
+_cell_length_c   12.56163067
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.61964033
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   ZrMn2H12(O3F4)2
+_chemical_formula_sum   'Zr4 Mn8 H48 O24 F32'
+_cell_volume   1084.66225559
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  4  0.00000000  0.26696600  0.25000000  1
+  Mn  Mn1  8  0.18213500  0.38936200  0.70975600  1
+  H  H2  8  0.04525300  0.19574900  0.53202900  1
+  H  H3  8  0.05853450  0.09764250  0.64500700  1
+  H  H4  8  0.10327250  0.27376950  0.87514500  1
+  H  H5  8  0.13059700  0.47661700  0.48702900  1
+  H  H6  8  0.22357100  0.07904900  0.44656800  1
+  H  H7  8  0.23052350  0.18291650  0.88694500  1
+  O  O8  8  0.03544800  0.20574800  0.60748100  1
+  O  O9  8  0.18317150  0.28602650  0.86041800  1
+  O  O10  8  0.20302550  0.48008150  0.56212000  1
+  F  F11  8  0.00554250  0.47003050  0.35921800  1
+  F  F12  8  0.09093400  0.17989400  0.42132200  1
+  F  F13  8  0.11360600  0.06827700  0.22615100  1
+  F  F14  8  0.19020250  0.35317250  0.28712700  1

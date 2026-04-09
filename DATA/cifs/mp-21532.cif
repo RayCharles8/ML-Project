@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_La2Ge2O7
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.03316911
+_cell_length_b   7.07560851
+_cell_length_c   12.79144042
+_cell_angle_alpha   93.97541632
+_cell_angle_beta   90.14510685
+_cell_angle_gamma   90.94262550
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   La2Ge2O7
+_chemical_formula_sum   'La8 Ge8 O28'
+_cell_volume   634.93075778
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  2  0.05005802  0.33171131  0.11747341  1
+  La  La1  2  0.11914403  0.08580189  0.36140285  1
+  La  La2  2  0.33357947  0.82815474  0.10699808  1
+  La  La3  2  0.36697765  0.23786148  0.62853096  1
+  Ge  Ge4  2  0.14770686  0.62111302  0.38537429  1
+  Ge  Ge5  2  0.15589245  0.14847583  0.88313527  1
+  Ge  Ge6  2  0.37514880  0.73437221  0.59764172  1
+  Ge  Ge7  2  0.48934822  0.67306551  0.82768809  1
+  O  O8  2  0.00371446  0.01203306  0.18361697  1
+  O  O9  2  0.00596888  0.66678238  0.07968119  1
+  O  O10  2  0.03453796  0.22882844  0.56693274  1
+  O  O11  2  0.07283954  0.41377809  0.31608675  1
+  O  O12  2  0.22221466  0.91910387  0.62072130  1
+  O  O13  2  0.24789757  0.09753184  0.00494357  1
+  O  O14  2  0.29180720  0.77794859  0.31617359  1
+  O  O15  2  0.29841256  0.71945782  0.91062070  1
+  O  O16  2  0.29903433  0.56599566  0.49375189  1
+  O  O17  2  0.34820014  0.21538543  0.80844196  1
+  O  O18  2  0.35446536  0.49073526  0.12610411  1
+  O  O19  2  0.37272047  0.13596830  0.21238910  1
+  O  O20  2  0.39468575  0.57766898  0.69967894  1
+  O  O21  2  0.41473507  0.16390978  0.44520225  1

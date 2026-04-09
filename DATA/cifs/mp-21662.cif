@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiFeSi2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   8.56645754
+_cell_length_b   9.36565768
+_cell_length_c   7.63333287
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   TiFeSi2
+_chemical_formula_sum   'Ti12 Fe12 Si24'
+_cell_volume   612.42618039
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  8  0.16962926  0.95512898  0.26181723  1
+  Ti  Ti1  4  0.16951039  0.67991828  0.50000000  1
+  Fe  Fe2  8  0.08735576  0.25039220  0.25070545  1
+  Fe  Fe3  4  0.00000000  0.50000000  0.25447781  1
+  Si  Si4  8  0.16616629  0.68312547  0.15308905  1
+  Si  Si5  4  0.03784975  0.12451171  0.00000000  1
+  Si  Si6  4  0.03786072  0.12183957  0.50000000  1
+  Si  Si7  4  0.12670145  0.40538699  0.00000000  1
+  Si  Si8  4  0.12693759  0.39764619  0.50000000  1

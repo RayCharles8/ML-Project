@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Zr2Ni7
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   4.63020088
+_cell_length_b   8.10921692
+_cell_length_c   11.99870103
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.73880793
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Zr2Ni7
+_chemical_formula_sum   'Zr8 Ni28'
+_cell_volume   448.26089767
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  4  0.21437593  0.00000000  0.61423197  1
+  Zr  Zr1  4  0.23032783  0.50000000  0.11355914  1
+  Ni  Ni2  8  0.01366049  0.25130075  0.24897993  1
+  Ni  Ni3  8  0.19685968  0.33287842  0.57814791  1
+  Ni  Ni4  8  0.21395676  0.16438546  0.07796877  1
+  Ni  Ni5  4  0.24014330  0.50000000  0.74897745  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrAl2SiN2O3
+_symmetry_space_group_name_H-M   P2_12_12_1
+_cell_length_a   4.97959500
+_cell_length_b   8.12866400
+_cell_length_c   11.43298100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   19
+_chemical_formula_structural   SrAl2SiN2O3
+_chemical_formula_sum   'Sr4 Al8 Si4 N8 O12'
+_cell_volume   462.77796950
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  4  0.01116100  0.45932100  0.83764600  1
+  Al  Al1  4  0.00038700  0.33628400  0.16128000  1
+  Al  Al2  4  0.01110300  0.02828400  0.95718800  1
+  Si  Si3  4  0.00575900  0.20168100  0.42543300  1
+  N  N4  4  0.16453800  0.51818600  0.09361000  1
+  N  N5  4  0.20584500  0.84261300  0.00666000  1
+  O  O6  4  0.04385200  0.15215100  0.08333300  1
+  O  O7  4  0.12539700  0.29131000  0.30379300  1
+  O  O8  4  0.14865100  0.13113300  0.83214300  1

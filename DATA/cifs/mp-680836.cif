@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ta4Te9I4O
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   22.59698800
+_cell_length_b   6.27988800
+_cell_length_c   20.67472910
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   122.08283425
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Ta4Te9I4O
+_chemical_formula_sum   'Ta16 Te36 I16 O4'
+_cell_volume   2485.82066783
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  8  0.06454700  0.06213500  0.36146900  1
+  Ta  Ta1  8  0.07450100  0.29985600  0.23709000  1
+  Te  Te2  8  0.02063200  0.36290700  0.42710500  1
+  Te  Te3  8  0.05864700  0.00160600  0.62720000  1
+  Te  Te4  8  0.16933200  0.36574400  0.40107300  1
+  Te  Te5  8  0.17792000  0.00028700  0.83344400  1
+  Te  Te6  4  0.00000000  0.34105200  0.75000000  1
+  I  I7  8  0.13912900  0.19713400  0.99175400  1
+  I  I8  8  0.16994800  0.44810700  0.72112300  1
+  O  O9  4  0.00000000  0.11426900  0.25000000  1

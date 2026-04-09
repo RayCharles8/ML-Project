@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sc2Si4Mo3
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   6.54349987
+_cell_length_b   12.62976422
+_cell_length_c   6.77880590
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Sc2Si4Mo3
+_chemical_formula_sum   'Sc8 Si16 Mo12'
+_cell_volume   560.21991057
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  8  0.00316166  0.59282223  0.83043514  1
+  Si  Si1  8  0.16388703  0.54501941  0.46263951  1
+  Si  Si2  4  0.03258635  0.75000000  0.12546591  1
+  Si  Si3  4  0.20098137  0.25000000  0.36198131  1
+  Mo  Mo4  8  0.17107425  0.12351596  0.66631916  1
+  Mo  Mo5  4  0.16508853  0.75000000  0.50587998  1

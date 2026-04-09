@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrMo2(AsO6)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.68219900
+_cell_length_b   7.03441900
+_cell_length_c   10.68258791
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.42417037
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   SrMo2(AsO6)2
+_chemical_formula_sum   'Sr2 Mo4 As4 O24'
+_cell_volume   501.98407181
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  2  0.50000000  0.00000000  0.50000000  1
+  Mo  Mo1  4  0.24848600  0.54762200  0.33588700  1
+  As  As2  4  0.25757500  0.54165400  0.65521700  1
+  O  O3  4  0.03987600  0.09091400  0.13999200  1
+  O  O4  4  0.24333500  0.00659300  0.67698100  1
+  O  O5  4  0.25741800  0.64674800  0.80042800  1
+  O  O6  4  0.27687800  0.68570600  0.52694600  1
+  O  O7  4  0.28554200  0.17640500  0.90340500  1
+  O  O8  4  0.45231200  0.12016000  0.16035500  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_S2XeNO4F3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.95028100
+_cell_length_b   7.11321400
+_cell_length_c   12.31248109
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.63444177
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   S2XeNO4F3
+_chemical_formula_sum   'S8 Xe4 N4 O16 F12'
+_cell_volume   804.33809139
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  4  0.24433900  0.54941500  0.55744300  1
+  S  S1  4  0.37468800  0.51396100  0.81040200  1
+  Xe  Xe2  4  0.13039600  0.17322600  0.67007000  1
+  N  N3  4  0.26258000  0.06124600  0.17995600  1
+  O  O4  4  0.13332100  0.04507200  0.96293800  1
+  O  O5  4  0.24640400  0.74813800  0.57322300  1
+  O  O6  4  0.38128600  0.12843800  0.39344300  1
+  O  O7  4  0.49915300  0.60122500  0.80186900  1
+  F  F8  4  0.00608500  0.56464400  0.15957400  1
+  F  F9  4  0.28102600  0.68164100  0.83206900  1
+  F  F10  4  0.39342700  0.00204600  0.04593000  1

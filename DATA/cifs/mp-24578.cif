@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MgH10(SeO5)2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   14.80249000
+_cell_length_b   7.64735600
+_cell_length_c   11.19873227
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   127.77299112
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   MgH10(SeO5)2
+_chemical_formula_sum   'Mg4 H40 Se8 O40'
+_cell_volume   1002.04210046
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  4  0.00000000  0.03537300  0.75000000  1
+  H  H1  8  0.05921650  0.37928950  0.83331500  1
+  H  H2  8  0.06228650  0.31106550  0.33080400  1
+  H  H3  8  0.17317100  0.42930800  0.55620500  1
+  H  H4  8  0.17978800  0.23212000  0.72158800  1
+  H  H5  8  0.22791550  0.48576450  0.47589600  1
+  Se  Se6  8  0.13731950  0.12789250  0.11479800  1
+  O  O7  8  0.11230600  0.04508600  0.68754400  1
+  O  O8  8  0.14376150  0.03521950  0.98217800  1
+  O  O9  8  0.15357050  0.46434150  0.45743500  1
+  O  O10  8  0.21060700  0.35468900  0.73002000  1
+  O  O11  4  0.00000000  0.23332300  0.25000000  1
+  O  O12  4  0.00000000  0.30182000  0.75000000  1

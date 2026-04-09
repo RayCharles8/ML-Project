@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_MgH30C2(SO9)2
+_symmetry_space_group_name_H-M   R-3
+_cell_length_a   9.41885366
+_cell_length_b   9.41885366
+_cell_length_c   21.43628193
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   148
+_chemical_formula_structural   MgH30C2(SO9)2
+_chemical_formula_sum   'Mg3 H90 C6 S6 O54'
+_cell_volume   1646.93398332
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  'x+2/3, y+1/3, z+1/3'
+  8  '-x+2/3, -y+1/3, -z+1/3'
+  9  '-y+2/3, x-y+1/3, z+1/3'
+  10  'y+2/3, -x+y+1/3, -z+1/3'
+  11  '-x+y+2/3, -x+1/3, z+1/3'
+  12  'x-y+2/3, x+1/3, -z+1/3'
+  13  'x+1/3, y+2/3, z+2/3'
+  14  '-x+1/3, -y+2/3, -z+2/3'
+  15  '-y+1/3, x-y+2/3, z+2/3'
+  16  'y+1/3, -x+y+2/3, -z+2/3'
+  17  '-x+y+1/3, -x+2/3, z+2/3'
+  18  'x-y+1/3, x+2/3, -z+2/3'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  3  0.00000000  0.00000000  0.00000000  1
+  H  H1  18  0.01252767  0.89628133  0.39188833  1
+  H  H2  18  0.02556567  0.21214333  0.09413733  1
+  H  H3  18  0.02844200  0.53762000  0.61430800  1
+  H  H4  18  0.04409567  0.46974933  0.16756433  1
+  H  H5  18  0.07235433  0.48379767  0.86980067  1
+  C  C6  6  0.00000000  0.00000000  0.37591700  1
+  S  S7  6  0.00000000  0.00000000  0.29300200  1
+  O  O8  18  0.00367167  0.45644633  0.83185733  1
+  O  O9  18  0.01646000  0.85829600  0.72675100  1
+  O  O10  18  0.03220467  0.83822733  0.94513033  1

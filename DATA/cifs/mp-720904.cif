@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaH8PtC4(NO)4
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   12.57461000
+_cell_length_b   14.04452200
+_cell_length_c   6.62167293
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.31023909
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   BaH8PtC4(NO)4
+_chemical_formula_sum   'Ba4 H32 Pt4 C16 N16 O16'
+_cell_volume   1103.62730369
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00000000  0.36802100  0.25000000  1
+  H  H1  8  0.10774900  0.40756200  0.83923900  1
+  H  H2  8  0.16580000  0.45386800  0.06095700  1
+  H  H3  8  0.19734250  0.29211950  0.86498400  1
+  H  H4  8  0.22357050  0.31741950  0.66403000  1
+  Pt  Pt5  4  0.00000000  0.00000000  0.00000000  1
+  C  C6  8  0.06345400  0.13109400  0.05557200  1
+  C  C7  8  0.15367000  0.05761200  0.58784300  1
+  N  N8  8  0.09709950  0.20927750  0.09350900  1
+  N  N9  8  0.24432200  0.09178900  0.63596300  1
+  O  O10  8  0.09228750  0.45016650  0.94618000  1
+  O  O11  8  0.16031500  0.31506200  0.71911100  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaNd2O4
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   10.66522781
+_cell_length_b   3.61864619
+_cell_length_c   12.52631118
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   BaNd2O4
+_chemical_formula_sum   'Ba4 Nd8 O16'
+_cell_volume   483.43652017
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.24881305  0.75000000  0.64769797  1
+  Nd  Nd1  4  0.07585121  0.75000000  0.38773966  1
+  Nd  Nd2  4  0.07957057  0.75000000  0.88887557  1
+  O  O3  4  0.01528085  0.25000000  0.28253883  1
+  O  O4  4  0.07056714  0.75000000  0.07656666  1
+  O  O5  4  0.12236977  0.25000000  0.51811185  1
+  O  O6  4  0.21157724  0.25000000  0.82987799  1

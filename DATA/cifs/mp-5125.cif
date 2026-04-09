@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na3FeSe3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.36276854
+_cell_length_b   7.13673184
+_cell_length_c   14.75644424
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   118.88310173
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Na3FeSe3
+_chemical_formula_sum   'Na12 Fe4 Se12'
+_cell_volume   678.94013792
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.04907669  0.01845035  0.88567603  1
+  Na  Na1  4  0.12604210  0.51862250  0.90732506  1
+  Na  Na2  4  0.49538084  0.50241578  0.22299945  1
+  Fe  Fe3  4  0.49912244  0.12135184  0.07506749  1
+  Se  Se4  4  0.19963677  0.24360935  0.07324418  1
+  Se  Se5  4  0.20011120  0.71741160  0.27273852  1
+  Se  Se6  4  0.48940786  0.71488406  0.57636482  1

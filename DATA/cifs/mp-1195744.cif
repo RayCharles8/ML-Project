@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaEr2Si3O10
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   5.37946152
+_cell_length_b   12.15649464
+_cell_length_c   6.82203788
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.65565460
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   BaEr2Si3O10
+_chemical_formula_sum   'Ba2 Er4 Si6 O20'
+_cell_volume   427.41231401
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  2  0.24097944  0.25000000  0.97910252  1
+  Er  Er1  4  0.15517252  0.59991720  0.68228015  1
+  Si  Si2  4  0.30485047  0.55989933  0.21335147  1
+  Si  Si3  2  0.41908512  0.25000000  0.51120606  1
+  O  O4  4  0.10227512  0.54898749  0.35226349  1
+  O  O5  4  0.16269975  0.62066021  0.00044122  1
+  O  O6  4  0.43846223  0.05601995  0.19326211  1
+  O  O7  4  0.45237469  0.14263689  0.66156888  1
+  O  O8  2  0.12328211  0.25000000  0.36421330  1
+  O  O9  2  0.36614903  0.75000000  0.61234396  1

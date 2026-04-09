@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Cs3SrCu2C7(SN)7
+_symmetry_space_group_name_H-M   I-42m
+_cell_length_a   10.99308800
+_cell_length_b   10.99308800
+_cell_length_c   20.25280800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   121
+_chemical_formula_structural   Cs3SrCu2C7(SN)7
+_chemical_formula_sum   'Cs12 Sr4 Cu8 C28 S28 N28'
+_cell_volume   2447.51101260
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x, -y, -z'
+  6  'y, x, z'
+  7  '-x, y, -z'
+  8  '-y, -x, z'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  'y+1/2, -x+1/2, -z+1/2'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  '-y+1/2, x+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z+1/2'
+  14  'y+1/2, x+1/2, z+1/2'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  '-y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  8  0.23774300  0.23774300  0.80055800  1
+  Cs  Cs1  4  0.00000000  0.50000000  0.00000000  1
+  Sr  Sr2  4  0.00000000  0.00000000  0.40398000  1
+  Cu  Cu3  8  0.14760450  0.14760450  0.09906050  1
+  C  C4  16  0.07570700  0.31507400  0.64583700  1
+  C  C5  8  0.21003600  0.21003600  0.49592200  1
+  C  C6  4  0.00000000  0.00000000  0.20663600  1
+  S  S7  16  0.07523600  0.32406100  0.15317900  1
+  S  S8  8  0.18448000  0.18448000  0.98796300  1
+  S  S9  4  0.00000000  0.00000000  0.12455700  1
+  N  N10  16  0.00315800  0.23575200  0.64016300  1
+  N  N11  8  0.13397700  0.13397700  0.49930700  1
+  N  N12  4  0.00000000  0.00000000  0.26499200  1

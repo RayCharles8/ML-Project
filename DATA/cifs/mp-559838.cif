@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoMoO4F
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.25188500
+_cell_length_b   12.40467100
+_cell_length_c   6.70742217
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.23505387
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   HoMoO4F
+_chemical_formula_sum   'Ho4 Mo4 O16 F4'
+_cell_volume   401.53331772
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  4  0.36075700  0.55100700  0.69971400  1
+  Mo  Mo1  4  0.07920400  0.64338600  0.13047700  1
+  O  O2  4  0.00288700  0.56867100  0.33818500  1
+  O  O3  4  0.19275200  0.72191700  0.70470500  1
+  O  O4  4  0.23923400  0.15264900  0.59385400  1
+  O  O5  4  0.30999000  0.56512300  0.03793800  1
+  F  F6  4  0.45625600  0.09761700  0.03628300  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiP5
+_symmetry_space_group_name_H-M   Pna2_1
+_cell_length_a   10.49347051
+_cell_length_b   6.66867239
+_cell_length_c   6.57382759
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   33
+_chemical_formula_structural   LiP5
+_chemical_formula_sum   'Li4 P20'
+_cell_volume   460.02013236
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y+1/2, z+1/2'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.07784698  0.45555443  0.05593617  1
+  P  P1  4  0.08490768  0.91666407  0.42585107  1
+  P  P2  4  0.09271368  0.90371111  0.90939854  1
+  P  P3  4  0.13069943  0.38902031  0.68338871  1
+  P  P4  4  0.19107643  0.05251466  0.16722104  1
+  P  P5  4  0.19175472  0.07792543  0.66720346  1

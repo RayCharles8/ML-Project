@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ThInCu5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   8.27135467
+_cell_length_b   5.04529781
+_cell_length_c   10.59183757
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   ThInCu5
+_chemical_formula_sum   'Th4 In4 Cu20'
+_cell_volume   442.01271456
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  4  0.24724845  0.75000000  0.93985257  1
+  In  In1  4  0.13974482  0.25000000  0.13830150  1
+  Cu  Cu2  8  0.06792310  0.50007171  0.68702953  1
+  Cu  Cu3  4  0.06089281  0.25000000  0.89228331  1
+  Cu  Cu4  4  0.08356383  0.75000000  0.48352639  1
+  Cu  Cu5  4  0.18087252  0.75000000  0.25538461  1

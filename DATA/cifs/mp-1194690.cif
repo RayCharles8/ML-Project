@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_PrMgAl7Fe2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   12.97077900
+_cell_length_b   14.50741600
+_cell_length_c   4.01229800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   PrMgAl7Fe2
+_chemical_formula_sum   'Pr4 Mg4 Al28 Fe8'
+_cell_volume   755.00409243
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  4  0.16035400  0.81932500  0.00000000  1
+  Mg  Mg1  4  0.16804100  0.54777000  0.00000000  1
+  Al  Al2  4  0.02479800  0.13336400  0.50000000  1
+  Al  Al3  4  0.04822200  0.67816700  0.50000000  1
+  Al  Al4  4  0.09349100  0.25498500  0.00000000  1
+  Al  Al5  4  0.15719000  0.37972300  0.50000000  1
+  Al  Al6  4  0.16518200  0.99439600  0.50000000  1
+  Al  Al7  4  0.22903300  0.17359700  0.50000000  1
+  Al  Al8  2  0.00000000  0.00000000  0.00000000  1
+  Al  Al9  2  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe10  4  0.03385900  0.40849800  0.00000000  1
+  Fe  Fe11  4  0.13939400  0.10078300  0.00000000  1

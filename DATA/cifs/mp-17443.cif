@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cs2FeO4
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   8.41802411
+_cell_length_b   6.27588320
+_cell_length_c   11.10393908
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Cs2FeO4
+_chemical_formula_sum   'Cs8 Fe4 O16'
+_cell_volume   586.62705430
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.01449866  0.75000000  0.69429423  1
+  Cs  Cs1  4  0.16569597  0.25000000  0.90902922  1
+  Fe  Fe2  4  0.23674598  0.25000000  0.58112974  1
+  O  O3  8  0.19270860  0.53552811  0.14784554  1
+  O  O4  4  0.04199335  0.25000000  0.58836022  1
+  O  O5  4  0.20289606  0.75000000  0.93966385  1

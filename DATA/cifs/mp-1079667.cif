@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tm2CoGe2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   10.21028057
+_cell_length_b   4.12674304
+_cell_length_c   10.00410543
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   117.30687947
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Tm2CoGe2
+_chemical_formula_sum   'Tm8 Co4 Ge8'
+_cell_volume   374.55118595
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  4  0.00788282  0.00000000  0.33391526  1
+  Tm  Tm1  4  0.18918315  0.00000000  0.11662447  1
+  Co  Co2  4  0.22665394  0.50000000  0.34222369  1
+  Ge  Ge3  4  0.01524199  0.50000000  0.87850715  1
+  Ge  Ge4  4  0.15687727  0.50000000  0.56090440  1

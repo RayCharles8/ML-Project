@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbFeCu(PO4)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.26816500
+_cell_length_b   10.05073500
+_cell_length_c   9.33415208
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.77830153
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   RbFeCu(PO4)2
+_chemical_formula_sum   'Rb4 Fe4 Cu4 P8 O32'
+_cell_volume   692.49214852
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.15843800  0.13365300  0.57587400  1
+  Fe  Fe1  4  0.22702700  0.62379700  0.74540100  1
+  Cu  Cu2  4  0.42551400  0.11844800  0.05859300  1
+  P  P3  4  0.12225500  0.58869800  0.35933300  1
+  P  P4  4  0.49420800  0.15927600  0.36183900  1
+  O  O5  4  0.03042100  0.50910700  0.74461300  1
+  O  O6  4  0.10317300  0.70984900  0.25125300  1
+  O  O7  4  0.10736400  0.63167600  0.51123900  1
+  O  O8  4  0.31047300  0.52245100  0.40421200  1
+  O  O9  4  0.34194700  0.61107200  0.98655700  1
+  O  O10  4  0.35903900  0.23907700  0.39860500  1
+  O  O11  4  0.39370100  0.03847600  0.24674600  1
+  O  O12  4  0.44966000  0.74228700  0.25330100  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2KMn(CN)6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.70834500
+_cell_length_b   8.22354500
+_cell_length_c   13.58682356
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.30364996
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Cs2KMn(CN)6
+_chemical_formula_sum   'Cs4 K2 Mn2 C12 N12'
+_cell_volume   711.46084633
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.27248300  0.06999900  0.75072000  1
+  K  K1  2  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn2  2  0.00000000  0.00000000  0.00000000  1
+  C  C3  4  0.09627700  0.02289300  0.16850400  1
+  C  C4  4  0.16607100  0.70318500  0.54025300  1
+  C  C5  4  0.24477000  0.12862400  0.03267100  1
+  N  N6  4  0.15112200  0.04109500  0.26813000  1
+  N  N7  4  0.26729500  0.67737600  0.06612100  1
+  N  N8  4  0.39154400  0.20524500  0.05430400  1

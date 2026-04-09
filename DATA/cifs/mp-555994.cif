@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr6Li2Cr2N8O
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.21138600
+_cell_length_b   6.87008165
+_cell_length_c   7.60088734
+_cell_angle_alpha   82.29921121
+_cell_angle_beta   75.07817667
+_cell_angle_gamma   69.95756503
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Sr6Li2Cr2N8O
+_chemical_formula_sum   'Sr6 Li2 Cr2 N8 O1'
+_cell_volume   294.05812111
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  2  0.19987200  0.37940200  0.30197900  1
+  Sr  Sr1  2  0.29282500  0.86455600  0.07038200  1
+  Sr  Sr2  2  0.29994300  0.81199600  0.53199100  1
+  Li  Li3  2  0.22539500  0.50966000  0.90831100  1
+  Cr  Cr4  2  0.21176400  0.21203900  0.74921700  1
+  N  N5  2  0.01298900  0.17991600  0.63514800  1
+  N  N6  2  0.07746300  0.25532200  0.97948200  1
+  N  N7  2  0.28491700  0.43140400  0.64245100  1
+  N  N8  2  0.46645000  0.98861600  0.73453400  1
+  O  O9  1  0.50000000  0.50000000  0.00000000  1

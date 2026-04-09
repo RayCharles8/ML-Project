@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_TeH14C2(NO2)4
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   15.01155000
+_cell_length_b   9.02466000
+_cell_length_c   9.99927131
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   129.21671650
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   TeH14C2(NO2)4
+_chemical_formula_sum   'Te4 H56 C8 N16 O32'
+_cell_volume   1049.52299954
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  4  0.00000000  0.43377500  0.75000000  1
+  H  H1  8  0.10126450  0.79109050  0.05335400  1
+  H  H2  8  0.10183550  0.43262450  0.16289300  1
+  H  H3  8  0.11273150  0.20330350  0.80217600  1
+  H  H4  8  0.11886950  0.23079450  0.39761100  1
+  H  H5  8  0.13343300  0.03062700  0.18133900  1
+  H  H6  8  0.15155850  0.18016950  0.08912900  1
+  H  H7  8  0.19547100  0.45693500  0.03360400  1
+  C  C8  8  0.14301100  0.01934200  0.48683300  1
+  N  N9  8  0.12583350  0.16518250  0.48676700  1
+  N  N10  8  0.14116850  0.93027750  0.59293200  1
+  O  O11  8  0.08177100  0.40682800  0.23793100  1
+  O  O12  8  0.08181000  0.28952100  0.71901900  1
+  O  O13  8  0.12012050  0.42909850  0.00389000  1
+  O  O14  8  0.16182050  0.03519850  0.88747000  1

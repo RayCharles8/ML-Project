@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ca3ZnGe5O14
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   14.11100000
+_cell_length_b   8.06198000
+_cell_length_c   5.14415820
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.40608477
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   Ca3ZnGe5O14
+_chemical_formula_sum   'Ca6 Zn2 Ge10 O28'
+_cell_volume   585.19811238
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  4  0.20585650  0.89230250  0.00008000  1
+  Ca  Ca1  2  0.00000000  0.26823600  0.00000000  1
+  Zn  Zn2  2  0.00000000  0.68347600  0.00000000  1
+  Ge  Ge3  4  0.12130400  0.56711500  0.49406800  1
+  Ge  Ge4  4  0.16629700  0.18616700  0.52201700  1
+  Ge  Ge5  2  0.00000000  0.92153900  0.50000000  1
+  O  O6  4  0.04354550  0.49353050  0.25547400  1
+  O  O7  4  0.07185350  0.07821050  0.68292900  1
+  O  O8  4  0.07305350  0.84558850  0.25286000  1
+  O  O9  4  0.11357350  0.72101250  0.73245500  1
+  O  O10  4  0.16161650  0.38448050  0.68321900  1
+  O  O11  4  0.16823250  0.18464950  0.18719400  1
+  O  O12  4  0.23231950  0.59937350  0.31050400  1

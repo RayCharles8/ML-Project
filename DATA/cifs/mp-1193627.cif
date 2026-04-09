@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaCaBe2B2O6F
+_symmetry_space_group_name_H-M   Cc
+_cell_length_a   4.66935200
+_cell_length_b   8.10971400
+_cell_length_c   14.38470346
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.05429769
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   9
+_chemical_formula_structural   NaCaBe2B2O6F
+_chemical_formula_sum   'Na4 Ca4 Be8 B8 O24 F4'
+_cell_volume   544.70689334
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.11487150  0.00169050  0.63547000  1
+  Ca  Ca1  4  0.10387550  0.00768350  0.88775500  1
+  Be  Be2  4  0.08835000  0.33904000  0.52555300  1
+  Be  Be3  4  0.10373750  0.31969450  0.75104800  1
+  B  B4  4  0.09712600  0.32146200  0.99950800  1
+  B  B5  4  0.11869050  0.34699350  0.27784900  1
+  O  O6  4  0.24031400  0.49686000  0.77173700  1
+  O  O7  4  0.29709400  0.21623700  0.30114200  1
+  O  O8  4  0.32745250  0.17038750  0.76550200  1
+  O  O9  4  0.38437650  0.29966250  0.97921100  1
+  O  O10  4  0.42643700  0.31703800  0.51183400  1
+  O  O11  4  0.47813200  0.02300500  0.50290500  1
+  F  F12  4  0.01784250  0.31262250  0.63888800  1

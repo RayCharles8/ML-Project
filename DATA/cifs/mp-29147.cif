@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MoCl5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.39972368
+_cell_length_b   11.69173931
+_cell_length_c   12.20110826
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.05866195
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   MoCl5
+_chemical_formula_sum   'Mo8 Cl40'
+_cell_volume   1267.38976739
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  4  0.19008474  0.62332785  0.70710363  1
+  Mo  Mo1  4  0.37992480  0.12738457  0.68415211  1
+  Cl  Cl2  4  0.01704127  0.73745887  0.58331377  1
+  Cl  Cl3  4  0.02059622  0.50506658  0.74323944  1
+  Cl  Cl4  4  0.20721385  0.01185399  0.56266631  1
+  Cl  Cl5  4  0.20958775  0.24438820  0.72041443  1
+  Cl  Cl6  4  0.21350960  0.73662105  0.86214118  1
+  Cl  Cl7  4  0.22008695  0.51135432  0.56470734  1
+  Cl  Cl8  4  0.40291061  0.74040380  0.68120505  1
+  Cl  Cl9  4  0.40560316  0.01528160  0.84093968  1
+  Cl  Cl10  4  0.40644336  0.51138248  0.84187498  1
+  Cl  Cl11  4  0.40828717  0.24012405  0.54210966  1

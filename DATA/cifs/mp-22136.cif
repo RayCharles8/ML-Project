@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CoGeO3
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   9.63899226
+_cell_length_b   9.00218859
+_cell_length_c   5.15402624
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.95364680
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   CoGeO3
+_chemical_formula_sum   'Co8 Ge8 O24'
+_cell_volume   439.07740458
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  4  0.00000000  0.09236732  0.25000000  1
+  Co  Co1  4  0.00000000  0.26715402  0.75000000  1
+  Ge  Ge2  8  0.19811187  0.40555788  0.28763860  1
+  O  O3  8  0.11702071  0.09000655  0.63437683  1
+  O  O4  8  0.11703333  0.25441002  0.11557391  1
+  O  O5  8  0.13807519  0.43129158  0.59531905  1

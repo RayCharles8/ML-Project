@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiH4SeNO4
+_symmetry_space_group_name_H-M   Pna2_1
+_cell_length_a   17.51864700
+_cell_length_b   5.43094400
+_cell_length_c   5.17815700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   33
+_chemical_formula_structural   LiH4SeNO4
+_chemical_formula_sum   'Li4 H16 Se4 N4 O16'
+_cell_volume   492.66430825
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y+1/2, z+1/2'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.00098100  0.31318800  0.85459600  1
+  H  H1  4  0.13912000  0.21131700  0.17444500  1
+  H  H2  4  0.14249700  0.23129000  0.49965300  1
+  H  H3  4  0.14966300  0.48781100  0.31198500  1
+  H  H4  4  0.22332500  0.27914800  0.31833000  1
+  Se  Se5  4  0.10163300  0.80430700  0.86175600  1
+  N  N6  4  0.16390000  0.30259300  0.32779300  1
+  O  O7  4  0.02814300  0.65264100  0.72466300  1
+  O  O8  4  0.09433100  0.10896100  0.80295000  1
+  O  O9  4  0.09593900  0.76648900  0.18294200  1
+  O  O10  4  0.18376400  0.69598500  0.75088700  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_ZnCoPHO5
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.24227014
+_cell_length_b   5.54403562
+_cell_length_c   7.37948082
+_cell_angle_alpha   94.60923227
+_cell_angle_beta   100.06042101
+_cell_angle_gamma   92.98440831
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   ZnCoPHO5
+_chemical_formula_sum   'Zn2 Co2 P2 H2 O10'
+_cell_volume   210.01367681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.38381271  0.79330622  0.36509595  1
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co2  1  0.00000000  0.50000000  0.00000000  1
+  P  P3  2  0.44392382  0.70097062  0.78220851  1
+  H  H4  2  0.10035478  0.26137158  0.72364209  1
+  O  O5  2  0.04765857  0.77450363  0.21634003  1
+  O  O6  2  0.25766317  0.74954397  0.91636039  1
+  O  O7  2  0.27220647  0.27429254  0.11828170  1
+  O  O8  2  0.37843992  0.44698045  0.67989021  1
+  O  O9  2  0.41075979  0.88925183  0.63549480  1

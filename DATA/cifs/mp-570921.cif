@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsLu(NbCl3)6
+_symmetry_space_group_name_H-M   P-31c
+_cell_length_a   9.40630827
+_cell_length_b   9.40630827
+_cell_length_c   17.50666400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   163
+_chemical_formula_structural   CsLu(NbCl3)6
+_chemical_formula_sum   'Cs2 Lu2 Nb12 Cl36'
+_cell_volume   1341.44368053
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  '-y, -x, -z+1/2'
+  8  'y, x, z+1/2'
+  9  '-x+y, y, -z+1/2'
+  10  'x-y, -y, z+1/2'
+  11  'x, x-y, -z+1/2'
+  12  '-x, -x+y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  2  0.33333333  0.66666667  0.25000000  1
+  Lu  Lu1  2  0.33333333  0.66666667  0.75000000  1
+  Nb  Nb2  12  0.04200500  0.19724600  0.56822600  1
+  Cl  Cl3  12  0.04895300  0.23407100  0.33997500  1
+  Cl  Cl4  12  0.09389100  0.45172900  0.66327400  1
+  Cl  Cl5  12  0.13826400  0.41626800  0.00152700  1

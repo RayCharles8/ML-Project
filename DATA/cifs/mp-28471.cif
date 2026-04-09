@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li3AsS3
+_symmetry_space_group_name_H-M   Pna2_1
+_cell_length_a   8.04813258
+_cell_length_b   6.64129102
+_cell_length_c   9.81699727
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   33
+_chemical_formula_structural   Li3AsS3
+_chemical_formula_sum   'Li12 As4 S12'
+_cell_volume   524.71841211
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y+1/2, z+1/2'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.06700871  0.04938895  0.27932364  1
+  Li  Li1  4  0.07924493  0.35351391  0.80992521  1
+  Li  Li2  4  0.24843937  0.88152905  0.61121248  1
+  As  As3  4  0.24584822  0.90154961  0.99954637  1
+  S  S4  4  0.04317617  0.14028477  0.00965710  1
+  S  S5  4  0.16004133  0.70837186  0.82486996  1
+  S  S6  4  0.18358446  0.71808225  0.18616324  1

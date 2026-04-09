@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Th6Cd7
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   9.88648379
+_cell_length_b   11.63260018
+_cell_length_c   6.02609668
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   Th6Cd7
+_chemical_formula_sum   'Th12 Cd14'
+_cell_volume   693.03434076
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  4  0.05259808  0.37340469  0.50000000  1
+  Th  Th1  4  0.15587013  0.54346946  0.00000000  1
+  Th  Th2  4  0.16938331  0.08746970  0.50000000  1
+  Cd  Cd3  8  0.15142215  0.82042598  0.25524407  1
+  Cd  Cd4  4  0.09961962  0.24701365  0.00000000  1
+  Cd  Cd5  2  0.00000000  0.00000000  0.00000000  1

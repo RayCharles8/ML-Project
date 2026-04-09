@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiH4CSNO2
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   5.88895700
+_cell_length_b   8.38154500
+_cell_length_c   9.90513600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   LiH4CSNO2
+_chemical_formula_sum   'Li4 H16 C4 S4 N4 O8'
+_cell_volume   488.90323073
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.11506300  0.25000000  0.28685700  1
+  H  H1  8  0.15291400  0.01691000  0.73061300  1
+  H  H2  8  0.18712900  0.57144500  0.59113600  1
+  C  C3  4  0.04080000  0.75000000  0.03199500  1
+  S  S4  4  0.18695200  0.25000000  0.87214700  1
+  N  N5  4  0.20056800  0.75000000  0.95977000  1
+  O  O6  8  0.15836700  0.58886600  0.68728700  1

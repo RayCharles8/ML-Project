@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ce(ErS2)3
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   11.00378982
+_cell_length_b   3.94896112
+_cell_length_c   11.26220582
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.67135122
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   Ce(ErS2)3
+_chemical_formula_sum   'Ce2 Er6 S12'
+_cell_volume   463.62670996
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  2  0.44989830  0.25000000  0.80536027  1
+  Er  Er1  2  0.05722550  0.25000000  0.66659247  1
+  Er  Er2  2  0.17909690  0.75000000  0.00072537  1
+  Er  Er3  2  0.33900552  0.25000000  0.41259846  1
+  S  S4  2  0.02160204  0.25000000  0.88797590  1
+  S  S5  2  0.10652497  0.25000000  0.44198871  1
+  S  S6  2  0.23203949  0.75000000  0.77022618  1
+  S  S7  2  0.30346325  0.75000000  0.25034101  1
+  S  S8  2  0.37971261  0.25000000  0.03538596  1
+  S  S9  2  0.41780313  0.75000000  0.59221154  1

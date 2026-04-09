@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Y4In20Ni11
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   22.60564200
+_cell_length_b   4.34285200
+_cell_length_c   16.66782312
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.76390309
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Y4In20Ni11
+_chemical_formula_sum   'Y8 In40 Ni22'
+_cell_volume   1360.33761167
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  4  0.11761700  0.00000000  0.83165800  1
+  Y  Y1  4  0.22836400  0.00000000  0.32641800  1
+  In  In2  4  0.01184000  0.00000000  0.59588000  1
+  In  In3  4  0.04149600  0.50000000  0.87710400  1
+  In  In4  4  0.06448500  0.00000000  0.28985200  1
+  In  In5  4  0.10005700  0.50000000  0.49080300  1
+  In  In6  4  0.11255400  0.50000000  0.19079600  1
+  In  In7  4  0.11343500  0.00000000  0.05087100  1
+  In  In8  4  0.12798300  0.50000000  0.69728300  1
+  In  In9  4  0.20223800  0.50000000  0.00197900  1
+  In  In10  4  0.20348900  0.00000000  0.50323100  1
+  In  In11  4  0.24519800  0.00000000  0.78976200  1
+  Ni  Ni12  4  0.00755100  0.50000000  0.69443800  1
+  Ni  Ni13  4  0.02146700  0.00000000  0.10060500  1
+  Ni  Ni14  4  0.13772200  0.00000000  0.60411000  1
+  Ni  Ni15  4  0.15423400  0.50000000  0.37886700  1
+  Ni  Ni16  4  0.24837300  0.50000000  0.88323000  1
+  Ni  Ni17  2  0.00000000  0.50000000  0.00000000  1

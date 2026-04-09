@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiMoO2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   10.52173600
+_cell_length_b   3.11109400
+_cell_length_c   4.99649694
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.93413792
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   LiMoO2
+_chemical_formula_sum   'Li4 Mo4 O8'
+_cell_volume   161.57153938
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  2  0.00000000  0.50000000  0.50000000  1
+  Mo  Mo2  4  0.24697700  0.00000000  0.78345800  1
+  O  O3  4  0.11382900  0.50000000  0.85859500  1
+  O  O4  4  0.14059700  0.00000000  0.37092100  1

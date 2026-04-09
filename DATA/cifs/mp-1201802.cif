@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba4NaGe3S10Cl
+_symmetry_space_group_name_H-M   P6_3
+_cell_length_a   9.97263552
+_cell_length_b   9.97263552
+_cell_length_c   12.32710000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   173
+_chemical_formula_structural   Ba4NaGe3S10Cl
+_chemical_formula_sum   'Ba8 Na2 Ge6 S20 Cl2'
+_cell_volume   1061.72353373
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x-y, x, z+1/2'
+  3  '-y, x-y, z'
+  4  '-x, -y, z+1/2'
+  5  '-x+y, -x, z'
+  6  'y, -x+y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  6  0.08977000  0.35226500  0.63543300  1
+  Ba  Ba1  2  0.33333333  0.66666667  0.94523800  1
+  Na  Na2  2  0.00000000  0.00000000  0.38834400  1
+  Ge  Ge3  6  0.11821200  0.44752500  0.29749300  1
+  S  S4  6  0.06067800  0.75007700  0.89002000  1
+  S  S5  6  0.08940300  0.42225800  0.12234000  1
+  S  S6  6  0.11553900  0.66195300  0.36180200  1
+  S  S7  2  0.33333333  0.66666667  0.69907500  1
+  Cl  Cl8  2  0.00000000  0.00000000  0.14114900  1

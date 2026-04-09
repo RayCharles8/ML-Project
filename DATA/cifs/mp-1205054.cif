@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2YCoO5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.90624052
+_cell_length_b   6.11339284
+_cell_length_c   14.51029282
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   121.29590172
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ba2YCoO5
+_chemical_formula_sum   'Ba8 Y4 Co4 O20'
+_cell_volume   599.29206951
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.13055881  0.74161384  0.13983248  1
+  Ba  Ba1  4  0.39229104  0.24610894  0.38481513  1
+  Y  Y2  4  0.36437668  0.24799200  0.12857237  1
+  Co  Co3  4  0.15280297  0.74182381  0.40658840  1
+  O  O4  4  0.11504890  0.23776564  0.67109255  1
+  O  O5  4  0.21529633  0.02772355  0.98200162  1
+  O  O6  4  0.24020752  0.52921671  0.01102882  1
+  O  O7  4  0.33920638  0.74469420  0.86775234  1
+  O  O8  4  0.47715614  0.53980342  0.73057791  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb2Te3O11
+_symmetry_space_group_name_H-M   P2_12_12
+_cell_length_a   7.81850259
+_cell_length_b   15.80393990
+_cell_length_c   4.04108615
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   18
+_chemical_formula_structural   Nb2Te3O11
+_chemical_formula_sum   'Nb4 Te6 O22'
+_cell_volume   499.32931407
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  4  0.12909629  0.60255581  0.74667583  1
+  Te  Te1  4  0.18919886  0.79721266  0.14099564  1
+  Te  Te2  2  0.00000000  0.00000000  0.86441889  1
+  O  O3  4  0.08329941  0.32670978  0.78521486  1
+  O  O4  4  0.13782605  0.88614730  0.84338444  1
+  O  O5  4  0.14359611  0.04422572  0.19627779  1
+  O  O6  4  0.15045375  0.60795205  0.29684359  1
+  O  O7  4  0.24904731  0.22001470  0.19140332  1
+  O  O8  2  0.00000000  0.50000000  0.80022553  1

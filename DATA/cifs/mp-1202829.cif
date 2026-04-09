@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba2GaBiTe5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   13.71192600
+_cell_length_b   9.80223800
+_cell_length_c   10.04968800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Ba2GaBiTe5
+_chemical_formula_sum   'Ba8 Ga4 Bi4 Te20'
+_cell_volume   1350.75406385
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  8  0.17443000  0.50726800  0.88190300  1
+  Ga  Ga1  4  0.10117900  0.25000000  0.16559700  1
+  Bi  Bi2  4  0.02744200  0.25000000  0.52398300  1
+  Te  Te3  8  0.06324900  0.03291900  0.32086500  1
+  Te  Te4  4  0.00842500  0.75000000  0.04483700  1
+  Te  Te5  4  0.21075800  0.75000000  0.60742700  1
+  Te  Te6  4  0.22874700  0.25000000  0.62659000  1

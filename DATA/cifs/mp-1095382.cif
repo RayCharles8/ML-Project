@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Fe5O7
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   9.74784200
+_cell_length_b   2.91424000
+_cell_length_c   8.88309894
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.25797379
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Fe5O7
+_chemical_formula_sum   'Fe10 O14'
+_cell_volume   243.45203089
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  4  0.11063800  0.00000000  0.41530700  1
+  Fe  Fe1  4  0.19458400  0.50000000  0.81589900  1
+  Fe  Fe2  2  0.00000000  0.00000000  0.00000000  1
+  O  O3  4  0.03938000  0.00000000  0.78630100  1
+  O  O4  4  0.15299200  0.50000000  0.05170300  1
+  O  O5  4  0.23728100  0.50000000  0.36445100  1
+  O  O6  2  0.00000000  0.50000000  0.50000000  1

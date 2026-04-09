@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K2NaS2ClO6
+_symmetry_space_group_name_H-M   P4/n
+_cell_length_a   12.05684518
+_cell_length_b   12.05684518
+_cell_length_c   5.50118467
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   85
+_chemical_formula_structural   K2NaS2ClO6
+_chemical_formula_sum   'K8 Na4 S8 Cl4 O24'
+_cell_volume   799.69354885
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z'
+  3  '-x, -y, z'
+  4  'y+1/2, -x+1/2, z'
+  5  '-x+1/2, -y+1/2, -z'
+  6  'y, -x, -z'
+  7  'x+1/2, y+1/2, -z'
+  8  '-y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  8  0.05636252  0.74890905  0.52033650  1
+  Na  Na1  2  0.00000000  0.00000000  0.00000000  1
+  Na  Na2  2  0.00000000  0.50000000  0.93707727  1
+  S  S3  8  0.16242074  0.24069064  0.02814863  1
+  Cl  Cl4  2  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl5  2  0.00000000  0.50000000  0.43035800  1
+  O  O6  8  0.11095188  0.32870858  0.88581146  1
+  O  O7  8  0.12956958  0.85963644  0.06238501  1
+  O  O8  8  0.14871219  0.25258549  0.28944277  1

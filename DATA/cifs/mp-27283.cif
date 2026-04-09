@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TlPb2Cl5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.96041902
+_cell_length_b   7.96389345
+_cell_length_c   12.58655833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.12973339
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   TlPb2Cl5
+_chemical_formula_sum   'Tl4 Pb8 Cl20'
+_cell_volume   898.17226339
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  4  0.48791005  0.04707655  0.83194572  1
+  Pb  Pb1  4  0.00741987  0.50777596  0.67566980  1
+  Pb  Pb2  4  0.25301069  0.56593183  0.99427326  1
+  Cl  Cl3  4  0.04193801  0.16453453  0.59868432  1
+  Cl  Cl4  4  0.21840226  0.54199277  0.49825765  1
+  Cl  Cl5  4  0.22394933  0.15539064  0.31300884  1
+  Cl  Cl6  4  0.22979692  0.68719210  0.22100022  1
+  Cl  Cl7  4  0.45978762  0.17469725  0.58349797  1

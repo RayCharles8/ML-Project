@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y2B6Os
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   9.15926803
+_cell_length_b   11.53005284
+_cell_length_c   3.65733212
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   Y2B6Os
+_chemical_formula_sum   'Y8 B24 Os4'
+_cell_volume   386.23930398
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  4  0.05585954  0.62637230  0.00000000  1
+  Y  Y1  4  0.17779872  0.91383106  0.00000000  1
+  B  B2  4  0.01627010  0.78688991  0.50000000  1
+  B  B3  4  0.05370012  0.06740308  0.50000000  1
+  B  B4  4  0.11173108  0.46897651  0.50000000  1
+  B  B5  4  0.13213090  0.31401218  0.50000000  1
+  B  B6  4  0.20973135  0.73285428  0.50000000  1
+  B  B7  4  0.24691777  0.08006572  0.50000000  1
+  Os  Os8  4  0.13731783  0.17852584  0.00000000  1

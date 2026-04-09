@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_GePb2(SeO3)4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.15032000
+_cell_length_b   6.76755500
+_cell_length_c   9.47691140
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.47042301
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   GePb2(SeO3)4
+_chemical_formula_sum   'Ge2 Pb4 Se8 O24'
+_cell_volume   583.12231634
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  2  0.00000000  0.00000000  0.50000000  1
+  Pb  Pb1  4  0.46263800  0.73674300  0.09633900  1
+  Se  Se2  4  0.15993500  0.68813900  0.29427400  1
+  Se  Se3  4  0.23839100  0.18737500  0.13118400  1
+  O  O4  4  0.03289000  0.61858200  0.82330800  1
+  O  O5  4  0.12882800  0.69275100  0.10671100  1
+  O  O6  4  0.16789500  0.16902900  0.48331700  1
+  O  O7  4  0.32412300  0.69143500  0.81340200  1
+  O  O8  4  0.34669500  0.13940300  0.72528200  1
+  O  O9  4  0.37051800  0.06053100  0.04769300  1

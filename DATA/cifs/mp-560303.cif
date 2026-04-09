@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_BaCa2C2(O3F)2
+_symmetry_space_group_name_H-M   Cmcm
+_cell_length_a   12.64717000
+_cell_length_b   5.93870200
+_cell_length_c   9.55977800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   63
+_chemical_formula_structural   BaCa2C2(O3F)2
+_chemical_formula_sum   'Ba4 Ca8 C8 O24 F8'
+_cell_volume   718.01364335
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'x+1/2, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00000000  0.00121400  0.75000000  1
+  Ca  Ca1  8  0.14637500  0.50000000  0.00000000  1
+  C  C2  8  0.24666650  0.34464350  0.25000000  1
+  O  O3  16  0.20269550  0.16015950  0.63223800  1
+  O  O4  8  0.14368400  0.36599500  0.25000000  1
+  F  F5  8  0.00000000  0.26485100  0.50607600  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ErSi3Ni5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   18.67202500
+_cell_length_b   3.77911700
+_cell_length_c   6.64655500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   ErSi3Ni5
+_chemical_formula_sum   'Er4 Si12 Ni20'
+_cell_volume   469.00595905
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  4  0.14407200  0.25000000  0.87769100  1
+  Si  Si1  4  0.07542100  0.75000000  0.15306800  1
+  Si  Si2  4  0.08502700  0.75000000  0.58687100  1
+  Si  Si3  4  0.23757300  0.25000000  0.37884100  1
+  Ni  Ni4  4  0.00539700  0.75000000  0.86853000  1
+  Ni  Ni5  4  0.01377600  0.25000000  0.61812000  1
+  Ni  Ni6  4  0.11447400  0.25000000  0.35664500  1
+  Ni  Ni7  4  0.20021500  0.75000000  0.18411500  1
+  Ni  Ni8  4  0.20570800  0.75000000  0.57082300  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KLaSi(CN2)4
+_symmetry_space_group_name_H-M   P2_12_12
+_cell_length_a   7.67515600
+_cell_length_b   9.52586600
+_cell_length_c   6.98008600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   18
+_chemical_formula_structural   KLaSi(CN2)4
+_chemical_formula_sum   'K2 La2 Si2 C8 N16'
+_cell_volume   510.33159062
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.00000000  0.00000000  0.92165500  1
+  La  La1  2  0.00000000  0.50000000  0.25905800  1
+  Si  Si2  2  0.00000000  0.50000000  0.75178000  1
+  C  C3  4  0.17249300  0.72897100  0.63584900  1
+  C  C4  4  0.21443000  0.29964000  0.87261500  1
+  N  N5  4  0.09997000  0.61296000  0.59324300  1
+  N  N6  4  0.13517000  0.41332500  0.91167600  1
+  N  N7  4  0.20889100  0.69237700  0.15591900  1
+  N  N8  4  0.23968800  0.83917200  0.67238500  1

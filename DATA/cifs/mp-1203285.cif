@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SnH12C4(SCl2)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.25030800
+_cell_length_b   12.76572100
+_cell_length_c   9.52888538
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   120.95827263
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   SnH12C4(SCl2)2
+_chemical_formula_sum   'Sn2 H24 C8 S4 Cl8'
+_cell_volume   756.30921352
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  2  0.00000000  0.00000000  0.00000000  1
+  H  H1  4  0.02844200  0.74921700  0.16861600  1
+  H  H2  4  0.03648300  0.70331200  0.99335800  1
+  H  H3  4  0.24732000  0.66739800  0.19644400  1
+  H  H4  4  0.34672000  0.60926100  0.88821600  1
+  H  H5  4  0.43703300  0.07440700  0.64350100  1
+  H  H6  4  0.46703000  0.20800400  0.59930200  1
+  C  C7  4  0.13285900  0.72870200  0.12151200  1
+  C  C8  4  0.44761300  0.63530500  0.84050600  1
+  S  S9  4  0.28772800  0.66026700  0.62395300  1
+  Cl  Cl10  4  0.13043100  0.04359800  0.81654100  1
+  Cl  Cl11  4  0.26411600  0.11973800  0.20816300  1

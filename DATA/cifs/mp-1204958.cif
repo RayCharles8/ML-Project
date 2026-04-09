@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsMnN9
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.48703179
+_cell_length_b   7.67246148
+_cell_length_c   15.72403645
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.09784597
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   CsMnN9
+_chemical_formula_sum   'Cs4 Mn4 N36'
+_cell_volume   730.14833473
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.07065007  0.61062877  0.85447018  1
+  Mn  Mn1  4  0.43824914  0.05929252  0.88929866  1
+  N  N2  4  0.06398199  0.56411454  0.61271495  1
+  N  N3  4  0.08118746  0.04906448  0.85919843  1
+  N  N4  4  0.20852867  0.57827760  0.58498552  1
+  N  N5  4  0.27754976  0.09191895  0.54656074  1
+  N  N6  4  0.37817669  0.61108238  0.26858835  1
+  N  N7  4  0.37953133  0.20438506  0.30374998  1
+  N  N8  4  0.38060778  0.20612686  0.53379827  1
+  N  N9  4  0.49072511  0.17742691  0.02193025  1
+  N  N10  4  0.49989081  0.65740838  0.23268262  1

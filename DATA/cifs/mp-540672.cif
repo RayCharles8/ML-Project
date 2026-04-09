@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti7Br16
+_symmetry_space_group_name_H-M   Pnnm
+_cell_length_a   10.70196597
+_cell_length_b   15.44646665
+_cell_length_c   7.20271148
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   58
+_chemical_formula_structural   Ti7Br16
+_chemical_formula_sum   'Ti14 Br32'
+_cell_volume   1190.66266335
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  8  0.24628695  0.63860652  0.19533127  1
+  Ti  Ti1  4  0.03468431  0.73887024  0.00000000  1
+  Ti  Ti2  2  0.00000000  0.00000000  0.00000000  1
+  Br  Br3  8  0.00138705  0.86793538  0.25162909  1
+  Br  Br4  8  0.01547663  0.62595305  0.25078737  1
+  Br  Br5  4  0.22762672  0.24889549  0.00000000  1
+  Br  Br6  4  0.23165002  0.27525938  0.50000000  1
+  Br  Br7  4  0.24107020  0.00562673  0.50000000  1
+  Br  Br8  4  0.24467581  0.01971396  0.00000000  1

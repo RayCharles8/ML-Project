@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ScGe2Ru
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   9.37219400
+_cell_length_b   10.43154100
+_cell_length_c   8.17721600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   ScGe2Ru
+_chemical_formula_sum   'Sc12 Ge24 Ru12'
+_cell_volume   799.45718271
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  8  0.17573300  0.54990800  0.24088200  1
+  Sc  Sc1  4  0.16450600  0.82164000  0.00000000  1
+  Ge  Ge2  8  0.16079900  0.81976400  0.34492000  1
+  Ge  Ge3  4  0.03674600  0.38249700  0.00000000  1
+  Ge  Ge4  4  0.03732000  0.38285900  0.50000000  1
+  Ge  Ge5  4  0.13026500  0.09553200  0.50000000  1
+  Ge  Ge6  4  0.13273600  0.10166600  0.00000000  1
+  Ru  Ru7  8  0.08885900  0.26181700  0.24915400  1
+  Ru  Ru8  4  0.00000000  0.00000000  0.24632800  1

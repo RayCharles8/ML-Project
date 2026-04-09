@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CoBiAsO5
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.37803275
+_cell_length_b   6.89206758
+_cell_length_c   6.95959812
+_cell_angle_alpha   111.11832083
+_cell_angle_beta   107.23969637
+_cell_angle_gamma   96.36977202
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   CoBiAsO5
+_chemical_formula_sum   'Co2 Bi2 As2 O10'
+_cell_volume   222.85811529
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  2  0.33117350  0.36447050  0.73248650  1
+  Bi  Bi1  2  0.09894500  0.76198750  0.03395250  1
+  As  As2  2  0.34496100  0.81267850  0.61080750  1
+  O  O3  2  0.08467050  0.77577400  0.37379900  1
+  O  O4  2  0.23125900  0.65333300  0.72600500  1
+  O  O5  2  0.26936500  0.49766850  0.04650250  1
+  O  O6  2  0.36765550  0.24358500  0.42880900  1
+  O  O7  2  0.42477600  0.08184050  0.79457350  1

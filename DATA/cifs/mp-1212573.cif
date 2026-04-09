@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_H17RuN6ClO3
+_symmetry_space_group_name_H-M   Cmc2_1
+_cell_length_a   7.42817200
+_cell_length_b   19.88792000
+_cell_length_c   7.14685400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   36
+_chemical_formula_structural   H17RuN6ClO3
+_chemical_formula_sum   'H68 Ru4 N24 Cl4 O12'
+_cell_volume   1055.81110557
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  8  0.10847400  0.47839000  0.49111400  1
+  H  H1  8  0.11185250  0.25065150  0.05382800  1
+  H  H2  8  0.16674900  0.15972300  0.68474100  1
+  H  H3  8  0.16958600  0.37160600  0.65446700  1
+  H  H4  8  0.17409650  0.36885750  0.32865800  1
+  H  H5  8  0.18264950  0.16314150  0.30000100  1
+  H  H6  8  0.19976700  0.07801100  0.70742600  1
+  H  H7  8  0.20072250  0.08064550  0.28943800  1
+  Ru  Ru8  4  0.00000000  0.12067200  0.99639600  1
+  H  H9  4  0.00000000  0.24715300  0.85347400  1
+  N  N10  8  0.19785750  0.12283250  0.77973300  1
+  N  N11  8  0.20362100  0.12364200  0.20933800  1
+  N  N12  4  0.00000000  0.02436700  0.99528500  1
+  N  N13  4  0.00000000  0.23101400  0.99045700  1
+  Cl  Cl14  4  0.00000000  0.25024100  0.50612000  1
+  O  O15  8  0.14762400  0.01085700  0.49353200  1
+  O  O16  4  0.00000000  0.44982500  0.48651500  1

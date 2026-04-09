@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MgGaH4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.00224347
+_cell_length_b   6.95021000
+_cell_length_c   9.37159598
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   121.83972748
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   MgGaH4
+_chemical_formula_sum   'Mg4 Ga4 H16'
+_cell_volume   332.12558681
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  4  0.00673000  0.13410800  0.75672700  1
+  Ga  Ga1  4  0.35178700  0.62293500  0.61244200  1
+  H  H2  4  0.07953300  0.11297100  0.32035400  1
+  H  H3  4  0.24431600  0.07873700  0.01591400  1
+  H  H4  4  0.25708800  0.68902700  0.99470400  1
+  H  H5  4  0.33940900  0.11869800  0.75431000  1

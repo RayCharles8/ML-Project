@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Mn2InC10ClO10
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   8.83493000
+_cell_length_b   9.96468625
+_cell_length_c   10.48312144
+_cell_angle_alpha   116.73603364
+_cell_angle_beta   91.70655694
+_cell_angle_gamma   93.31623904
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Mn2InC10ClO10
+_chemical_formula_sum   'Mn4 In2 C20 Cl2 O20'
+_cell_volume   821.24307273
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  2  0.23995000  0.24132700  0.40531100  1
+  Mn  Mn1  2  0.24495500  0.72266500  0.07532700  1
+  In  In2  2  0.15294000  0.00446200  0.14833100  1
+  C  C3  2  0.03552400  0.27935400  0.42522200  1
+  C  C4  2  0.08660400  0.72001900  0.18667400  1
+  C  C5  2  0.11457700  0.67278600  0.91692000  1
+  C  C6  2  0.20578500  0.10143700  0.47567200  1
+  C  C7  2  0.26769800  0.35917200  0.31044200  1
+  C  C8  2  0.29498400  0.52824400  0.00446000  1
+  C  C9  2  0.30658000  0.39642100  0.57686200  1
+  C  C10  2  0.37815800  0.78658300  0.23604500  1
+  C  C11  2  0.39345800  0.78673900  0.98948400  1
+  C  C12  2  0.43447900  0.17823200  0.36201100  1
+  Cl  Cl13  2  0.14589200  0.04444900  0.91750900  1
+  O  O14  2  0.01191900  0.28307100  0.74348900  1
+  O  O15  2  0.03939600  0.63622200  0.81254000  1
+  O  O16  2  0.08991600  0.69401500  0.55623900  1
+  O  O17  2  0.18562200  0.01465300  0.51968000  1
+  O  O18  2  0.29043800  0.43896800  0.25909500  1
+  O  O19  2  0.32875100  0.40497600  0.95288700  1
+  O  O20  2  0.35322500  0.49641100  0.68411600  1
+  O  O21  2  0.44331900  0.85820500  0.66007300  1
+  O  O22  2  0.46056100  0.82192900  0.33563800  1
+  O  O23  2  0.48909400  0.82472000  0.93657300  1

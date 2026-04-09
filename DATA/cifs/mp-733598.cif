@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_H9PtN2ClO2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.02793900
+_cell_length_b   4.39303300
+_cell_length_c   19.30068162
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.40777047
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   H9PtN2ClO2
+_chemical_formula_sum   'H36 Pt4 N8 Cl4 O8'
+_cell_volume   629.28218199
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  4  0.01402700  0.66141100  0.24412300  1
+  H  H1  4  0.09831200  0.20292800  0.07218400  1
+  H  H2  4  0.16998800  0.14312000  0.16380400  1
+  H  H3  4  0.21786100  0.72568600  0.25664600  1
+  H  H4  4  0.24851100  0.06048900  0.63093400  1
+  H  H5  4  0.29062200  0.17986100  0.90614100  1
+  H  H6  4  0.29884800  0.09928200  0.33704700  1
+  H  H7  4  0.41774700  0.01121100  0.42460900  1
+  H  H8  4  0.48057800  0.73266400  0.25962500  1
+  Pt  Pt9  4  0.41667100  0.54699200  0.61584000  1
+  N  N10  4  0.20944800  0.21504700  0.12170500  1
+  N  N11  4  0.37394400  0.19209200  0.38830300  1
+  Cl  Cl12  4  0.23699700  0.69496000  0.49465500  1
+  O  O13  4  0.09760600  0.67089800  0.74410000  1
+  O  O14  4  0.41993200  0.57009200  0.27700100  1

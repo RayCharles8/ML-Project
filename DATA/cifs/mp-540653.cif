@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_SrAlF5
+_symmetry_space_group_name_H-M   I4
+_cell_length_a   14.39991400
+_cell_length_b   14.39991400
+_cell_length_c   7.23271800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   79
+_chemical_formula_structural   SrAlF5
+_chemical_formula_sum   'Sr16 Al16 F80'
+_cell_volume   1499.75849054
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x, z'
+  3  '-x, -y, z'
+  4  'y, -x, z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-y+1/2, x+1/2, z+1/2'
+  7  '-x+1/2, -y+1/2, z+1/2'
+  8  'y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  8  0.05141250  0.22473150  0.99615850  1
+  Sr  Sr1  8  0.06922400  0.75297500  0.49621100  1
+  Al  Al2  8  0.16569450  0.31834350  0.49718750  1
+  Al  Al3  4  0.00000000  0.50000000  0.49669300  1
+  Al  Al4  2  0.00000000  0.00000000  0.24128200  1
+  Al  Al5  2  0.00000000  0.00000000  0.73625800  1
+  F  F6  8  0.03788300  0.88008000  0.74449800  1
+  F  F7  8  0.03890700  0.88035300  0.23287300  1
+  F  F8  8  0.05451550  0.38675550  0.49579550  1
+  F  F9  8  0.06544550  0.39172050  0.99702350  1
+  F  F10  8  0.10155200  0.71010400  0.17031600  1
+  F  F11  8  0.10174450  0.71137750  0.82478250  1
+  F  F12  8  0.10510350  0.24736750  0.66982750  1
+  F  F13  8  0.10560950  0.24655250  0.32471750  1
+  F  F14  8  0.23232450  0.25531850  0.99804950  1
+  F  F15  4  0.00000000  0.50000000  0.24664400  1
+  F  F16  2  0.00000000  0.00000000  0.48861200  1
+  F  F17  2  0.00000000  0.00000000  0.98878900  1

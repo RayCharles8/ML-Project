@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2BSO4F3
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.70726500
+_cell_length_b   6.72521604
+_cell_length_c   6.73699542
+_cell_angle_alpha   84.35842550
+_cell_angle_beta   66.33330549
+_cell_angle_gamma   84.24912968
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Na2BSO4F3
+_chemical_formula_sum   'Na4 B2 S2 O8 F6'
+_cell_volume   276.36874215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  2  0.27013600  0.15435200  0.61524600  1
+  Na  Na1  2  0.27698300  0.59584000  0.23414300  1
+  B  B2  2  0.16207100  0.12470000  0.14453500  1
+  S  S3  2  0.22966500  0.65063800  0.72656100  1
+  O  O4  2  0.02212000  0.76127300  0.89344700  1
+  O  O5  2  0.15661100  0.49972000  0.63011700  1
+  O  O6  2  0.34847600  0.56338200  0.85836400  1
+  O  O7  2  0.34995200  0.80145700  0.55682500  1
+  F  F8  2  0.09770800  0.93243800  0.25045800  1
+  F  F9  2  0.23430200  0.22687500  0.27488100  1
+  F  F10  2  0.32794100  0.10114300  0.93734200  1

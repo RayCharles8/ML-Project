@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Rb4NpS2ClO10
+_symmetry_space_group_name_H-M   P2/c
+_cell_length_a   10.74418000
+_cell_length_b   4.66814000
+_cell_length_c   16.38033034
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.95496392
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   13
+_chemical_formula_structural   Rb4NpS2ClO10
+_chemical_formula_sum   'Rb8 Np2 S4 Cl2 O20'
+_cell_volume   732.30913949
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.16471300  0.23481600  0.10551900  1
+  Rb  Rb1  4  0.43481500  0.22947100  0.87067300  1
+  Np  Np2  2  0.00000000  0.26185200  0.75000000  1
+  S  S3  4  0.19885100  0.34440900  0.42570000  1
+  Cl  Cl4  2  0.50000000  0.26822600  0.25000000  1
+  O  O5  4  0.08612100  0.22815200  0.33552200  1
+  O  O6  4  0.14215500  0.26191200  0.71569200  1
+  O  O7  4  0.17020900  0.25835900  0.50236800  1
+  O  O8  4  0.18357200  0.33538500  0.91294100  1
+  O  O9  4  0.33923500  0.25531400  0.44033900  1

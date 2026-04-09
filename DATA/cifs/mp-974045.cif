@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La11In9Ni4
+_symmetry_space_group_name_H-M   Cmmm
+_cell_length_a   15.08217558
+_cell_length_b   22.53832268
+_cell_length_c   3.85054993
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   65
+_chemical_formula_structural   La11In9Ni4
+_chemical_formula_sum   'La22 In18 Ni8'
+_cell_volume   1308.90565479
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z'
+  12  'x+1/2, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z'
+  16  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  8  0.24783765  0.16948299  0.00000000  1
+  La  La1  4  0.00000000  0.16148467  0.00000000  1
+  La  La2  4  0.00000000  0.37523280  0.00000000  1
+  La  La3  4  0.18629681  0.50000000  0.00000000  1
+  La  La4  2  0.00000000  0.00000000  0.00000000  1
+  In  In5  8  0.10034082  0.26577182  0.50000000  1
+  In  In6  8  0.15240630  0.06869268  0.50000000  1
+  In  In7  2  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni8  8  0.15577554  0.39736084  0.50000000  1

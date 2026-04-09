@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TmMnSn2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   10.32179700
+_cell_length_b   11.31893100
+_cell_length_c   8.98017200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   TmMnSn2
+_chemical_formula_sum   'Tm12 Mn12 Sn24'
+_cell_volume   1049.16883324
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  8  0.16931100  0.54589600  0.24287700  1
+  Tm  Tm1  4  0.16422300  0.81982900  0.00000000  1
+  Mn  Mn2  8  0.08771600  0.24292100  0.24725900  1
+  Mn  Mn3  4  0.00000000  0.00000000  0.24374700  1
+  Sn  Sn4  8  0.16316900  0.81780700  0.33664100  1
+  Sn  Sn5  4  0.04139600  0.37635700  0.00000000  1
+  Sn  Sn6  4  0.04483800  0.37380100  0.50000000  1
+  Sn  Sn7  4  0.12767300  0.09235100  0.50000000  1
+  Sn  Sn8  4  0.13137600  0.09885700  0.00000000  1

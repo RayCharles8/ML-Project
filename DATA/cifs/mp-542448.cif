@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3GaSe3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.62176290
+_cell_length_b   13.86437516
+_cell_length_c   11.28247726
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   126.52394807
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Cs3GaSe3
+_chemical_formula_sum   'Cs12 Ga4 Se12'
+_cell_volume   1083.79011980
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.13034217  0.69311676  0.91395813  1
+  Cs  Cs1  4  0.35462451  0.07740831  0.61386161  1
+  Cs  Cs2  4  0.37843492  0.12866256  0.01438579  1
+  Ga  Ga3  4  0.06784587  0.05707765  0.15952304  1
+  Se  Se4  4  0.11090761  0.55429157  0.24064399  1
+  Se  Se5  4  0.13574314  0.60419341  0.60734005  1
+  Se  Se6  4  0.34549851  0.16032024  0.30436764  1

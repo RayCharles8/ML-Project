@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaGd2Si3O10
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   5.45022190
+_cell_length_b   12.25364832
+_cell_length_c   6.94672692
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.37810151
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   BaGd2Si3O10
+_chemical_formula_sum   'Ba2 Gd4 Si6 O20'
+_cell_volume   445.11211296
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  2  0.23839543  0.25000000  0.98198156  1
+  Gd  Gd1  4  0.16075558  0.59757441  0.68715025  1
+  Si  Si2  4  0.30467411  0.56400209  0.21519084  1
+  Si  Si3  2  0.41427286  0.25000000  0.51011665  1
+  O  O4  4  0.10121079  0.55456197  0.34886473  1
+  O  O5  4  0.17060206  0.62608098  0.00748924  1
+  O  O6  4  0.42501785  0.05305986  0.18921747  1
+  O  O7  4  0.45066283  0.14277896  0.65814897  1
+  O  O8  2  0.12324048  0.25000000  0.36594672  1
+  O  O9  2  0.37952866  0.75000000  0.61722319  1

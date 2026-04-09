@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr(TbS2)2
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   12.04160878
+_cell_length_b   4.00512644
+_cell_length_c   14.38451258
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Sr(TbS2)2
+_chemical_formula_sum   'Sr4 Tb8 S16'
+_cell_volume   693.73865629
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  4  0.24244585  0.75000000  0.66127274  1
+  Tb  Tb1  4  0.06802594  0.75000000  0.88968238  1
+  Tb  Tb2  4  0.08141236  0.75000000  0.39891563  1
+  S  S3  4  0.02310377  0.25000000  0.28413803  1
+  S  S4  4  0.08591591  0.75000000  0.07851079  1
+  S  S5  4  0.13002041  0.25000000  0.52725244  1
+  S  S6  4  0.20695968  0.25000000  0.82457690  1

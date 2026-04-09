@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaCr4S7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.82437934
+_cell_length_b   22.94238600
+_cell_length_c   6.01299300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.03586664
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   BaCr4S7
+_chemical_formula_sum   'Ba4 Cr16 S28'
+_cell_volume   941.43936743
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.37293300  0.17274200  0.89039200  1
+  Cr  Cr1  4  0.12424400  0.00736300  0.74597900  1
+  Cr  Cr2  4  0.12842900  0.62547700  0.25547500  1
+  Cr  Cr3  4  0.12881600  0.74644600  0.88363300  1
+  Cr  Cr4  4  0.37544100  0.50105100  0.76432800  1
+  S  S5  4  0.10092500  0.20072000  0.36422400  1
+  S  S6  4  0.12298500  0.05894900  0.09472500  1
+  S  S7  4  0.12756800  0.66969100  0.61464300  1
+  S  S8  4  0.12787200  0.55948800  0.93652700  1
+  S  S9  4  0.35951700  0.70063300  0.13680700  1
+  S  S10  4  0.37216700  0.55590200  0.41454900  1
+  S  S11  4  0.37779800  0.05991400  0.58063000  1

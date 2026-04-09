@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3GaSe4Cl
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   12.94674500
+_cell_length_b   10.00763800
+_cell_length_c   8.89245500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Ba3GaSe4Cl
+_chemical_formula_sum   'Ba12 Ga4 Se16 Cl4'
+_cell_volume   1152.16282341
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  8  0.16989300  0.51971000  0.07719000  1
+  Ba  Ba1  4  0.00909000  0.75000000  0.58262700  1
+  Ga  Ga2  4  0.10934700  0.25000000  0.81319600  1
+  Se  Se3  8  0.07590200  0.04389700  0.68677900  1
+  Se  Se4  4  0.00599200  0.25000000  0.04100300  1
+  Se  Se5  4  0.20610900  0.75000000  0.36092200  1
+  Cl  Cl6  4  0.22879900  0.25000000  0.33866400  1

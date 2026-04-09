@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca13Al14
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   15.45492258
+_cell_length_b   9.82214628
+_cell_length_c   9.69125428
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.24728870
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Ca13Al14
+_chemical_formula_sum   'Ca26 Al28'
+_cell_volume   1397.15965101
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  8  0.13778932  0.21828900  0.77307074  1
+  Ca  Ca1  8  0.14647734  0.20262530  0.36628572  1
+  Ca  Ca2  4  0.00364464  0.50000000  0.20276091  1
+  Ca  Ca3  4  0.19564893  0.00000000  0.08391704  1
+  Ca  Ca4  2  0.00000000  0.00000000  0.50000000  1
+  Al  Al5  8  0.15802152  0.36572296  0.08341749  1
+  Al  Al6  4  0.00000000  0.22518826  0.00000000  1
+  Al  Al7  4  0.00000000  0.35546111  0.50000000  1
+  Al  Al8  4  0.00192030  0.00000000  0.15639580  1
+  Al  Al9  4  0.15934972  0.50000000  0.56737012  1
+  Al  Al10  4  0.24017004  0.50000000  0.34275339  1

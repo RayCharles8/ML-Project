@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li2Ti3(BiO3)4
+_symmetry_space_group_name_H-M   Aea2
+_cell_length_a   5.71900800
+_cell_length_b   32.87454600
+_cell_length_c   5.71097600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   41
+_chemical_formula_structural   Li2Ti3(BiO3)4
+_chemical_formula_sum   'Li8 Ti12 Bi16 O48'
+_cell_volume   1073.71940742
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/2, y, z+1/2'
+  8  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  8  0.22887100  0.18143350  0.25478950  1
+  Ti  Ti1  8  0.02011900  0.11843900  0.51565600  1
+  Ti  Ti2  4  0.00000000  0.00000000  0.48826900  1
+  Bi  Bi3  8  0.03032100  0.43747950  0.50527850  1
+  Bi  Bi4  8  0.12716400  0.28806350  0.46871850  1
+  O  O5  8  0.02498500  0.32382400  0.99376400  1
+  O  O6  8  0.08067000  0.05762250  0.48617050  1
+  O  O7  8  0.22087200  0.12325500  0.78462800  1
+  O  O8  8  0.23860600  0.24130950  0.72942850  1
+  O  O9  8  0.24164900  0.39531150  0.74441150  1
+  O  O10  8  0.24797500  0.48690750  0.73301950  1

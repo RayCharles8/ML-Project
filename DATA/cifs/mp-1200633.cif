@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_AgH12C4Se5N
+_symmetry_space_group_name_H-M   Cc
+_cell_length_a   11.58622000
+_cell_length_b   18.98373200
+_cell_length_c   7.58723743
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.67044797
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   9
+_chemical_formula_structural   AgH12C4Se5N
+_chemical_formula_sum   'Ag4 H48 C16 Se20 N4'
+_cell_volume   1372.49247767
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  4  0.35184200  0.01924400  0.81033900  1
+  H  H1  4  0.14045200  0.21915000  0.42034600  1
+  H  H2  4  0.16650400  0.13734400  0.55903800  1
+  H  H3  4  0.17764000  0.13988200  0.33202000  1
+  H  H4  4  0.28676000  0.33334100  0.74904400  1
+  H  H5  4  0.30056250  0.33309050  0.43408200  1
+  H  H6  4  0.33035550  0.43880750  0.62224300  1
+  H  H7  4  0.41580600  0.26370600  0.86629100  1
+  H  H8  4  0.43047600  0.26358400  0.55594400  1
+  H  H9  4  0.44686800  0.34379500  0.01283800  1
+  H  H10  4  0.46913500  0.34481500  0.47719500  1
+  H  H11  4  0.48961350  0.45467150  0.88444400  1
+  H  H12  4  0.49579400  0.45078800  0.65345500  1
+  Se  Se13  4  0.02073050  0.37951650  0.33150700  1
+  Se  Se14  4  0.06238100  0.34968400  0.86107500  1
+  Se  Se15  4  0.07458700  0.43356700  0.10556800  1
+  C  C16  4  0.12539700  0.83803000  0.90297700  1
+  Se  Se17  4  0.21086800  0.06565800  0.96778900  1
+  Se  Se18  4  0.32018050  0.17584550  0.12286600  1
+  C  C19  4  0.39932650  0.32091150  0.85310900  1
+  C  C20  4  0.41306400  0.32063000  0.53943100  1
+  C  C21  4  0.44434700  0.43017900  0.72712600  1
+  N  N22  4  0.47041000  0.35227700  0.75617400  1

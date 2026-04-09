@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na3InSb2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   10.33446554
+_cell_length_b   7.96339911
+_cell_length_c   16.65431859
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.75147769
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Na3InSb2
+_chemical_formula_sum   'Na24 In8 Sb16'
+_cell_volume   1369.02823786
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.07179717  0.03115836  0.89242624  1
+  Na  Na1  4  0.12871150  0.65344668  0.20195274  1
+  Na  Na2  4  0.18753315  0.52838491  0.85286823  1
+  Na  Na3  4  0.32246148  0.01290803  0.13816164  1
+  Na  Na4  4  0.38344543  0.65111943  0.45300252  1
+  Na  Na5  4  0.43924792  0.50872537  0.10729101  1
+  In  In6  4  0.12565834  0.13732087  0.54256142  1
+  In  In7  4  0.36061146  0.14813962  0.79189723  1
+  Sb  Sb8  4  0.12022896  0.24153159  0.70922649  1
+  Sb  Sb9  4  0.12745011  0.72804616  0.02221395  1
+  Sb  Sb10  4  0.35102846  0.23841579  0.96218385  1
+  Sb  Sb11  4  0.40645662  0.71857824  0.27386639  1

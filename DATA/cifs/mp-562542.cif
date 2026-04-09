@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Cs4NaHf3H2F19
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   11.62983700
+_cell_length_b   6.98446600
+_cell_length_c   13.47003511
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.67365376
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   Cs4NaHf3H2F19
+_chemical_formula_sum   'Cs8 Na2 Hf6 H4 F38'
+_cell_volume   1023.69075120
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  2  0.02985200  0.75000000  0.41634000  1
+  Cs  Cs1  2  0.13722200  0.25000000  0.92409200  1
+  Cs  Cs2  2  0.35618200  0.25000000  0.57324800  1
+  Cs  Cs3  2  0.47598500  0.75000000  0.07193700  1
+  Na  Na4  2  0.26366000  0.75000000  0.25045900  1
+  Hf  Hf5  2  0.08402700  0.25000000  0.24552500  1
+  Hf  Hf6  2  0.23009000  0.75000000  0.74902800  1
+  Hf  Hf7  2  0.40564200  0.25000000  0.25245200  1
+  H  H8  2  0.13107000  0.75000000  0.99805000  1
+  H  H9  2  0.37605500  0.75000000  0.50401200  1
+  F  F10  4  0.08261400  0.58234600  0.76327000  1
+  F  F11  4  0.12378200  0.52868300  0.24097900  1
+  F  F12  4  0.19874600  0.55519900  0.63079200  1
+  F  F13  4  0.31739300  0.55394300  0.86171500  1
+  F  F14  4  0.41530900  0.53638800  0.25877800  1
+  F  F15  2  0.01951000  0.75000000  0.91675900  1
+  F  F16  2  0.09278100  0.25000000  0.39677400  1
+  F  F17  2  0.21086500  0.75000000  0.06002900  1
+  F  F18  2  0.21649000  0.25000000  0.15683700  1
+  F  F19  2  0.28321000  0.25000000  0.34049800  1
+  F  F20  2  0.29924500  0.75000000  0.43876600  1
+  F  F21  2  0.39997000  0.25000000  0.10157700  1
+  F  F22  2  0.40693900  0.75000000  0.73363300  1
+  F  F23  2  0.48836500  0.75000000  0.58414900  1

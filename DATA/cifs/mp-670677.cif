@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ce5(In2Pt)2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   8.16774424
+_cell_length_b   18.69451533
+_cell_length_c   3.84125935
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   Ce5(In2Pt)2
+_chemical_formula_sum   'Ce10 In8 Pt4'
+_cell_volume   586.52964914
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  4  0.13526284  0.08299713  0.50000000  1
+  Ce  Ce1  4  0.24330318  0.77641889  0.50000000  1
+  Ce  Ce2  2  0.00000000  0.50000000  0.50000000  1
+  In  In3  4  0.05167621  0.64901462  0.00000000  1
+  In  In4  4  0.20106630  0.92946439  0.00000000  1
+  Pt  Pt5  4  0.03151233  0.19553707  0.00000000  1

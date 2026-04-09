@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na2Cu2Si4H4O13
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.26828300
+_cell_length_b   6.45736358
+_cell_length_c   8.79276668
+_cell_angle_alpha   101.87097320
+_cell_angle_beta   93.61688194
+_cell_angle_gamma   103.10175917
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Na2Cu2Si4H4O13
+_chemical_formula_sum   'Na2 Cu2 Si4 H4 O13'
+_cell_volume   283.21072848
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  2  0.35754400  0.36093600  0.19902500  1
+  Si  Si1  2  0.10729400  0.33112000  0.83132500  1
+  Cu  Cu2  2  0.20244400  0.87827600  0.92306600  1
+  Si  Si3  2  0.47321200  0.88616200  0.31421600  1
+  H  H4  2  0.07571400  0.69479700  0.58995200  1
+  H  H5  2  0.15959900  0.25543400  0.49917800  1
+  O  O6  2  0.09718500  0.16288500  0.95183600  1
+  O  O7  2  0.09834600  0.28094200  0.39803800  1
+  O  O8  2  0.18287600  0.71056100  0.26980900  1
+  O  O9  2  0.23366900  0.58342500  0.91318100  1
+  O  O10  2  0.30835600  0.26460000  0.69833200  1
+  O  O11  2  0.48050000  0.94168000  0.79555400  1
+  O  O12  1  0.50000000  0.00000000  0.50000000  1

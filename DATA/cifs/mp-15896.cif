@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cu2SiSe3
+_symmetry_space_group_name_H-M   Cc
+_cell_length_a   6.67097671
+_cell_length_b   11.72368013
+_cell_length_c   6.68559912
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.46704988
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   9
+_chemical_formula_structural   Cu2SiSe3
+_chemical_formula_sum   'Cu8 Si4 Se12'
+_cell_volume   495.94531104
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  4  0.47061553  0.41513706  0.97567802  1
+  Cu  Cu1  4  0.48799251  0.25480386  0.49737658  1
+  Cu  Cu2  4  0.49708419  0.08699623  0.99984225  1
+  Se  Se3  4  0.10906883  0.24193457  0.37312503  1
+  Se  Se4  4  0.10918797  0.07854196  0.85505219  1
+  Se  Se5  4  0.11394648  0.41525773  0.87742592  1

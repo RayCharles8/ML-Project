@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na5Ho4Si4O16F
+_symmetry_space_group_name_H-M   I-4
+_cell_length_a   11.48627574
+_cell_length_b   11.48627574
+_cell_length_c   5.38058308
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   82
+_chemical_formula_structural   Na5Ho4Si4O16F
+_chemical_formula_sum   'Na10 Ho8 Si8 O32 F2'
+_cell_volume   709.88470181
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  'y+1/2, -x+1/2, -z+1/2'
+  7  '-x+1/2, -y+1/2, z+1/2'
+  8  '-y+1/2, x+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.08878508  0.39440500  0.50976069  1
+  Na  Na1  2  0.00000000  0.00000000  0.00000000  1
+  Ho  Ho2  8  0.11517884  0.81807759  0.52350020  1
+  Si  Si3  8  0.10383486  0.24694630  0.01114422  1
+  O  O4  8  0.03326896  0.20594070  0.25872239  1
+  O  O5  8  0.04835493  0.18541324  0.76662901  1
+  O  O6  8  0.10964398  0.38807355  0.98356598  1
+  O  O7  8  0.20356980  0.76286022  0.93273066  1
+  F  F8  2  0.00000000  0.00000000  0.50000000  1

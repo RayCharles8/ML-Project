@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_InP2H9(NO4)2
+_symmetry_space_group_name_H-M   Fdd2
+_cell_length_a   9.32585800
+_cell_length_b   17.82227400
+_cell_length_c   9.75541200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   43
+_chemical_formula_structural   InP2H9(NO4)2
+_chemical_formula_sum   'In8 P16 H72 N16 O64'
+_cell_volume   1621.42748415
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/4, y+3/4, z+3/4'
+  4  'x+1/4, -y+3/4, z+3/4'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z'
+  7  '-x+3/4, y+1/4, z+3/4'
+  8  'x+3/4, -y+1/4, z+3/4'
+  9  'x+1/2, y, z+1/2'
+  10  '-x+1/2, -y, z+1/2'
+  11  '-x+3/4, y+3/4, z+1/4'
+  12  'x+3/4, -y+3/4, z+1/4'
+  13  'x, y+1/2, z+1/2'
+  14  '-x, -y+1/2, z+1/2'
+  15  '-x+1/4, y+1/4, z+1/4'
+  16  'x+1/4, -y+1/4, z+1/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  8  0.00000000  0.00000000  0.85188300  1
+  P  P1  16  0.03742550  0.29797600  0.37626350  1
+  H  H2  16  0.03870900  0.39846050  0.03605150  1
+  H  H3  16  0.08056350  0.08976850  0.40077600  1
+  H  H4  16  0.10011100  0.15866450  0.51720850  1
+  H  H5  16  0.12212900  0.31764450  0.81483350  1
+  H  H6  8  0.00000000  0.00000000  0.22478200  1
+  N  N7  16  0.06727350  0.10429100  0.50404550  1
+  O  O8  16  0.01549250  0.12313500  0.83794250  1
+  O  O9  16  0.08191650  0.25138750  0.25008400  1
+  O  O10  16  0.08416150  0.05175750  0.23110000  1
+  O  O11  16  0.08820800  0.24791850  0.94048750  1

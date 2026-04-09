@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K2EuSi4O10F
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   11.88809500
+_cell_length_b   8.69532700
+_cell_length_c   12.01798155
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.23521050
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   K2EuSi4O10F
+_chemical_formula_sum   'K8 Eu4 Si16 O40 F4'
+_cell_volume   1141.54936432
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.03258800  0.25000000  0.96571000  1
+  K  K1  2  0.05776800  0.75000000  0.44490600  1
+  K  K2  2  0.41165500  0.25000000  0.91962700  1
+  K  K3  2  0.49140800  0.25000000  0.52848600  1
+  Eu  Eu4  4  0.21058200  0.00537400  0.28855900  1
+  Si  Si5  4  0.11170200  0.56502800  0.76492700  1
+  Si  Si6  4  0.25219100  0.07203800  0.62074200  1
+  Si  Si7  4  0.28025400  0.57240700  0.03170800  1
+  Si  Si8  4  0.48951600  0.07093900  0.24249500  1
+  O  O9  4  0.00693400  0.53555500  0.25010500  1
+  O  O10  4  0.15281100  0.53763400  0.64947000  1
+  O  O11  4  0.18064900  0.55316800  0.08965900  1
+  O  O12  4  0.22981100  0.51396500  0.88916400  1
+  O  O13  4  0.24874800  0.04571400  0.48839000  1
+  O  O14  4  0.38986300  0.04139000  0.72725200  1
+  O  O15  4  0.40475000  0.03492000  0.09739900  1
+  O  O16  4  0.41793600  0.03638100  0.32887000  1
+  O  O17  2  0.08836400  0.75000000  0.77152700  1
+  O  O18  2  0.21670000  0.25000000  0.64596700  1
+  O  O19  2  0.33264100  0.75000000  0.03655500  1
+  O  O20  2  0.46267100  0.75000000  0.75096400  1
+  F  F21  2  0.17260000  0.25000000  0.21664300  1
+  F  F22  2  0.24806900  0.75000000  0.34325200  1

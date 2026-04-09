@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SF6
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   13.67715873
+_cell_length_b   8.09249611
+_cell_length_c   4.71167266
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.41343171
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   SF6
+_chemical_formula_sum   'S6 F36'
+_cell_volume   519.17306987
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  4  0.16847130  0.50000000  0.58614952  1
+  S  S1  2  0.00000000  0.00000000  0.00000000  1
+  F  F2  8  0.06536085  0.13787155  0.87519864  1
+  F  F3  8  0.10871296  0.36210943  0.40781227  1
+  F  F4  8  0.22819730  0.36209278  0.76464932  1
+  F  F5  4  0.06999406  0.00000000  0.28589667  1
+  F  F6  4  0.08920753  0.50000000  0.80882947  1
+  F  F7  4  0.24771764  0.50000000  0.36355593  1

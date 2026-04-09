@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_La(Ga4Fe)2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   12.59480900
+_cell_length_b   14.27245700
+_cell_length_c   4.02318500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   La(Ga4Fe)2
+_chemical_formula_sum   'La4 Ga32 Fe8'
+_cell_volume   723.20318890
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  4  0.15804500  0.81874300  0.00000000  1
+  Ga  Ga1  4  0.02465100  0.13383000  0.50000000  1
+  Ga  Ga2  4  0.04905900  0.68184400  0.50000000  1
+  Ga  Ga3  4  0.09822800  0.25442600  0.00000000  1
+  Ga  Ga4  4  0.16310000  0.54593900  0.00000000  1
+  Ga  Ga5  4  0.16386700  0.37902300  0.50000000  1
+  Ga  Ga6  4  0.16838400  0.98999500  0.50000000  1
+  Ga  Ga7  4  0.23928500  0.17418900  0.50000000  1
+  Ga  Ga8  2  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga9  2  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe10  4  0.03431300  0.40876200  0.00000000  1
+  Fe  Fe11  4  0.15288600  0.09661500  0.00000000  1

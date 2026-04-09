@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_AgSbC2N2(ClF3)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.80500500
+_cell_length_b   9.34896000
+_cell_length_c   9.40586075
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.60600822
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   AgSbC2N2(ClF3)2
+_chemical_formula_sum   'Ag2 Sb2 C4 N4 Cl4 F12'
+_cell_volume   596.72771867
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  2  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb1  2  0.00000000  0.00000000  0.50000000  1
+  C  C2  4  0.39024700  0.66649400  0.55244700  1
+  N  N3  4  0.26607900  0.59603200  0.55066600  1
+  Cl  Cl4  4  0.43902800  0.23779300  0.44653800  1
+  F  F5  4  0.08324500  0.54590200  0.84395000  1
+  F  F6  4  0.09064200  0.19352500  0.51052800  1
+  F  F7  4  0.25455500  0.55153700  0.17751000  1

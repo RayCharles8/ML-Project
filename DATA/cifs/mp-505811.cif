@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_FeCuPO5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   7.68350200
+_cell_length_b   6.48247000
+_cell_length_c   7.21389300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   FeCuPO5
+_chemical_formula_sum   'Fe4 Cu4 P4 O20'
+_cell_volume   359.31009624
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  4  0.16772100  0.25000000  0.71562400  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.00000000  1
+  P  P2  4  0.10988800  0.75000000  0.62983100  1
+  O  O3  8  0.12551900  0.55675500  0.75854400  1
+  O  O4  4  0.06547000  0.25000000  0.47119200  1
+  O  O5  4  0.08258500  0.75000000  0.13148300  1
+  O  O6  4  0.23403500  0.25000000  0.99614800  1

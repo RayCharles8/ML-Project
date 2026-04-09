@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Na5La(MoO4)4
+_symmetry_space_group_name_H-M   I4_1/a
+_cell_length_a   11.76771600
+_cell_length_b   11.76771600
+_cell_length_c   11.71425000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   88
+_chemical_formula_structural   Na5La(MoO4)4
+_chemical_formula_sum   'Na20 La4 Mo16 O64'
+_cell_volume   1622.17926407
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  '-x, -y+1/2, -z+1/4'
+  6  'y, -x, -z'
+  7  'x+1/2, y, -z+3/4'
+  8  '-y+1/2, x+1/2, -z+1/2'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-y+1/2, x, z+3/4'
+  11  '-x, -y, z'
+  12  'y, -x+1/2, z+1/4'
+  13  '-x+1/2, -y, -z+3/4'
+  14  'y+1/2, -x+1/2, -z+1/2'
+  15  'x, y+1/2, -z+1/4'
+  16  '-y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  16  0.12348250  0.29560850  0.46470550  1
+  Na  Na1  4  0.00000000  0.00000000  0.50000000  1
+  La  La2  4  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo3  16  0.09698750  0.32110250  0.98094150  1
+  O  O4  16  0.02638400  0.14872700  0.35421500  1
+  O  O5  16  0.06033150  0.11331550  0.82827450  1
+  O  O6  16  0.08728350  0.18615550  0.05775650  1
+  O  O7  16  0.17694950  0.21746150  0.63955450  1

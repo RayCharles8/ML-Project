@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TiSn6F16
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   18.12353103
+_cell_length_b   7.63396612
+_cell_length_c   10.90144025
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.78515744
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   TiSn6F16
+_chemical_formula_sum   'Ti4 Sn24 F64'
+_cell_volume   1508.12084869
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  4  0.00000000  0.33145941  0.75000000  1
+  Sn  Sn1  8  0.07031890  0.17428823  0.39352691  1
+  Sn  Sn2  8  0.14593620  0.39173243  0.03080064  1
+  Sn  Sn3  8  0.20564275  0.09005272  0.67914097  1
+  F  F4  8  0.03798114  0.33636428  0.58982029  1
+  F  F5  8  0.06822067  0.15770746  0.79676474  1
+  F  F6  8  0.06889821  0.49445588  0.29256769  1
+  F  F7  8  0.12912820  0.00956618  0.51383854  1
+  F  F8  8  0.15052986  0.13946008  0.25128636  1
+  F  F9  8  0.15912103  0.34380007  0.45547855  1
+  F  F10  8  0.22075752  0.49223995  0.15867459  1
+  F  F11  8  0.23717035  0.36957247  0.90713262  1

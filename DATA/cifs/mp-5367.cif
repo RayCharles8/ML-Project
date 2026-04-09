@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K5SnSb3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.96080400
+_cell_length_b   8.88428400
+_cell_length_c   19.01123887
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   121.30829994
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   K5SnSb3
+_chemical_formula_sum   'K20 Sn4 Sb12'
+_cell_volume   1437.40824188
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.11141300  0.00617000  0.91349900  1
+  K  K1  4  0.15738200  0.17198700  0.57945500  1
+  K  K2  4  0.16396100  0.65940200  0.24059800  1
+  K  K3  4  0.26109000  0.51963700  0.92247700  1
+  K  K4  4  0.44708200  0.00738900  0.25530200  1
+  Sn  Sn5  4  0.48651900  0.14321800  0.91326400  1
+  Sb  Sb6  4  0.19219500  0.23384200  0.77258100  1
+  Sb  Sb7  4  0.23801100  0.73705600  0.08040000  1
+  Sb  Sb8  4  0.48340000  0.18799400  0.06615400  1

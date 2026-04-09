@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_TaTe4Os
+_symmetry_space_group_name_H-M   Pmn2_1
+_cell_length_a   3.77312200
+_cell_length_b   12.56837600
+_cell_length_c   13.75701200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   31
+_chemical_formula_structural   TaTe4Os
+_chemical_formula_sum   'Ta4 Te16 Os4'
+_cell_volume   652.38524304
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  2  0.00000000  0.05956100  0.00591700  1
+  Ta  Ta1  2  0.00000000  0.27606900  0.48950900  1
+  Te  Te2  2  0.00000000  0.06556400  0.39632500  1
+  Te  Te3  2  0.00000000  0.19673100  0.85404700  1
+  Te  Te4  2  0.00000000  0.34741300  0.09071200  1
+  Te  Te5  2  0.00000000  0.41664500  0.63774000  1
+  Te  Te6  2  0.00000000  0.56489900  0.40037800  1
+  Te  Te7  2  0.00000000  0.67638600  0.84805800  1
+  Te  Te8  2  0.00000000  0.84900100  0.10195100  1
+  Te  Te9  2  0.00000000  0.89245600  0.64714700  1
+  Os  Os10  2  0.00000000  0.54586300  0.00313700  1
+  Os  Os11  2  0.00000000  0.76391600  0.48908000  1

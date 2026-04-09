@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Er(FeSn)6
+_symmetry_space_group_name_H-M   Cmcm
+_cell_length_a   8.95491400
+_cell_length_b   37.34948400
+_cell_length_c   5.41601900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   63
+_chemical_formula_structural   Er(FeSn)6
+_chemical_formula_sum   'Er8 Fe48 Sn48'
+_cell_volume   1811.44939013
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'x+1/2, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  4  0.00000000  0.06319500  0.75000000  1
+  Er  Er1  4  0.00000000  0.18998800  0.25000000  1
+  Fe  Fe2  16  0.24577200  0.12461400  0.50120800  1
+  Fe  Fe3  8  0.24531950  0.06264850  0.25000000  1
+  Fe  Fe4  8  0.24585000  0.00000000  0.00000000  1
+  Fe  Fe5  8  0.24782050  0.18758650  0.75000000  1
+  Fe  Fe6  8  0.25000000  0.25000000  0.00000000  1
+  Sn  Sn7  8  0.16317350  0.31325450  0.75000000  1
+  Sn  Sn8  8  0.16326400  0.43799900  0.25000000  1
+  Sn  Sn9  4  0.00000000  0.02101200  0.25000000  1
+  Sn  Sn10  4  0.00000000  0.10532400  0.25000000  1
+  Sn  Sn11  4  0.00000000  0.14714500  0.75000000  1
+  Sn  Sn12  4  0.00000000  0.23101800  0.75000000  1
+  Sn  Sn13  4  0.00000000  0.27309100  0.25000000  1
+  Sn  Sn14  4  0.00000000  0.35538800  0.25000000  1
+  Sn  Sn15  4  0.00000000  0.39613100  0.75000000  1
+  Sn  Sn16  4  0.00000000  0.47931100  0.75000000  1

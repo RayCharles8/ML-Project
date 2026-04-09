@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_BaTeF6
+_symmetry_space_group_name_H-M   Fdd2
+_cell_length_a   15.12816801
+_cell_length_b   15.25074182
+_cell_length_c   8.89686086
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   43
+_chemical_formula_structural   BaTeF6
+_chemical_formula_sum   'Ba16 Te16 F96'
+_cell_volume   2052.64623410
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/4, y+3/4, z+3/4'
+  4  'x+1/4, -y+3/4, z+3/4'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/4, y+1/4, z+1/4'
+  8  'x+1/4, -y+1/4, z+1/4'
+  9  'x+1/2, y, z+1/2'
+  10  '-x+1/2, -y, z+1/2'
+  11  '-x+3/4, y+3/4, z+1/4'
+  12  'x+3/4, -y+3/4, z+1/4'
+  13  'x+1/2, y+1/2, z'
+  14  '-x+1/2, -y+1/2, z'
+  15  '-x+3/4, y+1/4, z+3/4'
+  16  'x+3/4, -y+1/4, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  16  0.07661231  0.38259698  0.32986076  1
+  Te  Te1  16  0.10596167  0.35658173  0.77095824  1
+  F  F2  16  0.00494635  0.34184788  0.62584748  1
+  F  F3  16  0.01820411  0.10804908  0.57641321  1
+  F  F4  16  0.08418597  0.05214325  0.86508804  1
+  F  F5  16  0.08430202  0.23380855  0.83539920  1
+  F  F6  16  0.09097263  0.04290778  0.36054421  1
+  F  F7  16  0.11150799  0.20087750  0.37475737  1

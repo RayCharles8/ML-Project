@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_HS2N(ClO2)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.89777500
+_cell_length_b   10.20934300
+_cell_length_c   9.54811867
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.67587363
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   HS2N(ClO2)2
+_chemical_formula_sum   'H4 S8 N4 Cl8 O16'
+_cell_volume   724.92408996
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  4  0.13058500  0.23261800  0.84253900  1
+  S  S1  4  0.07912300  0.69829900  0.89274200  1
+  S  S2  4  0.30961400  0.22969300  0.19898600  1
+  N  N3  4  0.11934000  0.24033700  0.73195900  1
+  Cl  Cl4  4  0.21145300  0.62764600  0.43359300  1
+  Cl  Cl5  4  0.40227300  0.08999600  0.67507500  1
+  O  O6  4  0.05038000  0.65927900  0.02714800  1
+  O  O7  4  0.16608500  0.61641000  0.81663200  1
+  O  O8  4  0.26790300  0.16383700  0.05852300  1
+  O  O9  4  0.42991100  0.17453500  0.33329500  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnH3CNO3
+_symmetry_space_group_name_H-M   Pna2_1
+_cell_length_a   9.35432940
+_cell_length_b   7.49404576
+_cell_length_c   5.32383188
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   33
+_chemical_formula_structural   ZnH3CNO3
+_chemical_formula_sum   'Zn4 H12 C4 N4 O12'
+_cell_volume   373.21005169
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y+1/2, z+1/2'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  4  0.14749785  0.17497501  0.25765156  1
+  H  H1  4  0.03786946  0.64113393  0.95771068  1
+  H  H2  4  0.05963305  0.26688804  0.68396958  1
+  H  H3  4  0.11182247  0.45448888  0.55127417  1
+  C  C4  4  0.11908072  0.85185908  0.51699838  1
+  N  N5  4  0.06394875  0.33447133  0.51714308  1
+  O  O6  4  0.01537970  0.11382423  0.98688773  1
+  O  O7  4  0.15720192  0.71199198  0.64097610  1
+  O  O8  4  0.21385708  0.95330295  0.42098772  1

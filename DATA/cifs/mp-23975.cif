@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NiH12C2(SN3)2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   11.55767200
+_cell_length_b   8.26797600
+_cell_length_c   5.72157684
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.64932488
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   NiH12C2(SN3)2
+_chemical_formula_sum   'Ni2 H24 C4 S4 N12'
+_cell_volume   526.47813713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  2  0.00000000  0.00000000  0.00000000  1
+  H  H1  8  0.02052850  0.25841750  0.72447700  1
+  H  H2  8  0.13034150  0.26121550  0.97668800  1
+  H  H3  8  0.14098200  0.14437600  0.74946800  1
+  C  C4  4  0.23610000  0.00000000  0.45297300  1
+  S  S5  4  0.14378000  0.50000000  0.31718700  1
+  N  N6  8  0.08250100  0.18695100  0.84128200  1
+  N  N7  4  0.14681800  0.00000000  0.29147800  1

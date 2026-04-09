@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KLaH2S2O9
+_symmetry_space_group_name_H-M   P3_221
+_cell_length_a   7.32855988
+_cell_length_b   7.32855988
+_cell_length_c   13.33299200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   154
+_chemical_formula_structural   KLaH2S2O9
+_chemical_formula_sum   'K3 La3 H6 S6 O27'
+_cell_volume   620.14826389
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z+2/3'
+  3  '-x+y, -x, z+1/3'
+  4  'y, x, -z'
+  5  'x-y, -y, -z+1/3'
+  6  '-x, -x+y, -z+2/3'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  3  0.00000000  0.44794400  0.83333333  1
+  La  La1  3  0.00000000  0.44098900  0.33333333  1
+  H  H2  6  0.02410400  0.94030000  0.95541333  1
+  S  S3  6  0.00501700  0.44321000  0.09311667  1
+  O  O4  6  0.11408200  0.62199700  0.16579667  1
+  O  O5  6  0.11865700  0.37041700  0.50912400  1
+  O  O6  6  0.13382100  0.61257000  0.64149700  1
+  O  O7  6  0.16007700  0.41708600  0.03163667  1
+  O  O8  3  0.00000000  0.09474900  0.33333333  1

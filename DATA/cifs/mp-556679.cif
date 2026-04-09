@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Na2Ca3Si3O10
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   16.46133200
+_cell_length_b   5.19805200
+_cell_length_c   11.45370162
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   93.35612037
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Na2Ca3Si3O10
+_chemical_formula_sum   'Na8 Ca12 Si12 O40'
+_cell_volume   978.37643698
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.04400400  0.23119800  0.96562600  1
+  Ca  Ca1  8  0.15229650  0.23531650  0.70687100  1
+  Ca  Ca2  4  0.25000000  0.25000000  0.00000000  1
+  Si  Si3  8  0.15138400  0.31178000  0.39635000  1
+  Si  Si4  4  0.00000000  0.20258600  0.25000000  1
+  O  O5  8  0.04306250  0.03574350  0.15104700  1
+  O  O6  8  0.06788900  0.41322400  0.31341900  1
+  O  O7  8  0.14104450  0.43796650  0.52583500  1
+  O  O8  8  0.15632900  0.00013900  0.39051900  1
+  O  O9  8  0.22700250  0.46490550  0.33815500  1

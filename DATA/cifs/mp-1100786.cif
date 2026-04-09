@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ni11As8
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   9.63576590
+_cell_length_b   9.63975480
+_cell_length_c   11.16847178
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   102.38324530
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Ni11As8
+_chemical_formula_sum   'Ni44 As32'
+_cell_volume   1013.26430292
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  8  0.05600299  0.40390171  0.59405738  1
+  Ni  Ni1  8  0.11291236  0.03371944  0.09439484  1
+  Ni  Ni2  8  0.13123486  0.21751660  0.90600929  1
+  Ni  Ni3  8  0.19310779  0.33924880  0.40632239  1
+  Ni  Ni4  8  0.24005728  0.43699780  0.21341928  1
+  Ni  Ni5  4  0.00000000  0.18856924  0.25000000  1
+  As  As6  8  0.06039747  0.18758402  0.49289375  1
+  As  As7  8  0.18663819  0.43711565  0.99969765  1
+  As  As8  8  0.24596825  0.31194925  0.75029841  1
+  As  As9  4  0.00000000  0.06651062  0.75000000  1
+  As  As10  4  0.00000000  0.44221814  0.25000000  1

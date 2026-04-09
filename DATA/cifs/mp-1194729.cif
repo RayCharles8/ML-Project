@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbAlCu(PO4)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.12947500
+_cell_length_b   14.21725300
+_cell_length_c   9.46424466
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.20833915
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   RbAlCu(PO4)2
+_chemical_formula_sum   'Rb4 Al4 Cu4 P8 O32'
+_cell_volume   679.27340732
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.21346400  0.67400100  0.28695200  1
+  Al  Al1  4  0.24565800  0.12968600  0.88891600  1
+  Cu  Cu2  4  0.23953500  0.54220500  0.95044100  1
+  P  P3  4  0.27311700  0.17186700  0.54949100  1
+  P  P4  4  0.27912000  0.51248600  0.66447800  1
+  O  O5  4  0.01095100  0.55097100  0.69619500  1
+  O  O6  4  0.09513400  0.08595800  0.48451400  1
+  O  O7  4  0.15834700  0.24159200  0.95897100  1
+  O  O8  4  0.23020600  0.07794600  0.07518100  1
+  O  O9  4  0.25093100  0.18850300  0.70772900  1
+  O  O10  4  0.41299000  0.59050800  0.58765500  1
+  O  O11  4  0.43520300  0.66015800  0.97011900  1
+  O  O12  4  0.45130000  0.01039200  0.31275700  1

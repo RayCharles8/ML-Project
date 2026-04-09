@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsTc3(Se2Br)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.66431000
+_cell_length_b   19.35680000
+_cell_length_c   10.30769899
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.36841747
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   CsTc3(Se2Br)2
+_chemical_formula_sum   'Cs4 Tc12 Se16 Br8'
+_cell_volume   1201.47032911
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.04907500  0.19006700  0.05186200  1
+  Tc  Tc1  4  0.14023900  0.57851300  0.10728900  1
+  Tc  Tc2  4  0.17330200  0.05815700  0.65284600  1
+  Tc  Tc3  4  0.21314100  0.00474000  0.42974400  1
+  Se  Se4  4  0.09799400  0.52346800  0.31728100  1
+  Se  Se5  4  0.17336700  0.62344700  0.88808600  1
+  Se  Se6  4  0.23621100  0.13278900  0.47383400  1
+  Se  Se7  4  0.49097300  0.01538300  0.30674400  1
+  Br  Br8  4  0.31493500  0.69283800  0.24653100  1
+  Br  Br9  4  0.40082800  0.14163400  0.86233800  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ErNi5Ge3
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   19.05643100
+_cell_length_b   3.84435300
+_cell_length_c   6.85330200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   ErNi5Ge3
+_chemical_formula_sum   'Er4 Ni20 Ge12'
+_cell_volume   502.07048999
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  4  0.14545100  0.25000000  0.87849800  1
+  Ni  Ni1  4  0.00385600  0.75000000  0.87035200  1
+  Ni  Ni2  4  0.01210600  0.25000000  0.62076400  1
+  Ni  Ni3  4  0.11172400  0.25000000  0.36099000  1
+  Ni  Ni4  4  0.20108000  0.75000000  0.18755300  1
+  Ni  Ni5  4  0.20665200  0.75000000  0.57520700  1
+  Ge  Ge6  4  0.07728400  0.75000000  0.14755100  1
+  Ge  Ge7  4  0.08521600  0.75000000  0.59741400  1
+  Ge  Ge8  4  0.23677700  0.25000000  0.38278300  1

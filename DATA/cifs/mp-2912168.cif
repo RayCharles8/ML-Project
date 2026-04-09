@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cu2GeP2(H5O7)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.08013100
+_cell_length_b   8.41415139
+_cell_length_c   13.23879997
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.05334739
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Cu2GeP2(H5O7)2
+_chemical_formula_sum   'Cu4 Ge2 P4 H20 O28'
+_cell_volume   528.11700705
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.47070155  0.55137775  0.23343426  1
+  Ge  Ge1  2  0.50000000  0.00000000  0.00000000  1
+  P  P2  4  0.10004884  0.67491973  0.59824193  1
+  H  H3  4  0.04364145  0.19962478  0.67715561  1
+  H  H4  4  0.14367720  0.54009082  0.33055093  1
+  H  H5  4  0.20014444  0.08170354  0.37091049  1
+  H  H6  4  0.23834037  0.23703231  0.61303529  1
+  H  H7  4  0.49239021  0.62977162  0.05793532  1
+  O  O8  4  0.11666843  0.65786077  0.14505062  1
+  O  O9  4  0.16679744  0.54549548  0.68422909  1
+  O  O10  4  0.20353957  0.14956809  0.98380371  1
+  O  O11  4  0.23838623  0.19501870  0.68192013  1
+  O  O12  4  0.30205642  0.66989753  0.53463443  1
+  O  O13  4  0.34728068  0.56541797  0.35671968  1
+  O  O14  4  0.40058925  0.05038947  0.38942753  1

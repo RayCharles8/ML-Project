@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_K2RuI5NO
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   15.33482600
+_cell_length_b   11.78730900
+_cell_length_c   7.95313400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   K2RuI5NO
+_chemical_formula_sum   'K8 Ru4 I20 N4 O4'
+_cell_volume   1437.57933391
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  8  0.14298300  0.00058800  0.65654300  1
+  Ru  Ru1  4  0.10919300  0.25000000  0.18425300  1
+  I  I2  8  0.11252400  0.01629900  0.19210300  1
+  I  I3  4  0.00353500  0.25000000  0.46583500  1
+  I  I4  4  0.22162000  0.25000000  0.91314100  1
+  I  I5  4  0.24658300  0.75000000  0.89129100  1
+  N  N6  4  0.02268100  0.25000000  0.04247100  1
+  O  O7  4  0.03165600  0.75000000  0.06089200  1

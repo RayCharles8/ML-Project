@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cs2Mo3SeO12
+_symmetry_space_group_name_H-M   P6_3
+_cell_length_a   7.32227176
+_cell_length_b   7.32227176
+_cell_length_c   12.49214090
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   173
+_chemical_formula_structural   Cs2Mo3SeO12
+_chemical_formula_sum   'Cs4 Mo6 Se2 O24'
+_cell_volume   580.04166685
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x-y, x, z+1/2'
+  3  '-y, x-y, z'
+  4  '-x, -y, z+1/2'
+  5  '-x+y, -x, z'
+  6  'y, -x+y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  2  0.33333333  0.66666667  0.09991319  1
+  Cs  Cs1  2  0.33333333  0.66666667  0.73252967  1
+  Mo  Mo2  6  0.13581638  0.79687832  0.39821819  1
+  Se  Se3  2  0.00000000  0.00000000  0.17445917  1
+  O  O4  6  0.08884648  0.54178887  0.35504112  1
+  O  O5  6  0.11712218  0.24582325  0.23226887  1
+  O  O6  6  0.12330290  0.87158908  0.90867976  1
+  O  O7  6  0.19953734  0.80027239  0.52992405  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tl4CuTeO6
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.04776300
+_cell_length_b   8.93121919
+_cell_length_c   9.43939567
+_cell_angle_alpha   67.36970870
+_cell_angle_beta   73.23763009
+_cell_angle_gamma   80.61260799
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Tl4CuTeO6
+_chemical_formula_sum   'Tl8 Cu2 Te2 O12'
+_cell_volume   449.82188408
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  2  0.07956400  0.88227700  0.19864000  1
+  Tl  Tl1  2  0.13719400  0.73825900  0.66847300  1
+  Tl  Tl2  2  0.26765500  0.39278200  0.47612100  1
+  Tl  Tl3  2  0.48564800  0.07117300  0.22879400  1
+  Cu  Cu4  2  0.22741500  0.55115600  0.05808500  1
+  Te  Te5  2  0.34059200  0.33477700  0.86658600  1
+  O  O6  2  0.06539700  0.42791900  0.77721100  1
+  O  O7  2  0.16351400  0.33394400  0.07938700  1
+  O  O8  2  0.26518300  0.11489500  0.92092700  1
+  O  O9  2  0.37262700  0.73920200  0.04889700  1
+  O  O10  2  0.40644400  0.55720900  0.83920900  1
+  O  O11  2  0.47129200  0.64596200  0.34348700  1

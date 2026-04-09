@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HgAsF7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.09588860
+_cell_length_b   9.84506945
+_cell_length_c   7.87066561
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.74748065
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   HgAsF7
+_chemical_formula_sum   'Hg4 As4 F28'
+_cell_volume   534.08933492
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  4  0.27136846  0.24449076  0.08474349  1
+  As  As1  4  0.19825585  0.56386098  0.80139470  1
+  F  F2  4  0.02989082  0.62988484  0.90820202  1
+  F  F3  4  0.06103444  0.08516411  0.24896435  1
+  F  F4  4  0.07598645  0.63841704  0.60731283  1
+  F  F5  4  0.31490603  0.01348073  0.49928648  1
+  F  F6  4  0.32059093  0.18068880  0.84478040  1
+  F  F7  4  0.34650933  0.70551295  0.85686551  1
+  F  F8  4  0.36830394  0.00713237  0.19708671  1

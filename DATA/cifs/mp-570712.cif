@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SnH16C4(NCl3)2
+_symmetry_space_group_name_H-M   Pnnm
+_cell_length_a   7.50292100
+_cell_length_b   14.69345800
+_cell_length_c   7.38859300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   58
+_chemical_formula_structural   SnH16C4(NCl3)2
+_chemical_formula_sum   'Sn2 H32 C8 N4 Cl12'
+_cell_volume   814.54697232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  2  0.00000000  0.00000000  0.00000000  1
+  H  H1  8  0.06535900  0.67120800  0.12142900  1
+  H  H2  8  0.14785600  0.09566000  0.38855900  1
+  H  H3  8  0.15482900  0.26102300  0.37917500  1
+  H  H4  4  0.03566200  0.78228300  0.50000000  1
+  H  H5  4  0.05841600  0.56572500  0.00000000  1
+  C  C6  4  0.10944400  0.22466400  0.50000000  1
+  C  C7  4  0.10990100  0.63523800  0.00000000  1
+  N  N8  4  0.19151100  0.13226400  0.50000000  1
+  Cl  Cl9  8  0.19195700  0.93662600  0.24188400  1
+  Cl  Cl10  4  0.17844400  0.14185200  0.00000000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2FeP2(HO3)2
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   12.34220500
+_cell_length_b   5.50472000
+_cell_length_c   9.40076800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Na2FeP2(HO3)2
+_chemical_formula_sum   'Na8 Fe4 P8 H8 O24'
+_cell_volume   638.69177567
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.09736700  0.75000000  0.22657500  1
+  Na  Na1  4  0.22198700  0.75000000  0.82644300  1
+  Fe  Fe2  4  0.15818400  0.25000000  0.63629400  1
+  P  P3  4  0.01522300  0.75000000  0.62817400  1
+  P  P4  4  0.18672800  0.25000000  0.00336700  1
+  H  H5  4  0.07227700  0.25000000  0.99583400  1
+  H  H6  4  0.07760400  0.75000000  0.50281800  1
+  O  O7  8  0.04860000  0.52015400  0.71129300  1
+  O  O8  8  0.21613300  0.01648200  0.08574500  1
+  O  O9  4  0.10447800  0.25000000  0.41711600  1
+  O  O10  4  0.22980400  0.25000000  0.84971700  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr4Li2Ta2Al2N8O
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.05211100
+_cell_length_b   10.09011100
+_cell_length_c   10.96353573
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   120.13518739
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Sr4Li2Ta2Al2N8O
+_chemical_formula_sum   'Sr8 Li4 Ta4 Al4 N16 O2'
+_cell_volume   579.01640808
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  4  0.23225100  0.56544900  0.19704000  1
+  Sr  Sr1  4  0.43265800  0.23968300  0.93059300  1
+  Li  Li2  4  0.19002900  0.00654600  0.99663500  1
+  Ta  Ta3  4  0.22675900  0.59753100  0.76062500  1
+  Al  Al4  4  0.11770900  0.24417500  0.10029900  1
+  N  N5  4  0.00963700  0.68872800  0.58505700  1
+  N  N6  4  0.11242200  0.63422700  0.89615600  1
+  N  N7  4  0.19303000  0.08999600  0.21225700  1
+  N  N8  4  0.43003500  0.16628800  0.66668100  1
+  O  O9  2  0.50000000  0.00000000  0.00000000  1

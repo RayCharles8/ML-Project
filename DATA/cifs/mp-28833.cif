@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Er7Ru2C11
+_symmetry_space_group_name_H-M   Cmcm
+_cell_length_a   3.40562400
+_cell_length_b   16.47059000
+_cell_length_c   19.73231800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   63
+_chemical_formula_structural   Er7Ru2C11
+_chemical_formula_sum   'Er28 Ru8 C44'
+_cell_volume   1106.83774281
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'x+1/2, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  8  0.00000000  0.27869700  0.65498100  1
+  Er  Er1  8  0.00000000  0.33823100  0.01877700  1
+  Er  Er2  8  0.00000000  0.47818200  0.62711300  1
+  Er  Er3  4  0.00000000  0.10411600  0.75000000  1
+  Ru  Ru4  4  0.00000000  0.00000000  0.00000000  1
+  Ru  Ru5  4  0.00000000  0.07986300  0.25000000  1
+  C  C6  8  0.00000000  0.07471900  0.57890200  1
+  C  C7  8  0.00000000  0.12682800  0.08475800  1
+  C  C8  8  0.00000000  0.13293600  0.62370200  1
+  C  C9  8  0.00000000  0.20645100  0.06371900  1
+  C  C10  4  0.00000000  0.19698200  0.25000000  1
+  C  C11  4  0.00000000  0.27792700  0.25000000  1
+  C  C12  4  0.00000000  0.49960900  0.75000000  1

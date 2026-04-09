@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ba6Na2Si4O15
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.56894386
+_cell_length_b   7.89757861
+_cell_length_c   11.52774735
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.57763024
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ba6Na2Si4O15
+_chemical_formula_sum   'Ba12 Na4 Si8 O30'
+_cell_volume   830.49294300
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00209845  0.50283085  0.77537920  1
+  Ba  Ba1  4  0.33287823  0.52052644  0.58418666  1
+  Ba  Ba2  4  0.34151973  0.00472729  0.58556378  1
+  Na  Na3  4  0.32154997  0.24995213  0.83106772  1
+  Si  Si4  4  0.03720721  0.20886353  0.00979575  1
+  Si  Si5  4  0.37965852  0.74394610  0.34506248  1
+  O  O6  4  0.11609952  0.69112123  0.02754218  1
+  O  O7  4  0.13547737  0.24378245  0.92003670  1
+  O  O8  4  0.13644450  0.24134530  0.14890656  1
+  O  O9  4  0.28488397  0.56901554  0.32477613  1
+  O  O10  4  0.29007879  0.57681096  0.81857926  1
+  O  O11  4  0.48749556  0.74734761  0.48752389  1
+  O  O12  4  0.48808066  0.73800149  0.25707719  1
+  O  O13  2  0.00000000  0.00000000  0.00000000  1

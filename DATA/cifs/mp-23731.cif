@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_CuSi(HO2)2
+_symmetry_space_group_name_H-M   R-3
+_cell_length_a   14.75268391
+_cell_length_b   14.75268391
+_cell_length_c   7.81799610
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   148
+_chemical_formula_structural   CuSi(HO2)2
+_chemical_formula_sum   'Cu18 Si18 H36 O72'
+_cell_volume   1473.56112754
+_cell_formula_units_Z   18
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  'x+2/3, y+1/3, z+1/3'
+  8  '-x+2/3, -y+1/3, -z+1/3'
+  9  '-y+2/3, x-y+1/3, z+1/3'
+  10  'y+2/3, -x+y+1/3, -z+1/3'
+  11  '-x+y+2/3, -x+1/3, z+1/3'
+  12  'x-y+2/3, x+1/3, -z+1/3'
+  13  'x+1/3, y+2/3, z+2/3'
+  14  '-x+1/3, -y+2/3, -z+2/3'
+  15  '-y+1/3, x-y+2/3, z+2/3'
+  16  'y+1/3, -x+y+2/3, -z+2/3'
+  17  '-x+y+1/3, -x+2/3, z+2/3'
+  18  'x-y+1/3, x+2/3, -z+2/3'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  18  0.00307767  0.59704333  0.93554233  1
+  Si  Si1  18  0.04147367  0.21694133  0.04104933  1
+  H  H2  18  0.02833000  0.87823400  0.45921300  1
+  H  H3  18  0.06013733  0.17157367  0.69157967  1
+  O  O4  18  0.02043433  0.30035667  0.93481467  1
+  O  O5  18  0.04447933  0.17853667  0.57137367  1
+  O  O6  18  0.06650267  0.50771233  0.88247233  1
+  O  O7  18  0.07129533  0.89105267  0.91660467  1

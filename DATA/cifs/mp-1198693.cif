@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaNb2CuClO7
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   7.89044500
+_cell_length_b   7.90240600
+_cell_length_c   11.83527100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   LaNb2CuClO7
+_chemical_formula_sum   'La4 Nb8 Cu4 Cl4 O28'
+_cell_volume   737.97056924
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  4  0.00000300  0.76243600  0.00000000  1
+  Nb  Nb1  8  0.24797600  0.50002400  0.19052300  1
+  Cu  Cu2  4  0.22924400  0.50750700  0.50000000  1
+  Cl  Cl3  4  0.08371700  0.77097100  0.50000000  1
+  O  O4  8  0.21799900  0.50094500  0.34202600  1
+  O  O5  8  0.24980200  0.25008500  0.15235500  1
+  O  O6  4  0.00000000  0.00000000  0.18391900  1
+  O  O7  4  0.00000000  0.50000000  0.13403000  1
+  O  O8  4  0.19950800  0.00013000  0.00000000  1

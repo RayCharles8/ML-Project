@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La2Al(BOs)2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   16.66538303
+_cell_length_b   6.10227306
+_cell_length_c   10.45788058
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.53588614
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   La2Al(BOs)2
+_chemical_formula_sum   'La16 Al8 B16 Os16'
+_cell_volume   975.05704797
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  8  0.05536800  0.39978500  0.66699850  1
+  La  La1  8  0.24622150  0.33253450  0.34971050  1
+  Al  Al2  8  0.07214500  0.09889300  0.10016250  1
+  B  B3  8  0.11241250  0.38146650  0.44077450  1
+  B  B4  8  0.19269300  0.09597600  0.88273350  1
+  Os  Os5  8  0.07783300  0.07409600  0.36800650  1
+  Os  Os6  8  0.17132850  0.33111650  0.01604350  1

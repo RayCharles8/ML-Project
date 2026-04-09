@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na2MoH2O3F4
+_symmetry_space_group_name_H-M   P2_12_12_1
+_cell_length_a   5.50311200
+_cell_length_b   5.83138000
+_cell_length_c   19.46319800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   19
+_chemical_formula_structural   Na2MoH2O3F4
+_chemical_formula_sum   'Na8 Mo4 H8 O12 F16'
+_cell_volume   624.58837315
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.23872400  0.23836800  0.86182300  1
+  Na  Na1  4  0.23976600  0.68229900  0.74972400  1
+  Mo  Mo2  4  0.23486200  0.76049000  0.13591400  1
+  H  H3  4  0.00509300  0.71497300  0.50495200  1
+  H  H4  4  0.19724900  0.02768400  0.99805600  1
+  O  O5  4  0.03426700  0.41519800  0.37053300  1
+  O  O6  4  0.14201300  0.21564800  0.55432300  1
+  O  O7  4  0.16271900  0.18185300  0.98034500  1
+  F  F8  4  0.02475200  0.92680200  0.82250500  1
+  F  F9  4  0.07384100  0.98083800  0.67531100  1
+  F  F10  4  0.09793700  0.45176100  0.12862100  1
+  F  F11  4  0.14008400  0.70576000  0.24259600  1

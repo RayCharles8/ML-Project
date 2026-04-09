@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Yb2Si2O7
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   6.74130590
+_cell_length_b   8.81026662
+_cell_length_c   4.71585730
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   102.13014279
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Yb2Si2O7
+_chemical_formula_sum   'Yb4 Si4 O14'
+_cell_volume   273.83394572
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  4  0.00000000  0.30765140  0.00000000  1
+  Si  Si1  4  0.22041148  0.00000000  0.41102209  1
+  O  O2  8  0.23625479  0.15196291  0.21870772  1
+  O  O3  4  0.11468832  0.50000000  0.28373939  1
+  O  O4  2  0.00000000  0.00000000  0.50000000  1

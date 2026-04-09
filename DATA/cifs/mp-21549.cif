@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LiCr(GeO3)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.68917944
+_cell_length_b   8.86929600
+_cell_length_c   5.43740900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.08046801
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   LiCr(GeO3)2
+_chemical_formula_sum   'Li4 Cr4 Ge8 O24'
+_cell_volume   455.14609000
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.25828000  0.51351800  0.53657500  1
+  Cr  Cr1  4  0.25165100  0.15879800  0.53873000  1
+  Ge  Ge2  4  0.04674100  0.65564600  0.77241500  1
+  Ge  Ge3  4  0.44553900  0.65881500  0.17371200  1
+  O  O4  4  0.11409600  0.02473900  0.32775400  1
+  O  O5  4  0.11691400  0.70850700  0.50767800  1
+  O  O6  4  0.14271700  0.16613800  0.81645900  1
+  O  O7  4  0.36426000  0.16840400  0.25910500  1
+  O  O8  4  0.36848200  0.00449700  0.75620900  1
+  O  O9  4  0.38704500  0.68821600  0.84079300  1

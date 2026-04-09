@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba5Na2Ru3O14
+_symmetry_space_group_name_H-M   Cmc2_1
+_cell_length_a   5.98071000
+_cell_length_b   10.29808400
+_cell_length_c   24.51998000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   36
+_chemical_formula_structural   Ba5Na2Ru3O14
+_chemical_formula_sum   'Ba20 Na8 Ru12 O56'
+_cell_volume   1510.18198729
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00000000  0.00557200  0.84890500  1
+  Ba  Ba1  4  0.00000000  0.00590200  0.17107400  1
+  Ba  Ba2  4  0.00000000  0.32981100  0.56428000  1
+  Ba  Ba3  4  0.00000000  0.33615100  0.25723000  1
+  Ba  Ba4  4  0.00000000  0.33866000  0.95551500  1
+  Na  Na5  4  0.00000000  0.33837600  0.10434600  1
+  Na  Na6  4  0.00000000  0.34439500  0.40558900  1
+  Ru  Ru7  4  0.00000000  0.00662700  0.00841300  1
+  Ru  Ru8  4  0.00000000  0.32701700  0.70093700  1
+  Ru  Ru9  4  0.00000000  0.33211500  0.81389700  1
+  O  O10  8  0.22021700  0.10712000  0.53908700  1
+  O  O11  8  0.22207700  0.05623500  0.95589800  1
+  O  O12  8  0.22618600  0.40298300  0.75606700  1
+  O  O13  8  0.23249550  0.24777450  0.66029400  1
+  O  O14  8  0.23679250  0.26108150  0.85616800  1
+  O  O15  4  0.00000000  0.14574900  0.05457100  1
+  O  O16  4  0.00000000  0.17681300  0.75877700  1
+  O  O17  4  0.00000000  0.48135500  0.65851100  1
+  O  O18  4  0.00000000  0.49311800  0.84941600  1

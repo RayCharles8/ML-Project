@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NiAs2
+_symmetry_space_group_name_H-M   Pbca
+_cell_length_a   5.75712878
+_cell_length_b   5.84423470
+_cell_length_c   11.43237378
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   61
+_chemical_formula_structural   NiAs2
+_chemical_formula_sum   'Ni8 As16'
+_cell_volume   384.65378297
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  8  0.00291707  0.67545494  0.12834121  1
+  As  As1  8  0.12017301  0.05500144  0.18077219  1
+  As  As2  8  0.13373244  0.68888060  0.93095117  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Al2RhC4Cl7O4
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   9.82398100
+_cell_length_b   9.88263761
+_cell_length_c   10.35704163
+_cell_angle_alpha   76.48075929
+_cell_angle_beta   76.07330937
+_cell_angle_gamma   66.15696771
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Al2RhC4Cl7O4
+_chemical_formula_sum   'Al4 Rh2 C8 Cl14 O8'
+_cell_volume   882.06901289
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  2  0.16945400  0.80353400  0.17683600  1
+  Al  Al1  2  0.29956600  0.43315900  0.41882200  1
+  Rh  Rh2  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh3  1  0.50000000  0.00000000  0.50000000  1
+  C  C4  2  0.06124500  0.64554600  0.85791400  1
+  C  C5  2  0.21004700  0.35826100  0.97794300  1
+  C  C6  2  0.30033900  0.99279000  0.51219200  1
+  C  C7  2  0.46577600  0.97774400  0.69791100  1
+  Cl  Cl8  2  0.06262300  0.12141400  0.84058400  1
+  Cl  Cl9  2  0.18001300  0.68489800  0.39593400  1
+  Cl  Cl10  2  0.18834300  0.34817200  0.32129400  1
+  Cl  Cl11  2  0.24481600  0.97845800  0.17476900  1
+  Cl  Cl12  2  0.26276400  0.36577500  0.63163400  1
+  Cl  Cl13  2  0.31478400  0.64673400  0.04708200  1
+  Cl  Cl14  2  0.46773100  0.61926000  0.66336900  1
+  O  O15  2  0.09588500  0.72937700  0.77428200  1
+  O  O16  2  0.18449400  0.98684700  0.52155600  1
+  O  O17  2  0.33292900  0.27732900  0.96485200  1
+  O  O18  2  0.44541600  0.96163700  0.81276300  1

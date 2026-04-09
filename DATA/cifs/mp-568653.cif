@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_FeSe2NCl6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   10.21906000
+_cell_length_b   11.82471000
+_cell_length_c   10.93136585
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.39162805
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   FeSe2NCl6
+_chemical_formula_sum   'Fe4 Se8 N4 Cl24'
+_cell_volume   1203.01821188
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  4  0.32668100  0.19333800  0.01218900  1
+  Se  Se1  4  0.22694700  0.54506500  0.04805200  1
+  Se  Se2  4  0.28811200  0.68308900  0.62282400  1
+  N  N3  4  0.28674000  0.67111100  0.12975400  1
+  Cl  Cl4  4  0.07634200  0.57816400  0.83988600  1
+  Cl  Cl5  4  0.12197200  0.21211200  0.43377600  1
+  Cl  Cl6  4  0.13312900  0.63394900  0.42143300  1
+  Cl  Cl7  4  0.33399500  0.08298500  0.17736100  1
+  Cl  Cl8  4  0.35229800  0.09527700  0.85279800  1
+  Cl  Cl9  4  0.49530400  0.67898400  0.91281800  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaVPO5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.49728357
+_cell_length_b   8.42726917
+_cell_length_c   6.98572884
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.76253825
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   NaVPO5
+_chemical_formula_sum   'Na4 V4 P4 O20'
+_cell_volume   347.32888999
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.24340195  0.08307256  0.72636961  1
+  V  V1  4  0.25437115  0.74083719  0.48057549  1
+  P  P2  4  0.24984195  0.06806884  0.24832896  1
+  O  O3  4  0.06321977  0.17349319  0.09118481  1
+  O  O4  4  0.15505029  0.53633475  0.87418250  1
+  O  O5  4  0.24756365  0.68308431  0.24802686  1
+  O  O6  4  0.35604702  0.53552579  0.63154212  1
+  O  O7  4  0.42810122  0.18235431  0.39863637  1

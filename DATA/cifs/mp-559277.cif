@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLiFeF6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.37315100
+_cell_length_b   8.92291100
+_cell_length_c   10.38543543
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.17244982
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   SrLiFeF6
+_chemical_formula_sum   'Sr4 Li4 Fe4 F24'
+_cell_volume   497.56297925
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  4  0.24607500  0.70837500  0.49663400  1
+  Li  Li1  4  0.28697600  0.07877900  0.73995600  1
+  Fe  Fe2  4  0.21671300  0.08469700  0.25940400  1
+  F  F3  4  0.00638000  0.53846100  0.63884600  1
+  F  F4  4  0.08447600  0.59299500  0.14238500  1
+  F  F5  4  0.11702500  0.24439200  0.64891300  1
+  F  F6  4  0.37451900  0.58110700  0.85383600  1
+  F  F7  4  0.39298000  0.23494800  0.36098700  1
+  F  F8  4  0.49206700  0.04833300  0.14033100  1

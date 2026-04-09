@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu4Ni13C4
+_symmetry_space_group_name_H-M   Cmmm
+_cell_length_a   11.53587266
+_cell_length_b   11.81914548
+_cell_length_c   3.78000839
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   65
+_chemical_formula_structural   Lu4Ni13C4
+_chemical_formula_sum   'Lu8 Ni26 C8'
+_cell_volume   515.38205817
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z'
+  12  'x+1/2, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z'
+  16  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  4  0.00000000  0.31382798  0.00000000  1
+  Lu  Lu1  4  0.15218198  0.00000000  0.00000000  1
+  Ni  Ni2  8  0.10687138  0.17778982  0.50000000  1
+  Ni  Ni3  8  0.18313402  0.39248657  0.50000000  1
+  Ni  Ni4  4  0.12341223  0.50000000  0.00000000  1
+  Ni  Ni5  4  0.25000000  0.25000000  0.00000000  1
+  Ni  Ni6  2  0.00000000  0.50000000  0.50000000  1
+  C  C7  4  0.00000000  0.05736587  0.50000000  1
+  C  C8  4  0.25000000  0.25000000  0.50000000  1

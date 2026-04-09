@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_NiP4H16(NO8)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.09101700
+_cell_length_b   7.31979754
+_cell_length_c   7.74405158
+_cell_angle_alpha   81.67530666
+_cell_angle_beta   71.28201446
+_cell_angle_gamma   88.42980872
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   NiP4H16(NO8)2
+_chemical_formula_sum   'Ni1 P4 H16 N2 O16'
+_cell_volume   376.60491719
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.50000000  0.00000000  1
+  P  P1  2  0.15517200  0.73954500  0.26184000  1
+  P  P2  2  0.25542200  0.21115900  0.74497100  1
+  H  H3  2  0.11247400  0.69026900  0.65836300  1
+  H  H4  2  0.11921700  0.82595500  0.80114400  1
+  H  H5  2  0.24056300  0.97639800  0.03870800  1
+  H  H6  2  0.32064100  0.38628400  0.16394100  1
+  H  H7  2  0.37494100  0.15988300  0.19422700  1
+  H  H8  2  0.41603000  0.29844500  0.33390100  1
+  H  H9  2  0.42541900  0.72191200  0.42225200  1
+  H  H10  2  0.43907700  0.67852500  0.89024200  1
+  N  N11  2  0.41835000  0.29202900  0.19999600  1
+  O  O12  2  0.05134600  0.71549000  0.78642500  1
+  O  O13  2  0.08142000  0.23330400  0.64836300  1
+  O  O14  2  0.19264900  0.61670600  0.11170100  1
+  O  O15  2  0.22758800  0.66849700  0.42202900  1
+  O  O16  2  0.23936700  0.01484400  0.84654600  1
+  O  O17  2  0.24660300  0.36314200  0.85909100  1
+  O  O18  2  0.24884500  0.93763800  0.17201200  1
+  O  O19  2  0.44050200  0.23739900  0.56372400  1

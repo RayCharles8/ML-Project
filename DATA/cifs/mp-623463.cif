@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbMn5Ge3
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   13.98888100
+_cell_length_b   4.11989100
+_cell_length_c   12.19125900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   TbMn5Ge3
+_chemical_formula_sum   'Tb4 Mn20 Ge12'
+_cell_volume   702.61474505
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  4  0.20675300  0.25000000  0.91245000  1
+  Mn  Mn1  4  0.00199300  0.75000000  0.91058700  1
+  Mn  Mn2  4  0.01943400  0.75000000  0.29058700  1
+  Mn  Mn3  4  0.06342500  0.75000000  0.53425200  1
+  Mn  Mn4  4  0.18484100  0.25000000  0.20652100  1
+  Mn  Mn5  4  0.18689700  0.25000000  0.61729600  1
+  Ge  Ge6  4  0.11950200  0.75000000  0.08915500  1
+  Ge  Ge7  4  0.12006300  0.25000000  0.40961800  1
+  Ge  Ge8  4  0.12194700  0.75000000  0.74012200  1

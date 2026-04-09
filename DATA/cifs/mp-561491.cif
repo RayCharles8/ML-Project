@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KNaMg2Si4(O5F)2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   5.35043000
+_cell_length_b   9.17293600
+_cell_length_c   10.42862954
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.35373630
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   KNaMg2Si4(O5F)2
+_chemical_formula_sum   'K2 Na2 Mg4 Si8 O20 F4'
+_cell_volume   501.81204688
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.00000000  0.50000000  0.00000000  1
+  Na  Na1  2  0.00000000  0.00000000  0.50000000  1
+  Mg  Mg2  4  0.00000000  0.33401800  0.50000000  1
+  Si  Si3  8  0.08113350  0.17009350  0.22739500  1
+  O  O4  8  0.14067800  0.18171900  0.38346200  1
+  O  O5  8  0.19190550  0.25258350  0.83874200  1
+  O  O6  4  0.05195800  0.00000000  0.17089400  1
+  F  F7  4  0.09474100  0.50000000  0.39259500  1

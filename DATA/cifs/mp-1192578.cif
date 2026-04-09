@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_K2Ca4U(SiO4)4
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.72230500
+_cell_length_b   6.76571075
+_cell_length_c   9.81058051
+_cell_angle_alpha   98.67428089
+_cell_angle_beta   93.17407982
+_cell_angle_gamma   112.43482088
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   K2Ca4U(SiO4)4
+_chemical_formula_sum   'K2 Ca4 U1 Si4 O16'
+_cell_volume   404.58291987
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.32828800  0.67835800  0.45523400  1
+  Ca  Ca1  2  0.22560900  0.96821900  0.88655800  1
+  Ca  Ca2  2  0.25826900  0.51621700  0.07177000  1
+  U  U3  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si4  2  0.24593600  0.47739600  0.76586200  1
+  Si  Si5  2  0.32587100  0.08494000  0.21200200  1
+  O  O6  2  0.08030300  0.55251700  0.85511000  1
+  O  O7  2  0.14675400  0.34561800  0.60615100  1
+  O  O8  2  0.15884600  0.92619100  0.63422700  1
+  O  O9  2  0.16320800  0.15697900  0.12150700  1
+  O  O10  2  0.25557700  0.02584200  0.36411100  1
+  O  O11  2  0.35431900  0.35760500  0.86142700  1
+  O  O12  2  0.37428800  0.89486200  0.11437100  1
+  O  O13  2  0.43900000  0.70384100  0.73847700  1

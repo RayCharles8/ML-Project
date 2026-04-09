@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca4MgB4H6(CO9)2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   17.92751800
+_cell_length_b   8.71089800
+_cell_length_c   4.52442074
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.98465917
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Ca4MgB4H6(CO9)2
+_chemical_formula_sum   'Ca8 Mg2 B8 H12 C4 O36'
+_cell_volume   691.15455488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  8  0.15589100  0.23069100  0.15854800  1
+  Mg  Mg1  2  0.00000000  0.00000000  0.00000000  1
+  B  B2  4  0.00000000  0.22418000  0.50000000  1
+  B  B3  4  0.09682300  0.00000000  0.61858200  1
+  H  H4  8  0.00639100  0.38691700  0.20552000  1
+  H  H5  4  0.21337400  0.00000000  0.69912500  1
+  C  C6  4  0.19500100  0.50000000  0.75133500  1
+  O  O7  8  0.04416500  0.32109000  0.32606000  1
+  O  O8  8  0.05578050  0.13597650  0.72018900  1
+  O  O9  8  0.21542650  0.36937550  0.64914800  1
+  O  O10  4  0.10109800  0.00000000  0.31056300  1
+  O  O11  4  0.15657900  0.50000000  0.96470000  1
+  O  O12  4  0.17509500  0.00000000  0.82413300  1

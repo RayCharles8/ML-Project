@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K6W2N4O3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.83974100
+_cell_length_b   9.66904200
+_cell_length_c   11.75756398
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.23132201
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   K6W2N4O3
+_chemical_formula_sum   'K12 W4 N8 O6'
+_cell_volume   650.41140817
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.04736500  0.15521700  0.43187200  1
+  K  K1  4  0.20259500  0.52466800  0.45039600  1
+  K  K2  4  0.40471600  0.21236200  0.27972500  1
+  W  W3  4  0.31030800  0.64352400  0.86478800  1
+  N  N4  4  0.04184300  0.67345500  0.86126900  1
+  N  N5  4  0.49032900  0.70067800  0.42272000  1
+  O  O6  4  0.24066000  0.59612300  0.69075100  1
+  O  O7  2  0.50000000  0.00000000  0.50000000  1

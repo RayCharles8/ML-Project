@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tl2ZnN12
+_symmetry_space_group_name_H-M   Pca2_1
+_cell_length_a   20.88356100
+_cell_length_b   6.66731300
+_cell_length_c   7.13904400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   29
+_chemical_formula_structural   Tl2ZnN12
+_chemical_formula_sum   'Tl8 Zn4 N48'
+_cell_volume   994.02076668
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y, z+1/2'
+  4  'x+1/2, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  4  0.00962800  0.31526800  0.35551200  1
+  Tl  Tl1  4  0.19747100  0.29548500  0.12602800  1
+  Zn  Zn2  4  0.13317500  0.93381800  0.60416200  1
+  N  N3  4  0.05061900  0.06112800  0.70474000  1
+  N  N4  4  0.05380200  0.17071200  0.83857500  1
+  N  N5  4  0.05606600  0.27937700  0.96709600  1
+  N  N6  4  0.10110600  0.69956900  0.12199900  1
+  N  N7  4  0.10491300  0.63367700  0.63153400  1
+  N  N8  4  0.11270300  0.83228800  0.22404100  1
+  N  N9  4  0.12488300  0.97208200  0.32452000  1
+  N  N10  4  0.13381800  0.48338900  0.59584700  1
+  N  N11  4  0.15986900  0.33246200  0.55873900  1
+  N  N12  4  0.21038200  0.96051100  0.77256700  1
+  N  N13  4  0.23083700  0.80445000  0.83527700  1
+  N  N14  4  0.24810000  0.65745900  0.39756200  1

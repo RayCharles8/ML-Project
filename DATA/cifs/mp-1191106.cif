@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ScFeB4
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   5.76754000
+_cell_length_b   11.13355900
+_cell_length_c   3.22708100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   ScFeB4
+_chemical_formula_sum   'Sc4 Fe4 B16'
+_cell_volume   207.22134894
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  4  0.12843200  0.14989500  0.00000000  1
+  Fe  Fe1  4  0.13455100  0.41056800  0.00000000  1
+  B  B2  4  0.02297900  0.69377800  0.50000000  1
+  B  B3  4  0.11392500  0.54812600  0.50000000  1
+  B  B4  4  0.13511000  0.96896000  0.50000000  1
+  B  B5  4  0.21183700  0.81465500  0.50000000  1

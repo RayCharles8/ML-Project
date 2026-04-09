@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CrPC5Br3O5
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.79379900
+_cell_length_b   6.91411695
+_cell_length_c   13.82913796
+_cell_angle_alpha   88.01887074
+_cell_angle_beta   87.18002771
+_cell_angle_gamma   87.78222657
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   CrPC5Br3O5
+_chemical_formula_sum   'Cr2 P2 C10 Br6 O10'
+_cell_volume   647.97778508
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  2  0.22111000  0.78003200  0.67270100  1
+  P  P1  2  0.32309900  0.81551400  0.82821900  1
+  C  C2  2  0.02109100  0.08013200  0.29390300  1
+  C  C3  2  0.10515600  0.54149700  0.71686900  1
+  C  C4  2  0.12310400  0.74973800  0.54767300  1
+  C  C5  2  0.33845400  0.01679200  0.62767500  1
+  C  C6  2  0.46476500  0.64686800  0.63397200  1
+  Br  Br7  2  0.10780700  0.73723700  0.95127000  1
+  Br  Br8  2  0.40261700  0.10977200  0.87217700  1
+  Br  Br9  2  0.41377400  0.36584300  0.12578300  1
+  O  O10  2  0.03267700  0.39921600  0.74378900  1
+  O  O11  2  0.05852200  0.73493900  0.47247200  1
+  O  O12  2  0.16994300  0.99759000  0.27704100  1
+  O  O13  2  0.38624300  0.42757600  0.39077100  1
+  O  O14  2  0.40993300  0.15807500  0.59831500  1

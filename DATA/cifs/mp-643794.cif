@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HSO3F
+_symmetry_space_group_name_H-M   P2_12_12_1
+_cell_length_a   5.97551800
+_cell_length_b   8.31710700
+_cell_length_c   9.21656400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   19
+_chemical_formula_structural   HSO3F
+_chemical_formula_sum   'H4 S4 O12 F4'
+_cell_volume   458.05422241
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  4  0.18477600  0.64386900  0.72807500  1
+  S  S1  4  0.20625800  0.03945000  0.45971800  1
+  O  O2  4  0.15381400  0.03245800  0.61323800  1
+  O  O3  4  0.20871300  0.19714600  0.39266800  1
+  O  O4  4  0.22593300  0.64222400  0.62406000  1
+  F  F5  4  0.18605100  0.47211200  0.59332000  1

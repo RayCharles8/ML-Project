@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na5Gd4Si4O16F
+_symmetry_space_group_name_H-M   I-4
+_cell_length_a   11.80891000
+_cell_length_b   11.80891000
+_cell_length_c   5.47447400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   82
+_chemical_formula_structural   Na5Gd4Si4O16F
+_chemical_formula_sum   'Na10 Gd8 Si8 O32 F2'
+_cell_volume   763.41734486
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  'y+1/2, -x+1/2, -z+1/2'
+  7  '-x+1/2, -y+1/2, z+1/2'
+  8  '-y+1/2, x+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.08951650  0.60491750  0.99224350  1
+  Na  Na1  2  0.00000000  0.00000000  0.50000000  1
+  Gd  Gd2  8  0.11607150  0.18339150  0.97841850  1
+  Si  Si3  8  0.10323500  0.75307600  0.49010500  1
+  O  O4  8  0.03459650  0.79350650  0.24415050  1
+  O  O5  8  0.04797950  0.81168750  0.73402150  1
+  O  O6  8  0.10821900  0.61388600  0.51393300  1
+  O  O7  8  0.20268450  0.23436850  0.55950250  1
+  F  F8  2  0.00000000  0.00000000  0.00000000  1

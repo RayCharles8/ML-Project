@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsUCrO6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.59126200
+_cell_length_b   8.44207900
+_cell_length_c   10.63929756
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.53920963
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   CsUCrO6
+_chemical_formula_sum   'Cs4 U4 Cr4 O24'
+_cell_volume   656.90767019
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.03773800  0.73838100  0.86707400  1
+  U  U1  4  0.48935500  0.51757600  0.67715900  1
+  Cr  Cr2  4  0.39680400  0.14335100  0.44333100  1
+  O  O3  4  0.17948800  0.13303300  0.42806700  1
+  O  O4  4  0.24117900  0.55442000  0.62240300  1
+  O  O5  4  0.26340000  0.51962100  0.26294700  1
+  O  O6  4  0.43517200  0.21119800  0.28781000  1
+  O  O7  4  0.46717200  0.55957500  0.89464000  1
+  O  O8  4  0.47421900  0.15686000  0.00662000  1

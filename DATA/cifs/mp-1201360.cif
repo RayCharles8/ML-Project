@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba4MgC4(N4F)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   8.49184900
+_cell_length_b   8.63993600
+_cell_length_c   8.55688570
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.06528132
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ba4MgC4(N4F)2
+_chemical_formula_sum   'Ba8 Mg2 C8 N16 F4'
+_cell_volume   593.37314588
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.21097900  0.16722700  0.58722700  1
+  Ba  Ba1  4  0.24385100  0.67118800  0.74309400  1
+  Mg  Mg2  2  0.50000000  0.00000000  0.00000000  1
+  C  C3  4  0.07654200  0.55500100  0.34034100  1
+  C  C4  4  0.49478700  0.14536200  0.35433000  1
+  N  N5  4  0.06187300  0.11258500  0.23323800  1
+  N  N6  4  0.21720600  0.50085100  0.41047800  1
+  N  N7  4  0.48944100  0.24847200  0.45289900  1
+  N  N8  4  0.49896900  0.54432700  0.24579800  1
+  F  F9  4  0.12967900  0.63080000  0.00230600  1

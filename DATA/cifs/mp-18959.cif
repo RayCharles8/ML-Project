@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y2Be2Fe(SiO5)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   4.79307300
+_cell_length_b   7.57055000
+_cell_length_c   10.04142312
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.54850348
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Y2Be2Fe(SiO5)2
+_chemical_formula_sum   'Y4 Be4 Fe2 Si4 O20'
+_cell_volume   364.34837956
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  4  0.00137000  0.10625700  0.67120500  1
+  Be  Be1  4  0.46583000  0.58697500  0.33451700  1
+  Fe  Fe2  2  0.00000000  0.00000000  0.00000000  1
+  Si  Si3  4  0.48060100  0.22047000  0.42230700  1
+  O  O4  4  0.20171500  0.08749500  0.16846400  1
+  O  O5  4  0.23790600  0.08555100  0.47100800  1
+  O  O6  4  0.30940500  0.65179000  0.19550600  1
+  O  O7  4  0.31363600  0.10652400  0.85831400  1
+  O  O8  4  0.32411200  0.71333900  0.45053100  1

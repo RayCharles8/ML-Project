@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_K3H8RhC4(ClO6)2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   11.61850400
+_cell_length_b   11.98995000
+_cell_length_c   6.44823289
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.86309718
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   K3H8RhC4(ClO6)2
+_chemical_formula_sum   'K6 H16 Rh2 C8 Cl4 O24'
+_cell_volume   801.33914716
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.00000000  0.23078600  0.50000000  1
+  K  K1  2  0.00000000  0.50000000  0.00000000  1
+  H  H2  8  0.12345250  0.25372050  0.07653700  1
+  H  H3  8  0.20933600  0.33627500  0.02152800  1
+  Rh  Rh4  2  0.00000000  0.00000000  0.00000000  1
+  C  C5  8  0.23272950  0.06449150  0.39229100  1
+  Cl  Cl6  4  0.13859700  0.00000000  0.82067400  1
+  O  O7  8  0.12258800  0.30441800  0.95556700  1
+  O  O8  8  0.12610100  0.11126000  0.24003800  1
+  O  O9  8  0.17107400  0.38379800  0.46773200  1

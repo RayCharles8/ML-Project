@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MgTlAs(H6O5)2
+_symmetry_space_group_name_H-M   Pmn2_1
+_cell_length_a   7.05974900
+_cell_length_b   6.25789200
+_cell_length_c   11.44785200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   31
+_chemical_formula_structural   MgTlAs(H6O5)2
+_chemical_formula_sum   'Mg2 Tl2 As2 H24 O20'
+_cell_volume   505.75633393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  2  0.00000000  0.62042400  0.38034300  1
+  Tl  Tl1  2  0.00000000  0.63050000  0.72312400  1
+  As  As2  2  0.00000000  0.00631700  0.00861400  1
+  H  H3  4  0.11425200  0.99982100  0.49896000  1
+  H  H4  4  0.17766800  0.18291300  0.80747700  1
+  H  H5  4  0.17976300  0.38942100  0.02596100  1
+  H  H6  4  0.20436200  0.78363600  0.18962700  1
+  H  H7  4  0.24450200  0.37000800  0.51270400  1
+  H  H8  2  0.00000000  0.17494100  0.34661300  1
+  H  H9  2  0.00000000  0.27922700  0.21762500  1
+  O  O10  4  0.20133800  0.87391700  0.05392100  1
+  O  O11  4  0.20606100  0.52354100  0.50122900  1
+  O  O12  4  0.22342300  0.72207400  0.27017500  1
+  O  O13  2  0.00000000  0.03578900  0.85931900  1
+  O  O14  2  0.00000000  0.25637300  0.07364400  1
+  O  O15  2  0.00000000  0.31184500  0.30393600  1
+  O  O16  2  0.00000000  0.93675500  0.45829400  1

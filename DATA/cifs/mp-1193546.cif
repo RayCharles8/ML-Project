@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Rb2PtC4(N2Cl)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.10834100
+_cell_length_b   9.60165931
+_cell_length_c   9.97968424
+_cell_angle_alpha   89.07091551
+_cell_angle_beta   75.83965895
+_cell_angle_gamma   72.59470206
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Rb2PtC4(N2Cl)2
+_chemical_formula_sum   'Rb4 Pt2 C8 N8 Cl4'
+_cell_volume   629.00073653
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  2  0.12698300  0.17583000  0.56828900  1
+  Rb  Rb1  2  0.28832500  0.34405900  0.04809900  1
+  Pt  Pt2  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt3  1  0.50000000  0.50000000  0.50000000  1
+  C  C4  2  0.06431400  0.07385500  0.16658500  1
+  C  C5  2  0.14868500  0.79511800  0.03850200  1
+  C  C6  2  0.29155800  0.49874000  0.67820200  1
+  C  C7  2  0.39661700  0.71951400  0.49366400  1
+  N  N8  2  0.10526000  0.11591800  0.26181000  1
+  N  N9  2  0.17176100  0.49044300  0.77939300  1
+  N  N10  2  0.23838600  0.67738200  0.06145300  1
+  N  N11  2  0.34390900  0.84639200  0.48625800  1
+  Cl  Cl12  2  0.26428100  0.47195000  0.37947400  1
+  Cl  Cl13  2  0.31125800  0.02104200  0.86110700  1

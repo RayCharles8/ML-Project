@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_La2HfSe5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   12.02685201
+_cell_length_b   8.55404092
+_cell_length_c   7.75866555
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   La2HfSe5
+_chemical_formula_sum   'La8 Hf4 Se20'
+_cell_volume   798.19742385
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  8  0.17199515  0.00000706  0.94239830  1
+  Hf  Hf1  4  0.00865352  0.75000000  0.42712351  1
+  Se  Se2  8  0.07306579  0.03497027  0.32385330  1
+  Se  Se3  4  0.00576673  0.75000000  0.05854569  1
+  Se  Se4  4  0.19000918  0.75000000  0.63954121  1
+  Se  Se5  4  0.20696054  0.25000000  0.65831184  1

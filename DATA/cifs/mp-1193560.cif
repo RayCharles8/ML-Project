@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NbPb2Se2ClO8
+_symmetry_space_group_name_H-M   P2_1
+_cell_length_a   8.75776000
+_cell_length_b   5.50400100
+_cell_length_c   10.99775775
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.27707893
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   4
+_chemical_formula_structural   NbPb2Se2ClO8
+_chemical_formula_sum   'Nb2 Pb4 Se4 Cl2 O16'
+_cell_volume   490.55430731
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  2  0.34116800  0.01696100  0.93238500  1
+  Pb  Pb1  2  0.18532200  0.56663700  0.20381900  1
+  Pb  Pb2  2  0.30846800  0.02251800  0.51727400  1
+  Se  Se3  2  0.11693600  0.51551600  0.79844400  1
+  Se  Se4  2  0.48405900  0.01094200  0.27327900  1
+  Cl  Cl5  2  0.13886100  0.49547500  0.45223600  1
+  O  O6  2  0.08942500  0.96395500  0.26581200  1
+  O  O7  2  0.12383800  0.78709100  0.88414800  1
+  O  O8  2  0.17468200  0.30223100  0.92873600  1
+  O  O9  2  0.31920300  0.94621000  0.12888200  1
+  O  O10  2  0.32685200  0.07686300  0.76687500  1
+  O  O11  2  0.42097200  0.26349500  0.33552100  1
+  O  O12  2  0.43943800  0.78576700  0.36915700  1
+  O  O13  2  0.46891400  0.71096000  0.96350600  1

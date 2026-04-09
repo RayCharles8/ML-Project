@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ba4Bi(IrO4)3
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   10.38700800
+_cell_length_b   5.98602400
+_cell_length_c   30.16640013
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   93.99172219
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Ba4Bi(IrO4)3
+_chemical_formula_sum   'Ba24 Bi6 Ir18 O72'
+_cell_volume   1871.10250396
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00402300  0.00000000  0.71703400  1
+  Ba  Ba1  4  0.00547700  0.00000000  0.12822800  1
+  Ba  Ba2  4  0.15452000  0.50000000  0.61980100  1
+  Ba  Ba3  4  0.16817500  0.50000000  0.46072400  1
+  Ba  Ba4  4  0.17362900  0.50000000  0.20307400  1
+  Ba  Ba5  4  0.17834500  0.50000000  0.04947800  1
+  Bi  Bi6  4  0.17121100  0.50000000  0.33216000  1
+  Bi  Bi7  2  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir8  4  0.01800600  0.00000000  0.41432000  1
+  Ir  Ir9  4  0.14843500  0.50000000  0.91885500  1
+  Ir  Ir10  4  0.16295900  0.50000000  0.83385100  1
+  Ir  Ir11  4  0.17748400  0.50000000  0.74903100  1
+  Ir  Ir12  2  0.00000000  0.00000000  0.50000000  1
+  O  O13  8  0.05370250  0.26081350  0.94881200  1
+  O  O14  8  0.07042650  0.22928250  0.54607300  1
+  O  O15  8  0.09098900  0.26842000  0.78888800  1
+  O  O16  8  0.11270250  0.23811650  0.38331700  1
+  O  O17  8  0.22836900  0.24006000  0.28123800  1
+  O  O18  8  0.23557300  0.26856400  0.87898400  1
+  O  O19  4  0.00234600  0.50000000  0.86865100  1
+  O  O20  4  0.03797600  0.50000000  0.70099600  1
+  O  O21  4  0.11877600  0.00000000  0.63493000  1
+  O  O22  4  0.16113700  0.00000000  0.46535500  1
+  O  O23  4  0.17678000  0.00000000  0.20104600  1
+  O  O24  4  0.21198400  0.00000000  0.03289200  1

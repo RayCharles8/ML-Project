@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaH6CN2ClO2
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   18.45396206
+_cell_length_b   5.09114355
+_cell_length_c   6.43147243
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.10159733
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   NaH6CN2ClO2
+_chemical_formula_sum   'Na4 H24 C4 N8 Cl4 O8'
+_cell_volume   567.44023912
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.00101156  0.68888501  0.73785945  1
+  H  H1  4  0.04319649  0.16386372  0.54219856  1
+  H  H2  4  0.04404743  0.25727195  0.04835211  1
+  H  H3  4  0.16581602  0.19465564  0.89781838  1
+  H  H4  4  0.18012673  0.73715553  0.45215713  1
+  H  H5  4  0.23574505  0.12385308  0.34147133  1
+  H  H6  4  0.24439648  0.78904696  0.11243388  1
+  C  C7  4  0.16166037  0.47584424  0.66729355  1
+  N  N8  4  0.19763256  0.31319390  0.83621142  1
+  N  N9  4  0.20600864  0.63126439  0.59143449  1
+  Cl  Cl10  4  0.11689237  0.91343709  0.10884998  1
+  O  O11  4  0.08875269  0.48464232  0.58399036  1
+  O  O12  2  0.00000000  0.03924466  0.50000000  1
+  O  O13  2  0.00000000  0.37742466  0.00000000  1

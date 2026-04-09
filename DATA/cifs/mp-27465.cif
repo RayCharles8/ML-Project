@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_S8O
+_symmetry_space_group_name_H-M   Pca2_1
+_cell_length_a   13.43906040
+_cell_length_b   8.24946036
+_cell_length_c   8.16610734
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   29
+_chemical_formula_structural   S8O
+_chemical_formula_sum   'S32 O4'
+_cell_volume   905.33545796
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y, z+1/2'
+  4  'x+1/2, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  4  0.02501316  0.48089369  0.64432816  1
+  S  S1  4  0.02726941  0.97760781  0.14756351  1
+  S  S2  4  0.08895188  0.36047398  0.08249351  1
+  S  S3  4  0.08920363  0.17819132  0.25178469  1
+  S  S4  4  0.12141789  0.03535758  0.71597774  1
+  S  S5  4  0.14244868  0.52313341  0.50183183  1
+  S  S6  4  0.20412804  0.92938393  0.54398245  1
+  S  S7  4  0.23599786  0.68722989  0.65379021  1
+  O  O8  4  0.18894680  0.68908607  0.81704891  1

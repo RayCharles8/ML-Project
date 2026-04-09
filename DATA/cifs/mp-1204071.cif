@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2Na2SrAl4F20
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.37969300
+_cell_length_b   20.40078000
+_cell_length_c   8.93534902
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   126.57267781
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Ba2Na2SrAl4F20
+_chemical_formula_sum   'Ba4 Na4 Sr2 Al8 F40'
+_cell_volume   787.56486330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.03101500  0.72238200  0.51426800  1
+  Na  Na1  4  0.25714000  0.59339600  0.25283600  1
+  Sr  Sr2  2  0.00000000  0.00000000  0.00000000  1
+  Al  Al3  4  0.28045700  0.09941400  0.77414900  1
+  Al  Al4  4  0.46421500  0.13589600  0.45564900  1
+  F  F5  4  0.08563800  0.17597200  0.32669100  1
+  F  F6  4  0.14130300  0.59735100  0.92173800  1
+  F  F7  4  0.19545100  0.10454900  0.94393800  1
+  F  F8  4  0.28637100  0.18758800  0.76371800  1
+  F  F9  4  0.29112100  0.01206900  0.79478400  1
+  F  F10  4  0.30210700  0.60091600  0.53497900  1
+  F  F11  4  0.30616300  0.06665300  0.29811900  1
+  F  F12  4  0.36299100  0.70507900  0.88643700  1
+  F  F13  4  0.37889300  0.09382300  0.60509300  1
+  F  F14  4  0.46221600  0.67801100  0.19621000  1

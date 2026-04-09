@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_GaI3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.79607699
+_cell_length_b   6.30382026
+_cell_length_c   12.15654889
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.11032803
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   GaI3
+_chemical_formula_sum   'Ga4 I12'
+_cell_volume   713.50993726
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.19471462  0.00424444  0.04797534  1
+  I  I1  4  0.00130767  0.72253437  0.38505543  1
+  I  I2  4  0.32305274  0.24845557  0.95170905  1
+  I  I3  4  0.33116702  0.73418728  0.70830066  1

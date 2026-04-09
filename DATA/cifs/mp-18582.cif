@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Rb2Ti(Si2O5)3
+_symmetry_space_group_name_H-M   Cc
+_cell_length_a   12.74674779
+_cell_length_b   7.33867168
+_cell_length_c   15.13259140
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.10884010
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   9
+_chemical_formula_structural   Rb2Ti(Si2O5)3
+_chemical_formula_sum   'Rb8 Ti4 Si24 O60'
+_cell_volume   1366.63342516
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.25966093  0.37705058  0.47669596  1
+  Rb  Rb1  4  0.27683872  0.13275843  0.80917030  1
+  Ti  Ti2  4  0.04345771  0.25944568  0.90474602  1
+  Si  Si3  4  0.04626592  0.02883797  0.56760362  1
+  Si  Si4  4  0.08397020  0.44846712  0.24363933  1
+  Si  Si5  4  0.25646497  0.10010599  0.05502070  1
+  Si  Si6  4  0.31747160  0.31946559  0.24458772  1
+  Si  Si7  4  0.48229347  0.06763988  0.03860967  1
+  Si  Si8  4  0.49504707  0.42563745  0.75480694  1
+  O  O9  4  0.03055501  0.49355822  0.95872895  1
+  O  O10  4  0.04800771  0.00644849  0.17389675  1
+  O  O11  4  0.05759846  0.48721265  0.63823077  1
+  O  O12  4  0.05814853  0.01911804  0.84871290  1
+  O  O13  4  0.09642405  0.38238353  0.81108395  1
+  O  O14  4  0.17436575  0.06389087  0.56888491  1
+  O  O15  4  0.19738073  0.23810937  0.97644426  1
+  O  O16  4  0.20020171  0.34149898  0.26596009  1
+  O  O17  4  0.30474266  0.19679749  0.15366865  1
+  O  O18  4  0.35736951  0.00223474  0.52762889  1
+  O  O19  4  0.36473024  0.47941751  0.72742126  1
+  O  O20  4  0.39441107  0.22216730  0.33186200  1
+  O  O21  4  0.47522045  0.28970069  0.03236634  1
+  O  O22  4  0.49526017  0.20289411  0.75718956  1
+  O  O23  4  0.49711339  0.35965310  0.50413846  1

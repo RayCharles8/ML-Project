@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba2Ta6Te2O21
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   16.88397800
+_cell_length_b   5.74668000
+_cell_length_c   9.74284072
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.80475574
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Ba2Ta6Te2O21
+_chemical_formula_sum   'Ba4 Ta12 Te4 O42'
+_cell_volume   938.65772264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.13766800  0.00000000  0.52813100  1
+  Ta  Ta1  4  0.02091100  0.50000000  0.66433100  1
+  Ta  Ta2  4  0.09934400  0.00000000  0.91846300  1
+  Ta  Ta3  4  0.17601000  0.50000000  0.17247100  1
+  Te  Te4  4  0.22580000  0.50000000  0.75343600  1
+  O  O5  8  0.06559850  0.24111250  0.77953000  1
+  O  O6  8  0.14501450  0.24897650  0.05283300  1
+  O  O7  8  0.21732250  0.24075550  0.32979300  1
+  O  O8  4  0.00000000  0.27945300  0.50000000  1
+  O  O9  4  0.08141300  0.50000000  0.27752600  1
+  O  O10  4  0.14227800  0.50000000  0.60385800  1
+  O  O11  4  0.20955000  0.00000000  0.84924800  1
+  O  O12  2  0.00000000  0.00000000  0.00000000  1

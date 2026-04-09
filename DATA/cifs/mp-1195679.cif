@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cs2Th(Si2O5)3
+_symmetry_space_group_name_H-M   Cmc2_1
+_cell_length_a   7.31475292
+_cell_length_b   16.51025391
+_cell_length_c   13.67658044
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   36
+_chemical_formula_structural   Cs2Th(Si2O5)3
+_chemical_formula_sum   'Cs8 Th4 Si24 O60'
+_cell_volume   1651.69912013
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.00000000  0.27270209  0.34482596  1
+  Cs  Cs1  4  0.00000000  0.38291470  0.03706442  1
+  Th  Th2  4  0.00000000  0.12996349  0.69193180  1
+  Si  Si3  8  0.20868293  0.31500481  0.61810086  1
+  Si  Si4  8  0.21557996  0.45528433  0.76692583  1
+  Si  Si5  4  0.00000000  0.04718294  0.43748403  1
+  Si  Si6  4  0.00000000  0.14191226  0.96257896  1
+  O  O7  8  0.17841168  0.17987980  0.01629146  1
+  O  O8  8  0.18170436  0.06157645  0.37082228  1
+  O  O9  8  0.22002813  0.11680229  0.19389278  1
+  O  O10  8  0.22563161  0.22666320  0.66435279  1
+  O  O11  8  0.23716350  0.04186932  0.72255248  1
+  O  O12  4  0.00000000  0.04479857  0.97816601  1
+  O  O13  4  0.00000000  0.11021026  0.52517597  1
+  O  O14  4  0.00000000  0.16829308  0.85122549  1
+  O  O15  4  0.00000000  0.33666874  0.58616369  1
+  O  O16  4  0.00000000  0.44398045  0.79191774  1

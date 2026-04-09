@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ErCrB4
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   5.90757562
+_cell_length_b   11.41954081
+_cell_length_c   3.42718033
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   ErCrB4
+_chemical_formula_sum   'Er4 Cr4 B16'
+_cell_volume   231.20375700
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  4  0.12431907  0.15108598  0.00000000  1
+  Cr  Cr1  4  0.12677388  0.41709005  0.00000000  1
+  B  B2  4  0.02516401  0.69176925  0.50000000  1
+  B  B3  4  0.11361487  0.54695225  0.50000000  1
+  B  B4  4  0.13662149  0.96793471  0.50000000  1
+  B  B5  4  0.21696881  0.81508675  0.50000000  1

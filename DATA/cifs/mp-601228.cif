@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaH2CSO4F3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   10.27020200
+_cell_length_b   7.52370200
+_cell_length_c   10.70764266
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.24988517
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   NaH2CSO4F3
+_chemical_formula_sum   'Na4 H8 C4 S4 O16 F12'
+_cell_volume   771.12424556
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.49835400  0.03097100  0.23127500  1
+  H  H1  4  0.16534500  0.73905100  0.01439400  1
+  H  H2  4  0.22079800  0.73969800  0.08282700  1
+  C  C3  4  0.14345900  0.19135800  0.89466600  1
+  S  S4  4  0.30648300  0.17153600  0.43676600  1
+  O  O5  4  0.26579100  0.50620400  0.89259900  1
+  O  O6  4  0.36351500  0.22501000  0.83721200  1
+  O  O7  4  0.38955600  0.20580600  0.57629900  1
+  O  O8  4  0.47927900  0.73805100  0.61626800  1
+  F  F9  4  0.05564900  0.22917600  0.76988600  1
+  F  F10  4  0.08225400  0.23325800  0.98313500  1
+  F  F11  4  0.17538000  0.01707000  0.90407800  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_VIr
+_symmetry_space_group_name_H-M   Cmcm
+_cell_length_a   7.10757848
+_cell_length_b   11.14279668
+_cell_length_c   11.09404278
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   63
+_chemical_formula_structural   VIr
+_chemical_formula_sum   'V32 Ir32'
+_cell_volume   878.62934929
+_cell_formula_units_Z   32
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'x+1/2, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  8  0.00000000  0.13321405  0.61585327  1
+  V  V1  8  0.00000000  0.14422423  0.13584989  1
+  V  V2  8  0.00000000  0.37747346  0.13269837  1
+  V  V3  8  0.00000000  0.39829532  0.61497849  1
+  Ir  Ir4  8  0.22246597  0.25559928  0.75000000  1
+  Ir  Ir5  8  0.22681563  0.00000000  0.00000000  1
+  Ir  Ir6  8  0.22775273  0.00313588  0.75000000  1
+  Ir  Ir7  8  0.25000000  0.25000000  0.00000000  1

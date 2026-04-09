@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Nb3Se5Cl7
+_symmetry_space_group_name_H-M   P2_1/m
+_cell_length_a   8.04351783
+_cell_length_b   12.76910575
+_cell_length_c   8.35499374
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.79860904
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   11
+_chemical_formula_structural   Nb3Se5Cl7
+_chemical_formula_sum   'Nb6 Se10 Cl14'
+_cell_volume   812.35401345
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  4  0.02522143  0.60939798  0.05904608  1
+  Nb  Nb1  2  0.39879184  0.75000000  0.48320893  1
+  Se  Se2  4  0.17516796  0.52481655  0.85063713  1
+  Se  Se3  4  0.27882583  0.03113486  0.12672777  1
+  Se  Se4  2  0.42344017  0.75000000  0.76259850  1
+  Cl  Cl5  4  0.15309932  0.61650990  0.39540930  1
+  Cl  Cl6  4  0.40588217  0.11843227  0.53433842  1
+  Cl  Cl7  2  0.05481566  0.25000000  0.17939742  1
+  Cl  Cl8  2  0.16131900  0.25000000  0.85638342  1
+  Cl  Cl9  2  0.28205462  0.75000000  0.12945091  1

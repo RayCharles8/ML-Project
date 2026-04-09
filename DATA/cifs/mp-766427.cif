@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2NaZn2H5(C2O7)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.21873700
+_cell_length_b   11.15380200
+_cell_length_c   11.63560208
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.62624716
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   K2NaZn2H5(C2O7)2
+_chemical_formula_sum   'K4 Na2 Zn4 H10 C8 O28'
+_cell_volume   620.52266095
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.03939300  0.16529400  0.07588300  1
+  Na  Na1  2  0.00000000  0.00000000  0.50000000  1
+  Zn  Zn2  4  0.32575100  0.60323400  0.79473500  1
+  H  H3  4  0.05881800  0.69141400  0.18439000  1
+  H  H4  4  0.38398000  0.66864200  0.23168800  1
+  H  H5  2  0.50000000  0.00000000  0.00000000  1
+  C  C6  4  0.28994400  0.07511800  0.81999100  1
+  C  C7  4  0.42752300  0.12751300  0.43432100  1
+  O  O8  4  0.06060400  0.06204600  0.83680700  1
+  O  O9  4  0.21017300  0.16730100  0.44792800  1
+  O  O10  4  0.24360300  0.71006700  0.25682300  1
+  O  O11  4  0.29259300  0.11533500  0.71644300  1
+  O  O12  4  0.33106200  0.62005400  0.96934800  1
+  O  O13  4  0.41344100  0.09206000  0.32473300  1
+  O  O14  4  0.47070000  0.54612700  0.58873700  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Si4MoPt3
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   5.53584079
+_cell_length_b   3.49522379
+_cell_length_c   24.47422252
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   Si4MoPt3
+_chemical_formula_sum   'Si16 Mo4 Pt12'
+_cell_volume   473.55179094
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  4  0.15944500  0.25000000  0.89022293  1
+  Si  Si1  4  0.16783416  0.25000000  0.27430200  1
+  Si  Si2  4  0.17955353  0.25000000  0.51925171  1
+  Si  Si3  4  0.18056971  0.25000000  0.14565895  1
+  Mo  Mo4  4  0.00421138  0.25000000  0.78989939  1
+  Pt  Pt5  4  0.00254391  0.25000000  0.66937803  1
+  Pt  Pt6  4  0.00329424  0.75000000  0.95162189  1
+  Pt  Pt7  4  0.00334742  0.75000000  0.57408199  1

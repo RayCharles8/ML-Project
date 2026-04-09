@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PAuCl4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.45439729
+_cell_length_b   14.76799806
+_cell_length_c   6.19569747
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.60812190
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   PAuCl4
+_chemical_formula_sum   'P4 Au4 Cl16'
+_cell_volume   678.79814794
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  4  0.24427916  0.12990799  0.47751744  1
+  Au  Au1  4  0.45484262  0.23497530  0.48468791  1
+  Cl  Cl2  4  0.01268926  0.17272080  0.58124739  1
+  Cl  Cl3  4  0.16823471  0.07786679  0.18365249  1
+  Cl  Cl4  4  0.30392164  0.01976447  0.65931465  1
+  Cl  Cl5  4  0.32952254  0.65422081  0.50900055  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_H10PtC(N4O)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.12097100
+_cell_length_b   5.73490973
+_cell_length_c   14.77626123
+_cell_angle_alpha   86.72125347
+_cell_angle_beta   82.58439200
+_cell_angle_gamma   82.52301435
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   H10PtC(N4O)2
+_chemical_formula_sum   'H20 Pt2 C2 N16 O4'
+_cell_volume   426.30492099
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  2  0.01499000  0.19128800  0.90646600  1
+  H  H1  2  0.01772500  0.94168800  0.78196100  1
+  H  H2  2  0.05346000  0.61743400  0.24199900  1
+  H  H3  2  0.07080500  0.50067600  0.08873900  1
+  H  H4  2  0.13410500  0.09415100  0.34730000  1
+  H  H5  2  0.18216100  0.55380700  0.76461000  1
+  H  H6  2  0.23944400  0.64209500  0.37046800  1
+  H  H7  2  0.26877300  0.37671900  0.91287700  1
+  H  H8  2  0.32305300  0.05593300  0.43301100  1
+  H  H9  2  0.37706600  0.26400700  0.35019300  1
+  Pt  Pt10  2  0.40626300  0.14309300  0.71181100  1
+  C  C11  2  0.08435000  0.36088400  0.88492900  1
+  N  N12  2  0.12639400  0.38725400  0.78398500  1
+  N  N13  2  0.22443600  0.64103900  0.53801200  1
+  N  N14  2  0.22893600  0.24388000  0.59410200  1
+  N  N15  2  0.23281900  0.44849500  0.56756900  1
+  N  N16  2  0.32393200  0.09562700  0.36434900  1
+  N  N17  2  0.39172300  0.96375300  0.17632100  1
+  N  N18  2  0.41879800  0.78750300  0.94176900  1
+  N  N19  2  0.49535500  0.09244500  0.11774900  1
+  O  O20  2  0.16708300  0.88117600  0.73757000  1
+  O  O21  2  0.34893500  0.59727700  0.31343300  1

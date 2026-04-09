@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NdNiO3
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   5.38857796
+_cell_length_b   7.60451100
+_cell_length_c   5.38376377
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   NdNiO3
+_chemical_formula_sum   'Nd4 Ni4 O12'
+_cell_volume   220.61318188
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  4  0.04032642  0.25000000  0.99183007  1
+  Ni  Ni1  4  0.00000000  0.00000000  0.50000000  1
+  O  O2  8  0.21551086  0.53879243  0.21661312  1
+  O  O3  4  0.00842154  0.75000000  0.57185465  1

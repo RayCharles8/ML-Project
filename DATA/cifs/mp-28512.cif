@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba(ClO3)2
+_symmetry_space_group_name_H-M   Fdd2
+_cell_length_a   11.82631247
+_cell_length_b   13.44748835
+_cell_length_c   7.67537847
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   43
+_chemical_formula_structural   Ba(ClO3)2
+_chemical_formula_sum   'Ba8 Cl16 O48'
+_cell_volume   1220.64766856
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/4, y+3/4, z+3/4'
+  4  'x+1/4, -y+3/4, z+3/4'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/4, y+1/4, z+1/4'
+  8  'x+1/4, -y+1/4, z+1/4'
+  9  'x+1/2, y, z+1/2'
+  10  '-x+1/2, -y, z+1/2'
+  11  '-x+3/4, y+3/4, z+1/4'
+  12  'x+3/4, -y+3/4, z+1/4'
+  13  'x+1/2, y+1/2, z'
+  14  '-x+1/2, -y+1/2, z'
+  15  '-x+3/4, y+1/4, z+3/4'
+  16  'x+3/4, -y+1/4, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  8  0.00000000  0.00000000  0.75030309  1
+  Cl  Cl1  16  0.05073980  0.22978049  0.44028338  1
+  O  O2  16  0.02218293  0.35785975  0.98272204  1
+  O  O3  16  0.03228163  0.19291922  0.88021203  1
+  O  O4  16  0.11995382  0.20255343  0.28853151  1

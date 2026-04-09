@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Eu(In4Rh)2
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   13.90724300
+_cell_length_b   16.22095995
+_cell_length_c   4.38239364
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   Eu(In4Rh)2
+_chemical_formula_sum   'Eu4 In32 Rh8'
+_cell_volume   988.61906152
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  4  0.15608991  0.18051051  0.50000000  1
+  In  In1  4  0.01988594  0.86622187  0.00000000  1
+  In  In2  4  0.05050280  0.31585880  0.00000000  1
+  In  In3  4  0.10153716  0.74642310  0.50000000  1
+  In  In4  4  0.15957098  0.45591408  0.50000000  1
+  In  In5  4  0.16752290  0.62277066  0.00000000  1
+  In  In6  4  0.16961117  0.01176428  0.00000000  1
+  In  In7  4  0.24013993  0.82229403  0.00000000  1
+  In  In8  2  0.00000000  0.00000000  0.50000000  1
+  In  In9  2  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh10  4  0.03420988  0.59546600  0.50000000  1
+  Rh  Rh11  4  0.15434805  0.90385251  0.50000000  1

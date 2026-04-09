@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_RbNaLi6(SiO4)2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   15.87387600
+_cell_length_b   6.36285200
+_cell_length_c   7.88661880
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.57330018
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   RbNaLi6(SiO4)2
+_chemical_formula_sum   'Rb4 Na4 Li24 Si8 O32'
+_cell_volume   796.53325784
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.24461400  0.00000000  0.46894200  1
+  Na  Na1  4  0.00000000  0.25192100  0.00000000  1
+  Li  Li2  8  0.06941250  0.25412150  0.62649100  1
+  Li  Li3  8  0.18700250  0.25786850  0.13372800  1
+  Li  Li4  4  0.06680000  0.00000000  0.28259400  1
+  Li  Li5  4  0.14053400  0.50000000  0.86600200  1
+  Si  Si6  4  0.07072800  0.50000000  0.29166200  1
+  Si  Si7  4  0.14603300  0.00000000  0.85955300  1
+  O  O8  8  0.09919800  0.28109600  0.39062400  1
+  O  O9  8  0.19515700  0.21917600  0.80453600  1
+  O  O10  4  0.03221300  0.50000000  0.74410300  1
+  O  O11  4  0.05297100  0.00000000  0.76111900  1
+  O  O12  4  0.11646900  0.50000000  0.10313600  1
+  O  O13  4  0.13042900  0.00000000  0.06729000  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_InBi2Se4Br
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   21.25881000
+_cell_length_b   4.17206400
+_cell_length_c   12.34930066
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.05286554
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   InBi2Se4Br
+_chemical_formula_sum   'In4 Bi8 Se16 Br4'
+_cell_volume   957.47881622
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  4  0.16291000  0.00000000  0.43724900  1
+  Bi  Bi1  4  0.04950500  0.50000000  0.77113700  1
+  Bi  Bi2  4  0.20265900  0.00000000  0.09692200  1
+  Se  Se3  4  0.03908100  0.00000000  0.22170100  1
+  Se  Se4  4  0.09647600  0.50000000  0.02280700  1
+  Se  Se5  4  0.17807200  0.00000000  0.85640800  1
+  Se  Se6  4  0.21474100  0.50000000  0.34824600  1
+  Br  Br7  4  0.10208800  0.50000000  0.52983400  1

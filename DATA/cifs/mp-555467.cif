@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr2AlCO3F5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.51977300
+_cell_length_b   8.85456800
+_cell_length_c   13.65690351
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.28734855
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Sr2AlCO3F5
+_chemical_formula_sum   'Sr8 Al4 C4 O12 F20'
+_cell_volume   643.86548464
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  4  0.30492000  0.64076500  0.08851500  1
+  Sr  Sr1  4  0.30791200  0.10886100  0.09847400  1
+  Al  Al2  4  0.19689800  0.62804300  0.83035700  1
+  C  C3  4  0.17423300  0.12469600  0.86144700  1
+  O  O4  4  0.00357500  0.12379800  0.91120500  1
+  O  O5  4  0.11802900  0.12898900  0.76327900  1
+  O  O6  4  0.40994000  0.12109400  0.91240700  1
+  F  F7  4  0.08640700  0.00625100  0.41122700  1
+  F  F8  4  0.10599100  0.72437900  0.40872700  1
+  F  F9  4  0.32535300  0.02749400  0.27370900  1
+  F  F10  4  0.33010800  0.72659800  0.26606600  1
+  F  F11  4  0.48984800  0.12867500  0.57003600  1

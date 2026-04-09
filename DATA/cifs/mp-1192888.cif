@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_U8NiS17
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   13.37747999
+_cell_length_b   8.40778066
+_cell_length_c   10.44111833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.43937329
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   U8NiS17
+_chemical_formula_sum   'U16 Ni2 S34'
+_cell_volume   1151.03531801
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  8  0.05778522  0.24369618  0.70568164  1
+  U  U1  4  0.18488405  0.50000000  0.02024110  1
+  U  U2  4  0.20496973  0.00000000  0.45421855  1
+  Ni  Ni3  2  0.00000000  0.00000000  0.00000000  1
+  S  S4  8  0.12775522  0.30344629  0.46631889  1
+  S  S5  8  0.13285549  0.19124634  0.97045620  1
+  S  S6  4  0.02043088  0.50000000  0.16995133  1
+  S  S7  4  0.05544513  0.00000000  0.22478671  1
+  S  S8  4  0.19739698  0.50000000  0.75425027  1
+  S  S9  4  0.20859717  0.00000000  0.72016166  1
+  S  S10  2  0.00000000  0.00000000  0.50000000  1

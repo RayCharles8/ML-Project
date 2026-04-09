@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce2AlGe6
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   8.43682400
+_cell_length_b   8.63516600
+_cell_length_c   10.67514292
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.60525154
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Ce2AlGe6
+_chemical_formula_sum   'Ce8 Al4 Ge24'
+_cell_volume   761.82112059
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  8  0.08491250  0.24869950  0.33643300  1
+  Al  Al1  4  0.19962200  0.00000000  0.80136500  1
+  Ge  Ge2  8  0.22038450  0.28539350  0.88392800  1
+  Ge  Ge3  4  0.00817300  0.50000000  0.88362900  1
+  Ge  Ge4  4  0.06725700  0.00000000  0.11605900  1
+  Ge  Ge5  4  0.13855800  0.50000000  0.58445800  1
+  Ge  Ge6  4  0.14716900  0.00000000  0.56221900  1

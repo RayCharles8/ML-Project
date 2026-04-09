@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ga2NiP3H8NO14
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   13.23561894
+_cell_length_b   10.08912892
+_cell_length_c   8.90586766
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.66288069
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   Ga2NiP3H8NO14
+_chemical_formula_sum   'Ga8 Ni4 P12 H32 N4 O56'
+_cell_volume   1133.18929383
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  8  0.17091659  0.07384875  0.06896896  1
+  Ni  Ni1  4  0.00000000  0.27658188  0.25000000  1
+  P  P2  8  0.21026558  0.37409640  0.17795946  1
+  P  P3  4  0.00000000  0.00185710  0.25000000  1
+  H  H4  8  0.04448456  0.31300574  0.83735705  1
+  H  H5  8  0.04747847  0.43473014  0.70738000  1
+  H  H6  8  0.14263482  0.22429768  0.54311630  1
+  H  H7  8  0.14819247  0.37369150  0.49260424  1
+  N  N8  4  0.00000000  0.37297369  0.75000000  1
+  O  O9  8  0.05707347  0.09042405  0.88505557  1
+  O  O10  8  0.07336254  0.09986447  0.19994892  1
+  O  O11  8  0.09860484  0.39946951  0.18380387  1
+  O  O12  8  0.10152420  0.29643878  0.47895452  1
+  O  O13  8  0.20597144  0.09154458  0.66235139  1
+  O  O14  8  0.22697692  0.46050273  0.04530419  1
+  O  O15  8  0.23653206  0.22908540  0.15451285  1

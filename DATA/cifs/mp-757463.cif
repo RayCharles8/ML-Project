@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsFeBP2HO9
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.48155900
+_cell_length_b   8.72368100
+_cell_length_c   9.93674968
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   102.84764568
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   CsFeBP2HO9
+_chemical_formula_sum   'Cs4 Fe4 B4 P8 H4 O36'
+_cell_volume   801.33259144
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  4  0.19379100  0.60895800  0.55453300  1
+  Fe  Fe1  4  0.20580800  0.15361100  0.42901600  1
+  B  B2  4  0.34100000  0.54365800  0.19738700  1
+  P  P3  4  0.07493900  0.07214000  0.70213200  1
+  P  P4  4  0.41842700  0.23314300  0.21380600  1
+  H  H5  4  0.39850000  0.58595400  0.00973800  1
+  O  O6  4  0.07317200  0.00430600  0.31302200  1
+  O  O7  4  0.08781400  0.16566000  0.57441100  1
+  O  O8  4  0.09960300  0.16887200  0.83547000  1
+  O  O9  4  0.19622800  0.55729100  0.22824900  1
+  O  O10  4  0.31824000  0.54107000  0.04360400  1
+  O  O11  4  0.33990100  0.13156000  0.29971900  1
+  O  O12  4  0.35937200  0.21872700  0.05811100  1
+  O  O13  4  0.41730100  0.68500100  0.25355700  1
+  O  O14  4  0.42113600  0.09467300  0.76150400  1

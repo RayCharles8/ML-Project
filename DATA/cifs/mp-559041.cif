@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TlMo2Cl7O2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.26701900
+_cell_length_b   9.62580344
+_cell_length_c   10.28145424
+_cell_angle_alpha   103.51288780
+_cell_angle_beta   90.43926368
+_cell_angle_gamma   109.13855377
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   TlMo2Cl7O2
+_chemical_formula_sum   'Tl2 Mo4 Cl14 O4'
+_cell_volume   657.85084768
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  2  0.22832500  0.75611500  0.93509600  1
+  Mo  Mo1  2  0.22394200  0.14557500  0.79009600  1
+  Mo  Mo2  2  0.36551000  0.62646300  0.40420400  1
+  Cl  Cl3  2  0.08693100  0.34534800  0.84369700  1
+  Cl  Cl4  2  0.10455000  0.39622700  0.34445900  1
+  Cl  Cl5  2  0.25095400  0.15781300  0.02248900  1
+  Cl  Cl6  2  0.29055200  0.19814700  0.56217400  1
+  Cl  Cl7  2  0.41216900  0.59740200  0.62661600  1
+  Cl  Cl8  2  0.42386800  0.59725200  0.16920200  1
+  Cl  Cl9  2  0.46036700  0.01857300  0.76787500  1
+  O  O10  2  0.01783700  0.99565500  0.72996600  1
+  O  O11  2  0.25038600  0.75533900  0.43407900  1

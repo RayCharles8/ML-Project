@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K2PtC4(SN)4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   4.47118000
+_cell_length_b   15.27173600
+_cell_length_c   11.48446783
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   102.62863937
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   K2PtC4(SN)4
+_chemical_formula_sum   'K4 Pt2 C8 S8 N8'
+_cell_volume   765.21880482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.34495900  0.68845700  0.46131500  1
+  Pt  Pt1  2  0.00000000  0.00000000  0.00000000  1
+  C  C2  4  0.01035000  0.07758500  0.77538800  1
+  C  C3  4  0.22112000  0.15563600  0.28828600  1
+  S  S4  4  0.16028300  0.16044900  0.42326300  1
+  S  S5  4  0.17618400  0.59318400  0.85609700  1
+  N  N6  4  0.14273000  0.06523600  0.87829100  1
+  N  N7  4  0.26295800  0.15293800  0.18944800  1

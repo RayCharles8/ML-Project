@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaAl4S7
+_symmetry_space_group_name_H-M   Pmn2_1
+_cell_length_a   14.91800445
+_cell_length_b   6.25334407
+_cell_length_c   5.92746583
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   31
+_chemical_formula_structural   BaAl4S7
+_chemical_formula_sum   'Ba2 Al8 S14'
+_cell_volume   552.95796279
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  2  0.00000000  0.65683328  0.98570503  1
+  Al  Al1  4  0.11956272  0.17052996  0.58920433  1
+  Al  Al2  4  0.24795597  0.68478103  0.57227504  1
+  S  S3  4  0.11708173  0.82817823  0.48437844  1
+  S  S4  4  0.11966943  0.19344497  0.96618677  1
+  S  S5  4  0.24841550  0.33322119  0.46097215  1
+  S  S6  2  0.00000000  0.35378236  0.47506151  1

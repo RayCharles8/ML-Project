@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na3As
+_symmetry_space_group_name_H-M   P6_3cm
+_cell_length_a   8.72295750
+_cell_length_b   8.72295750
+_cell_length_c   8.93773487
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   185
+_chemical_formula_structural   Na3As
+_chemical_formula_sum   'Na18 As6'
+_cell_volume   588.95974591
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x-y, x, z+1/2'
+  3  '-y, x-y, z'
+  4  '-x, -y, z+1/2'
+  5  '-x+y, -x, z'
+  6  'y, -x+y, z+1/2'
+  7  'y, x, z'
+  8  'x, x-y, z+1/2'
+  9  'x-y, -y, z'
+  10  '-y, -x, z+1/2'
+  11  '-x, -x+y, z'
+  12  '-x+y, y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  6  0.00000000  0.30096067  0.58184627  1
+  Na  Na1  6  0.00000000  0.36125844  0.91926970  1
+  Na  Na2  4  0.33333333  0.66666667  0.72840472  1
+  Na  Na3  2  0.00000000  0.00000000  0.29231564  1
+  As  As4  6  0.00000000  0.33074170  0.25077512  1

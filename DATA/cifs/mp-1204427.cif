@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Cu2Bi8Pb6S19
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   27.42416400
+_cell_length_b   4.21978000
+_cell_length_c   20.74335478
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   130.81195306
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Cu2Bi8Pb6S19
+_chemical_formula_sum   'Cu4 Bi16 Pb12 S38'
+_cell_volume   1816.84142084
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.04967400  0.50000000  0.08896200  1
+  Bi  Bi1  4  0.14422700  0.00000000  0.04223500  1
+  Bi  Bi2  4  0.16311800  0.00000000  0.46100500  1
+  Bi  Bi3  4  0.17541600  0.50000000  0.89544700  1
+  Bi  Bi4  4  0.19887200  0.00000000  0.29253200  1
+  Pb  Pb5  4  0.00856600  0.50000000  0.40747100  1
+  Pb  Pb6  4  0.03278800  0.50000000  0.22316200  1
+  Pb  Pb7  4  0.14492400  0.00000000  0.65456000  1
+  S  S8  4  0.03880200  0.00000000  0.33447600  1
+  S  S9  4  0.06475300  0.50000000  0.99292700  1
+  S  S10  4  0.07287500  0.00000000  0.16100000  1
+  S  S11  4  0.09989700  0.00000000  0.88529400  1
+  S  S12  4  0.12831000  0.50000000  0.72650900  1
+  S  S13  4  0.15683100  0.50000000  0.54401100  1
+  S  S14  4  0.17414500  0.50000000  0.37489100  1
+  S  S15  4  0.21388800  0.50000000  0.22624400  1
+  S  S16  4  0.23980300  0.50000000  0.06859500  1
+  S  S17  2  0.00000000  0.00000000  0.50000000  1

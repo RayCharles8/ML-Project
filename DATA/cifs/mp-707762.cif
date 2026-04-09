@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K2CaH8(N3O)4
+_symmetry_space_group_name_H-M   Ccce
+_cell_length_a   11.15252600
+_cell_length_b   18.88254200
+_cell_length_c   6.21654200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   68
+_chemical_formula_structural   K2CaH8(N3O)4
+_chemical_formula_sum   'K8 Ca4 H32 N48 O16'
+_cell_volume   1309.12939909
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x, -y, -z'
+  4  '-x, y, -z'
+  5  '-x+1/2, -y, -z+1/2'
+  6  'x+1/2, y, -z+1/2'
+  7  '-x+1/2, y, z+1/2'
+  8  'x+1/2, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, z'
+  11  'x+1/2, -y+1/2, -z'
+  12  '-x+1/2, y+1/2, -z'
+  13  '-x, -y+1/2, -z+1/2'
+  14  'x, y+1/2, -z+1/2'
+  15  '-x, y+1/2, z+1/2'
+  16  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  8  0.00000000  0.16850500  0.00000000  1
+  Ca  Ca1  4  0.00000000  0.00000000  0.50000000  1
+  H  H2  16  0.12917100  0.14175800  0.52031600  1
+  H  H3  16  0.19372900  0.08542300  0.66596600  1
+  N  N4  16  0.13141600  0.03771100  0.15332000  1
+  N  N5  16  0.16055700  0.21577300  0.33168000  1
+  N  N6  8  0.13108000  0.00000000  0.00000000  1
+  N  N7  8  0.25000000  0.25000000  0.33298900  1
+  O  O8  16  0.11348100  0.39712200  0.12616400  1

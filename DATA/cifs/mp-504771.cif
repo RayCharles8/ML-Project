@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaCo8P5
+_symmetry_space_group_name_H-M   Pmmn
+_cell_length_a   3.57890738
+_cell_length_b   10.41575422
+_cell_length_c   9.20903432
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   59
+_chemical_formula_structural   LaCo8P5
+_chemical_formula_sum   'La2 Co16 P10'
+_cell_volume   343.28535327
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x+1/2, y+1/2, -z'
+  5  '-x+1/2, -y+1/2, -z'
+  6  'x+1/2, y+1/2, -z'
+  7  '-x, y, z'
+  8  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  2  0.00000000  0.00000000  0.82466913  1
+  Co  Co1  4  0.00000000  0.16956796  0.51956350  1
+  Co  Co2  4  0.00000000  0.24272434  0.11069365  1
+  Co  Co3  4  0.00000000  0.35423836  0.69658628  1
+  Co  Co4  2  0.00000000  0.00000000  0.15691411  1
+  Co  Co5  2  0.00000000  0.50000000  0.45776620  1
+  P  P6  4  0.00000000  0.31033603  0.33943870  1
+  P  P7  4  0.00000000  0.38001346  0.93348004  1
+  P  P8  2  0.00000000  0.00000000  0.39067557  1

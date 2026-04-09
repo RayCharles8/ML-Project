@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_PtC2S2(O4F)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.71836400
+_cell_length_b   15.31355400
+_cell_length_c   11.92528243
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   129.49728888
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   PtC2S2(O4F)2
+_chemical_formula_sum   'Pt4 C8 S8 O32 F8'
+_cell_volume   1087.65940222
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  4  0.27284600  0.63822300  0.30333800  1
+  C  C1  4  0.44515800  0.60475500  0.24911200  1
+  C  C2  4  0.46102300  0.73505400  0.40809300  1
+  S  S3  4  0.09281800  0.05736600  0.72355700  1
+  S  S4  4  0.13227700  0.67847300  0.49894300  1
+  O  O5  4  0.04940400  0.53941300  0.18266500  1
+  O  O6  4  0.05823500  0.20685900  0.01631000  1
+  O  O7  4  0.06617000  0.66963200  0.34876400  1
+  O  O8  4  0.11453300  0.60392400  0.87081800  1
+  O  O9  4  0.24377000  0.07194800  0.87738300  1
+  O  O10  4  0.34847900  0.71824000  0.60439100  1
+  O  O11  4  0.42604600  0.20628500  0.52853900  1
+  O  O12  4  0.44911900  0.08152900  0.28140800  1
+  F  F13  4  0.16716600  0.57773700  0.54606300  1
+  F  F14  4  0.23339800  0.08377800  0.67090400  1

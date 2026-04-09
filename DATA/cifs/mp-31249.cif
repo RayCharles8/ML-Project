@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La2Te4O11
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   12.82133853
+_cell_length_b   5.30430552
+_cell_length_c   16.48551715
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.43243662
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   La2Te4O11
+_chemical_formula_sum   'La8 Te16 O44'
+_cell_volume   1080.72870967
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  8  0.11847850  0.25466534  0.53800808  1
+  Te  Te1  8  0.11871071  0.72807881  0.70265251  1
+  Te  Te2  8  0.13148706  0.27992339  0.87124364  1
+  O  O3  8  0.02637466  0.40271718  0.10282232  1
+  O  O4  8  0.07450585  0.12377326  0.95202472  1
+  O  O5  8  0.14543953  0.05014179  0.67220757  1
+  O  O6  8  0.20660445  0.46273232  0.44112299  1
+  O  O7  8  0.24929385  0.42882468  0.12884955  1
+  O  O8  4  0.00000000  0.14790984  0.25000000  1

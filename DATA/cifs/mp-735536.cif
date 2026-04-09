@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaV2H2(Se2O7)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   9.88786900
+_cell_length_b   7.20611900
+_cell_length_c   10.01289928
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.52513264
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   BaV2H2(Se2O7)2
+_chemical_formula_sum   'Ba2 V4 H4 Se8 O28'
+_cell_volume   638.35186497
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  2  0.50000000  0.00000000  0.50000000  1
+  V  V1  4  0.29452900  0.52596400  0.55473100  1
+  H  H2  4  0.13086600  0.56869700  0.94552300  1
+  Se  Se3  4  0.05540300  0.57387900  0.68879600  1
+  Se  Se4  4  0.31516100  0.50518200  0.24891300  1
+  O  O5  4  0.05396100  0.00294500  0.35715400  1
+  O  O6  4  0.07331500  0.59021100  0.41932100  1
+  O  O7  4  0.22876200  0.02008200  0.21763400  1
+  O  O8  4  0.27733000  0.65390500  0.10032500  1
+  O  O9  4  0.30429100  0.18957100  0.00376300  1
+  O  O10  4  0.34785200  0.65270600  0.39885000  1
+  O  O11  4  0.49602900  0.06599200  0.78143800  1

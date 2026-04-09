@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LuGe2Os
+_symmetry_space_group_name_H-M   Pbam
+_cell_length_a   9.63303000
+_cell_length_b   10.55251900
+_cell_length_c   8.35533500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   55
+_chemical_formula_structural   LuGe2Os
+_chemical_formula_sum   'Lu12 Ge24 Os12'
+_cell_volume   849.34263038
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  8  0.17743900  0.55034700  0.24559800  1
+  Lu  Lu1  4  0.16450200  0.82289100  0.00000000  1
+  Ge  Ge2  8  0.15723400  0.81996100  0.34747700  1
+  Ge  Ge3  4  0.03599900  0.38214900  0.00000000  1
+  Ge  Ge4  4  0.04760000  0.38305900  0.50000000  1
+  Ge  Ge5  4  0.12754200  0.09530400  0.50000000  1
+  Ge  Ge6  4  0.13089900  0.10007700  0.00000000  1
+  Os  Os7  8  0.08950300  0.26358700  0.24986000  1
+  Os  Os8  4  0.00000000  0.00000000  0.24831300  1
